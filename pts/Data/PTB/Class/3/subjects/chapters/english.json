@@ -1,0 +1,1803 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 81,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "English",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258654169842.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1003,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 81,
+            "ChapterName": "CHAP 13: Helping others",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 81,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "English",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258654169842.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1004,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 81,
+            "ChapterName": "CHAP 14: Respect for Elders",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 81,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "English",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258654169842.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1005,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 81,
+            "ChapterName": "CHAP 15: Self, People and Places",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 81,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "English",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258654169842.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1006,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 81,
+            "ChapterName": "CHAP 16: How to Stay Safe",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 81,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "English",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258654169842.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1007,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 81,
+            "ChapterName": "CHAP 17: Festivals",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 81,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "English",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258654169842.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1008,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 81,
+            "ChapterName": "CHAP 18: Gender Equality",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 81,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "English",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258654169842.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1009,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 81,
+            "ChapterName": "CHAP 19: Doing your own work!",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 81,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "English",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258654169842.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1010,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 81,
+            "ChapterName": "Poem 20: Nature",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 81,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "English",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258654169842.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1011,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 81,
+            "ChapterName": "CHAP 21: Crisis Awareness",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 81,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "English",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258654169842.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1012,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 81,
+            "ChapterName": "CHAP 22: Keeping the Environment",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 81,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "English",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258654169842.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1013,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 81,
+            "ChapterName": "Poem 23: Manners",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 81,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "English",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258654169842.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1014,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 81,
+            "ChapterName": "CHAP 24: Famous Personalities",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 81,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "English",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341258654169842.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1003,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 81,
+                "ChapterName": "CHAP 13: Helping others",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 81,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "English",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258654169842.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2075,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 81,
+            "ChapterID": 1003,
+            "TopicRef": "13",
+            "TopicName": "Helping Others",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 81,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "English",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341258654169842.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1004,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 81,
+                "ChapterName": "CHAP 14: Respect for Elders",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 81,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "English",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258654169842.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2076,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 81,
+            "ChapterID": 1004,
+            "TopicRef": "14",
+            "TopicName": "Respect for Elders",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 81,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "English",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341258654169842.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1005,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 81,
+                "ChapterName": "CHAP 15: Self, People and Places",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 81,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "English",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258654169842.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2077,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 81,
+            "ChapterID": 1005,
+            "TopicRef": "15",
+            "TopicName": "Self, People and Places",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 81,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "English",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341258654169842.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1006,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 81,
+                "ChapterName": "CHAP 16: How to Stay Safe",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 81,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "English",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258654169842.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2078,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 81,
+            "ChapterID": 1006,
+            "TopicRef": "16",
+            "TopicName": "How to Stay Safe",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 81,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "English",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341258654169842.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1007,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 81,
+                "ChapterName": "CHAP 17: Festivals",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 81,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "English",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258654169842.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2079,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 81,
+            "ChapterID": 1007,
+            "TopicRef": "17",
+            "TopicName": "Festivals",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 81,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "English",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341258654169842.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1008,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 81,
+                "ChapterName": "CHAP 18: Gender Equality",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 81,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "English",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258654169842.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2080,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 81,
+            "ChapterID": 1008,
+            "TopicRef": "18",
+            "TopicName": "Gender Equality",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 81,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "English",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341258654169842.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1009,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 81,
+                "ChapterName": "CHAP 19: Doing your own work!",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 81,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "English",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258654169842.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2081,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 81,
+            "ChapterID": 1009,
+            "TopicRef": "19",
+            "TopicName": "Doing your own work!",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 81,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "English",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341258654169842.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1010,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 81,
+                "ChapterName": "Poem 20: Nature",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 81,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "English",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258654169842.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2082,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 81,
+            "ChapterID": 1010,
+            "TopicRef": "20",
+            "TopicName": "Nature",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 81,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "English",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341258654169842.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1011,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 81,
+                "ChapterName": "CHAP 21: Crisis Awareness",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 81,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "English",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258654169842.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2083,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 81,
+            "ChapterID": 1011,
+            "TopicRef": "21",
+            "TopicName": "Crisis Awareness",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 81,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "English",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341258654169842.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1012,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 81,
+                "ChapterName": "CHAP 22: Keeping the Environment",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 81,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "English",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258654169842.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2084,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 81,
+            "ChapterID": 1012,
+            "TopicRef": "22",
+            "TopicName": "Keeping the Environment",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 81,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "English",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341258654169842.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1013,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 81,
+                "ChapterName": "Poem 23: Manners",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 81,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "English",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258654169842.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2085,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 81,
+            "ChapterID": 1013,
+            "TopicRef": "23",
+            "TopicName": "Manners",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 81,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "English",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341258654169842.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1014,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 81,
+                "ChapterName": "CHAP 24: Famous Personalities",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 81,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "English",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258654169842.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2086,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 81,
+            "ChapterID": 1014,
+            "TopicRef": "24",
+            "TopicName": "Famous Personalities",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

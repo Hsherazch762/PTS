@@ -1,0 +1,909 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 77,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "Social Studies",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255415416391.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 920,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 77,
+            "ChapterName": "CHAP 1:MAP AND GLOBLE SKILLS",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 77,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "Social Studies",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255415416391.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 921,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 77,
+            "ChapterName": "CHAP 2: OUR PAST",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 77,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "Social Studies",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255415416391.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 922,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 77,
+            "ChapterName": "CHAP 3:Our Land and its people",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 77,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "Social Studies",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255415416391.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 923,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 77,
+            "ChapterName": "Chap 4: The way we govern Ourselves",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 77,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "Social Studies",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255415416391.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 924,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 77,
+            "ChapterName": "Chap 5:ECONOMICS: THE CHOICES WE MAKE",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 77,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "Social Studies",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255415416391.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 925,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 77,
+            "ChapterName": "CHAP 6:THE WAY OF LIVING TOGETHER",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 77,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "Social Studies",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255415416391.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 920,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 77,
+                "ChapterName": "CHAP 1:MAP AND GLOBLE SKILLS",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 77,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "Social Studies",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255415416391.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1959,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 77,
+            "ChapterID": 920,
+            "TopicRef": "1",
+            "TopicName": "MAP AND GLOBLE SKILLS",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 77,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "Social Studies",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255415416391.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 921,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 77,
+                "ChapterName": "CHAP 2: OUR PAST",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 77,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "Social Studies",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255415416391.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1960,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 77,
+            "ChapterID": 921,
+            "TopicRef": "2",
+            "TopicName": "OUR PAST",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 77,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "Social Studies",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255415416391.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 922,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 77,
+                "ChapterName": "CHAP 3:Our Land and its people",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 77,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "Social Studies",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255415416391.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1961,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 77,
+            "ChapterID": 922,
+            "TopicRef": "3",
+            "TopicName": "Our Land and its people",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 77,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "Social Studies",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255415416391.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 923,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 77,
+                "ChapterName": "Chap 4: The way we govern Ourselves",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 77,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "Social Studies",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255415416391.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1962,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 77,
+            "ChapterID": 923,
+            "TopicRef": "4",
+            "TopicName": "The way we govern Ourselves",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 77,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "Social Studies",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255415416391.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 924,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 77,
+                "ChapterName": "Chap 5:ECONOMICS: THE CHOICES WE MAKE",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 77,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "Social Studies",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255415416391.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1963,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 77,
+            "ChapterID": 924,
+            "TopicRef": "5",
+            "TopicName": "ECONOMICS: THE CHOICES WE MAKE",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 77,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "Social Studies",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255415416391.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 925,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 77,
+                "ChapterName": "CHAP 6:THE WAY OF LIVING TOGETHER",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 77,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "Social Studies",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255415416391.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1964,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 77,
+            "ChapterID": 925,
+            "TopicRef": "6",
+            "TopicName": "THE WAY OF LIVING TOGETHER",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

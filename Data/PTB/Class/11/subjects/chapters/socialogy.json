@@ -1,0 +1,1952 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 113,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوشیالوجی",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "ChapterID": 1479,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 113,
+            "ChapterName": "باب نمبر 1: تعارف عمرانیات",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 113,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوشیالوجی",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "ChapterID": 1480,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 113,
+            "ChapterName": "باب نمبر 2: عمرانیات اور سائنس کا تعلق",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 113,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوشیالوجی",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "ChapterID": 1481,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 113,
+            "ChapterName": "باب نمبر 3: معاشرتی تفاعل اور معاشرتی عمل",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 113,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوشیالوجی",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "ChapterID": 1482,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 113,
+            "ChapterName": "باب نمبر 4: معاشرتی گروہ",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 113,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوشیالوجی",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "ChapterID": 1483,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 113,
+            "ChapterName": "باب نمبر 5: منصب اور کار منصب",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 113,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوشیالوجی",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "ChapterID": 1484,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 113,
+            "ChapterName": "باب نمبر 6: معاشرتی معمولات و مستحبات",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 113,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوشیالوجی",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "ChapterID": 1485,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 113,
+            "ChapterName": "باب نمبر 7: معاشرتی انحراف وسماجی ضبط",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 113,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوشیالوجی",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "ChapterID": 1486,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 113,
+            "ChapterName": "باب نمبر 8: معاشرتی اقدار",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 113,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوشیالوجی",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "ChapterID": 1487,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 113,
+            "ChapterName": "باب نمبر 9: معاشرہ",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 113,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوشیالوجی",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "ChapterID": 1488,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 113,
+            "ChapterName": "باب نمبر 10: ثقافت",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 113,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوشیالوجی",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "ChapterID": 1489,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 113,
+            "ChapterName": "باب نمبر 11: معاشرتی ادارے",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 113,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوشیالوجی",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "ChapterID": 1490,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 113,
+            "ChapterName": "باب نمبر 12: معاشرتی درجہ بندی و معاشرتی حرکت پذیری",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 113,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوشیالوجی",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "ChapterID": 1491,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 113,
+            "ChapterName": "باب نمبر 13: معاشرتی تغیر",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 113,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "سوشیالوجی",
+                    "Category": "F.A",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 1479,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 113,
+                "ChapterName": "باب نمبر 1: تعارف عمرانیات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 113,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوشیالوجی",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 2782,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 113,
+            "ChapterID": 1479,
+            "TopicRef": ".",
+            "TopicName": "تعارف عمرانیات",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 113,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "سوشیالوجی",
+                    "Category": "F.A",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 1480,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 113,
+                "ChapterName": "باب نمبر 2: عمرانیات اور سائنس کا تعلق",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 113,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوشیالوجی",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 2783,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 113,
+            "ChapterID": 1480,
+            "TopicRef": ".",
+            "TopicName": "عمرانیات اور سائنس کا تعلق",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 113,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "سوشیالوجی",
+                    "Category": "F.A",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 1481,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 113,
+                "ChapterName": "باب نمبر 3: معاشرتی تفاعل اور معاشرتی عمل",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 113,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوشیالوجی",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 2784,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 113,
+            "ChapterID": 1481,
+            "TopicRef": ".",
+            "TopicName": "معاشرتی  تفاعل اور معاشرتی عمل",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 113,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "سوشیالوجی",
+                    "Category": "F.A",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 1482,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 113,
+                "ChapterName": "باب نمبر 4: معاشرتی گروہ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 113,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوشیالوجی",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 2785,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 113,
+            "ChapterID": 1482,
+            "TopicRef": ".",
+            "TopicName": "معاشرتی گروہ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 113,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "سوشیالوجی",
+                    "Category": "F.A",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 1483,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 113,
+                "ChapterName": "باب نمبر 5: منصب اور کار منصب",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 113,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوشیالوجی",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 2786,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 113,
+            "ChapterID": 1483,
+            "TopicRef": ".",
+            "TopicName": "منصب اور کار منصب",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 113,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "سوشیالوجی",
+                    "Category": "F.A",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 1484,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 113,
+                "ChapterName": "باب نمبر 6: معاشرتی معمولات و مستحبات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 113,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوشیالوجی",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 2787,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 113,
+            "ChapterID": 1484,
+            "TopicRef": ".",
+            "TopicName": "معاشرتی معوملات و مستحبات",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 113,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "سوشیالوجی",
+                    "Category": "F.A",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 1485,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 113,
+                "ChapterName": "باب نمبر 7: معاشرتی انحراف وسماجی ضبط",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 113,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوشیالوجی",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 2788,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 113,
+            "ChapterID": 1485,
+            "TopicRef": ".",
+            "TopicName": "معاشرتی انحراف و سماجی ضبط",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 113,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "سوشیالوجی",
+                    "Category": "F.A",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 1486,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 113,
+                "ChapterName": "باب نمبر 8: معاشرتی اقدار",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 113,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوشیالوجی",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 2789,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 113,
+            "ChapterID": 1486,
+            "TopicRef": ".",
+            "TopicName": "معاشرتی اقدار",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 113,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "سوشیالوجی",
+                    "Category": "F.A",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 1487,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 113,
+                "ChapterName": "باب نمبر 9: معاشرہ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 113,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوشیالوجی",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 2790,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 113,
+            "ChapterID": 1487,
+            "TopicRef": ".",
+            "TopicName": "معاشرہ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 113,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "سوشیالوجی",
+                    "Category": "F.A",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 1488,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 113,
+                "ChapterName": "باب نمبر 10: ثقافت",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 113,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوشیالوجی",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 2791,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 113,
+            "ChapterID": 1488,
+            "TopicRef": ".",
+            "TopicName": "ثقافت",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 113,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "سوشیالوجی",
+                    "Category": "F.A",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 1489,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 113,
+                "ChapterName": "باب نمبر 11: معاشرتی ادارے",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 113,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوشیالوجی",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 2792,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 113,
+            "ChapterID": 1489,
+            "TopicRef": ".",
+            "TopicName": "معاشرتی ادراے",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 113,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "سوشیالوجی",
+                    "Category": "F.A",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 1490,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 113,
+                "ChapterName": "باب نمبر 12: معاشرتی درجہ بندی و معاشرتی حرکت پذیری",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 113,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوشیالوجی",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 2793,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 113,
+            "ChapterID": 1490,
+            "TopicRef": ".",
+            "TopicName": "معاشرتی درجہ و معاشرتی حرکت پذیری",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 113,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "سوشیالوجی",
+                    "Category": "F.A",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 1491,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 113,
+                "ChapterName": "باب نمبر 13: معاشرتی تغیر",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 113,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوشیالوجی",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 2794,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 113,
+            "ChapterID": 1491,
+            "TopicRef": ".",
+            "TopicName": "معاشرتی تغیر",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

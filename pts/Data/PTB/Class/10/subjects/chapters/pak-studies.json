@@ -1,0 +1,3911 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 605,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterName": "CHAP 5: History of Pakistan-II (1971 Till Todate)",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 606,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterName": "CHAP 6: Pakistan and World Affairs",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 607,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterName": "CHAP 7: Economic Development of Pakistan",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 608,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterName": "CHAP 8: Population, Society and Culture of Pakistan",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 65,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Pakistan Studies",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 605,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 65,
+                "ChapterName": "CHAP 5: History of Pakistan-II (1971 Till Todate)",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1363,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterID": 605,
+            "TopicRef": "5.1",
+            "TopicName": "Zulfiqar Ali Bhutto Era 1971-1977",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 65,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Pakistan Studies",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 605,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 65,
+                "ChapterName": "CHAP 5: History of Pakistan-II (1971 Till Todate)",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1364,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterID": 605,
+            "TopicRef": "5.2",
+            "TopicName": "General Muhammad Zia-ul-Haq Era 1977-88",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 65,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Pakistan Studies",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 605,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 65,
+                "ChapterName": "CHAP 5: History of Pakistan-II (1971 Till Todate)",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1365,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterID": 605,
+            "TopicRef": "5.3",
+            "TopicName": "Benazir Bhutto's First & Second Term 1988-96",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 65,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Pakistan Studies",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 605,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 65,
+                "ChapterName": "CHAP 5: History of Pakistan-II (1971 Till Todate)",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1366,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterID": 605,
+            "TopicRef": "5.4",
+            "TopicName": "Muhammad Nawaz Sharif's First, Second & Third Term 1988-2017",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 65,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Pakistan Studies",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 605,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 65,
+                "ChapterName": "CHAP 5: History of Pakistan-II (1971 Till Todate)",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1367,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterID": 605,
+            "TopicRef": "5.5",
+            "TopicName": "General Pervez Musharraf's Era 1999-2008",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 65,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Pakistan Studies",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 605,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 65,
+                "ChapterName": "CHAP 5: History of Pakistan-II (1971 Till Todate)",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1368,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterID": 605,
+            "TopicRef": "5.6",
+            "TopicName": "Syed Yousaf Raza Gillani's Era 2008-12",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 65,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Pakistan Studies",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 605,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 65,
+                "ChapterName": "CHAP 5: History of Pakistan-II (1971 Till Todate)",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1369,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterID": 605,
+            "TopicRef": "5.7",
+            "TopicName": "General Elections of Pakistan 2018",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 65,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Pakistan Studies",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 605,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 65,
+                "ChapterName": "CHAP 5: History of Pakistan-II (1971 Till Todate)",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1370,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterID": 605,
+            "TopicRef": "5.8",
+            "TopicName": "Constitution of Pakistan 1973",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 65,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Pakistan Studies",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 606,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 65,
+                "ChapterName": "CHAP 6: Pakistan and World Affairs",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1371,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterID": 606,
+            "TopicRef": "6.1",
+            "TopicName": "Geo-Political Significance of Pakistan",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 65,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Pakistan Studies",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 606,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 65,
+                "ChapterName": "CHAP 6: Pakistan and World Affairs",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1372,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterID": 606,
+            "TopicRef": "6.2",
+            "TopicName": "Objectives of Pakistan's Foreign Policy",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 65,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Pakistan Studies",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 606,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 65,
+                "ChapterName": "CHAP 6: Pakistan and World Affairs",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1373,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterID": 606,
+            "TopicRef": "6.3",
+            "TopicName": "Pakistan's Relations with Neighbouring States",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 65,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Pakistan Studies",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 606,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 65,
+                "ChapterName": "CHAP 6: Pakistan and World Affairs",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1374,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterID": 606,
+            "TopicRef": "6.4",
+            "TopicName": "Kashmir Issue",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 65,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Pakistan Studies",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 606,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 65,
+                "ChapterName": "CHAP 6: Pakistan and World Affairs",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1375,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterID": 606,
+            "TopicRef": "6.5",
+            "TopicName": "Pakistan's Relations with Central Asian Countries",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 65,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Pakistan Studies",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 606,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 65,
+                "ChapterName": "CHAP 6: Pakistan and World Affairs",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1376,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterID": 606,
+            "TopicRef": "6.6",
+            "TopicName": "Pakistan's Relations with SAARC Countries",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 65,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Pakistan Studies",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 606,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 65,
+                "ChapterName": "CHAP 6: Pakistan and World Affairs",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1377,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterID": 606,
+            "TopicRef": "6.7",
+            "TopicName": "Pakistan's Relations with major world powers",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 65,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Pakistan Studies",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 606,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 65,
+                "ChapterName": "CHAP 6: Pakistan and World Affairs",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1378,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterID": 606,
+            "TopicRef": "6.8",
+            "TopicName": "China Pakistan Economic Corridor-CPEC - till end",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 65,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Pakistan Studies",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 607,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 65,
+                "ChapterName": "CHAP 7: Economic Development of Pakistan",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1379,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterID": 607,
+            "TopicRef": "7.1",
+            "TopicName": "Economic Development of Pakistan",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 65,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Pakistan Studies",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 607,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 65,
+                "ChapterName": "CHAP 7: Economic Development of Pakistan",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1380,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterID": 607,
+            "TopicRef": "7.2",
+            "TopicName": "Major Metallic and Non-metallic Mineral Resources, their Economic Importance and Distribution in Pakistan",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 65,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Pakistan Studies",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 607,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 65,
+                "ChapterName": "CHAP 7: Economic Development of Pakistan",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1381,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterID": 607,
+            "TopicRef": "7.3",
+            "TopicName": "Importance of Agriculture, Problems and Efforts to Modernize Agriculture",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 65,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Pakistan Studies",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 607,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 65,
+                "ChapterName": "CHAP 7: Economic Development of Pakistan",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1382,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterID": 607,
+            "TopicRef": "7.4",
+            "TopicName": "Water Resources of Pakistan and Existing Irrigation System",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 65,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Pakistan Studies",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 607,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 65,
+                "ChapterName": "CHAP 7: Economic Development of Pakistan",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1383,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterID": 607,
+            "TopicRef": "7.5",
+            "TopicName": "Production, Distribution of Major Crops, Livestock and Fisheries in Pakistan",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 65,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Pakistan Studies",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 607,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 65,
+                "ChapterName": "CHAP 7: Economic Development of Pakistan",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1384,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterID": 607,
+            "TopicRef": "7.6",
+            "TopicName": "Importance of Industries, their Location and Production of Cottage, Small and Large-scale Industries",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 65,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Pakistan Studies",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 607,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 65,
+                "ChapterName": "CHAP 7: Economic Development of Pakistan",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1385,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterID": 607,
+            "TopicRef": "7.7",
+            "TopicName": "Importance, Production and Consumption of different Sources of Energy in Pakistan",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 65,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Pakistan Studies",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 607,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 65,
+                "ChapterName": "CHAP 7: Economic Development of Pakistan",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1386,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterID": 607,
+            "TopicRef": "7.8",
+            "TopicName": "International Trade of Pakistan (Imports and Exports) and its Impact on the Economy",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 65,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Pakistan Studies",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 607,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 65,
+                "ChapterName": "CHAP 7: Economic Development of Pakistan",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1387,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterID": 607,
+            "TopicRef": "7.9",
+            "TopicName": "Importance of Sea Ports and Dry Ports of Pakistan",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 65,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Pakistan Studies",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 608,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 65,
+                "ChapterName": "CHAP 8: Population, Society and Culture of Pakistan",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1388,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterID": 608,
+            "TopicRef": "8.1",
+            "TopicName": "Growth and Distribution of Population in Pakistan",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 65,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Pakistan Studies",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 608,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 65,
+                "ChapterName": "CHAP 8: Population, Society and Culture of Pakistan",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1389,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterID": 608,
+            "TopicRef": "8.2",
+            "TopicName": "Salient Features of Pakistani Society and Culture",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 65,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Pakistan Studies",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 608,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 65,
+                "ChapterName": "CHAP 8: Population, Society and Culture of Pakistan",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1390,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterID": 608,
+            "TopicRef": "8.3",
+            "TopicName": "Educational Condition in Pakistan",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 65,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Pakistan Studies",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 608,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 65,
+                "ChapterName": "CHAP 8: Population, Society and Culture of Pakistan",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1391,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterID": 608,
+            "TopicRef": "8.4",
+            "TopicName": "Health Conditions in Pakistan",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 65,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Pakistan Studies",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 608,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 65,
+                "ChapterName": "CHAP 8: Population, Society and Culture of Pakistan",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1392,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterID": 608,
+            "TopicRef": "8.5",
+            "TopicName": "Importance of Tourism and Natural and Cultural attraction for Tourism in Pakistan",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 65,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Pakistan Studies",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 608,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 65,
+                "ChapterName": "CHAP 8: Population, Society and Culture of Pakistan",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1393,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterID": 608,
+            "TopicRef": "8.6",
+            "TopicName": "Need and Importance of Inter-faith Harmony, Tolerance and Resillience against Terrorism",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 65,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Pakistan Studies",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 608,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 65,
+                "ChapterName": "CHAP 8: Population, Society and Culture of Pakistan",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1394,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterID": 608,
+            "TopicRef": "8.7",
+            "TopicName": "Origin and Evolution of National and Regional Languages",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 65,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Pakistan Studies",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 608,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 65,
+                "ChapterName": "CHAP 8: Population, Society and Culture of Pakistan",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1395,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterID": 608,
+            "TopicRef": "8.8",
+            "TopicName": "Causes, Consequences and Remedies for Poverty Alleviation in Pakistan - till end",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 65,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Pakistan Studies",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 609,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 65,
+                "ChapterName": "CHAP 10:Protection of Women",
+                "IsActive": false
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1396,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterID": 609,
+            "TopicRef": "10.3",
+            "TopicName": "Islam and Gender",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 65,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Pakistan Studies",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 609,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 65,
+                "ChapterName": "CHAP 10:Protection of Women",
+                "IsActive": false
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1397,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterID": 609,
+            "TopicRef": "10.4",
+            "TopicName": "Present Condition of Women",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 65,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Pakistan Studies",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 609,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 65,
+                "ChapterName": "CHAP 10:Protection of Women",
+                "IsActive": false
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1398,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterID": 609,
+            "TopicRef": "10.5",
+            "TopicName": "The Punjab Protection of Women Against Violence Act 2016",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 65,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Pakistan Studies",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 609,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 65,
+                "ChapterName": "CHAP 10:Protection of Women",
+                "IsActive": false
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 65,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Pakistan Studies",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213848515479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1399,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 65,
+            "ChapterID": 609,
+            "TopicRef": "10.6",
+            "TopicName": "Functions of District Women Protection Committee",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

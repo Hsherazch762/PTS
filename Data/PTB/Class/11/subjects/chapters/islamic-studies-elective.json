@@ -1,0 +1,1505 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 111,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341228171675336.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1279,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 111,
+            "ChapterName": "باب نمبر 1: تہذیب وتمدن",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 111,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341228171675336.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1280,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 111,
+            "ChapterName": "باب نمبر 2: تقوٰی، ذکر، شکر، عفودرگزر، عدل، احسان، خدمت خلق",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 111,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341228171675336.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1281,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 111,
+            "ChapterName": "باب نمبر 3: خاندانی  و عائلی زندگی،  والدین کے حقوق، حقوق الزوجین",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 111,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341228171675336.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1282,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 111,
+            "ChapterName": "باب نمبر 4: اسلام کا نظام تعلیم، شاگرد کے حقوق، استاد کے حقوق، مکتب ، مسجد",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 111,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341228171675336.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1283,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 111,
+            "ChapterName": "باب نمبر 5: صلہ رحمی، ہمسائے کے حقوق، شہری کے حقوق و فرائض",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 111,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341228171675336.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1284,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 111,
+            "ChapterName": "باب نمبر 6: عالم اسلام، اخوت، تبلیغ ودعوت، جہاد",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 111,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341228171675336.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1285,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 111,
+            "ChapterName": "باب نمبر 7: ظہوراسلام سے قبل عرب کے حالات، رسولﷺ کی ابتدائی زندگی، قریش کے مقاط سے ہجرت مدینہ، میثاق مدینہ",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 111,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341228171675336.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1286,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 111,
+            "ChapterName": "باب نمبر 8: غزوہ بدر، غزوہ احد، صلح حدیبیہ، غزوہ خیبر، غزوہ مؤتہ، جنگ حنین",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 111,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341228171675336.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1287,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 111,
+            "ChapterName": "باب نمبر 9: فتح مکہ، غزوہ حنین و تبوک، حجتہ الوداع، میثاق مدینہ",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 111,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341228171675336.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1288,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 111,
+            "ChapterName": "باب نمبر 10: حضرت ابوبکرصدیقؓ، حضرت عمرؓ، حضرت عثمانؓ، حضرت علیؓ",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 111,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341228171675336.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1279,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 111,
+                "ChapterName": "باب نمبر 1: تہذیب وتمدن",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 111,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341228171675336.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2452,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 111,
+            "ChapterID": 1279,
+            "TopicRef": ".",
+            "TopicName": "تہذیب وتمدن",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 111,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341228171675336.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1280,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 111,
+                "ChapterName": "باب نمبر 2: تقوٰی، ذکر، شکر، عفودرگزر، عدل، احسان، خدمت خلق",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 111,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341228171675336.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2453,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 111,
+            "ChapterID": 1280,
+            "TopicRef": ".",
+            "TopicName": "تقوٰی، ذکر، شکر، عفودرگزر، عدل، احسان، خدمت خلق",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 111,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341228171675336.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1281,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 111,
+                "ChapterName": "باب نمبر 3: خاندانی  و عائلی زندگی،  والدین کے حقوق، حقوق الزوجین",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 111,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341228171675336.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2454,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 111,
+            "ChapterID": 1281,
+            "TopicRef": ".",
+            "TopicName": "خاندانی وعائلی زندگی، والدین کے حقوق،حقوق الزوجین",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 111,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341228171675336.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1282,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 111,
+                "ChapterName": "باب نمبر 4: اسلام کا نظام تعلیم، شاگرد کے حقوق، استاد کے حقوق، مکتب ، مسجد",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 111,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341228171675336.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2455,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 111,
+            "ChapterID": 1282,
+            "TopicRef": ".",
+            "TopicName": "اسلام کا نظام تعلیم، شاگرد کے حقوق، استاد کے حقوق، مکتب، مسجد",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 111,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341228171675336.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1283,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 111,
+                "ChapterName": "باب نمبر 5: صلہ رحمی، ہمسائے کے حقوق، شہری کے حقوق و فرائض",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 111,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341228171675336.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2456,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 111,
+            "ChapterID": 1283,
+            "TopicRef": ".",
+            "TopicName": "صلہ رحمی، ہمسائے کے حقوق، شہری کے حقوق وفرائض",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 111,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341228171675336.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1284,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 111,
+                "ChapterName": "باب نمبر 6: عالم اسلام، اخوت، تبلیغ ودعوت، جہاد",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 111,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341228171675336.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2457,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 111,
+            "ChapterID": 1284,
+            "TopicRef": ".",
+            "TopicName": "عالم اسلام، اخوت، تبلیغ ودعوت، جہاد",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 111,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341228171675336.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1285,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 111,
+                "ChapterName": "باب نمبر 7: ظہوراسلام سے قبل عرب کے حالات، رسولﷺ کی ابتدائی زندگی، قریش کے مقاط سے ہجرت مدینہ، میثاق مدینہ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 111,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341228171675336.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2458,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 111,
+            "ChapterID": 1285,
+            "TopicRef": ".",
+            "TopicName": "ظہوراسلام  سے قبل عرب کے حالات، رسولﷺ کی ابتدائی زندگی، قریش کے مقاط سے ہجرت مدینہ، میثاق مدینہ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 111,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341228171675336.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1286,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 111,
+                "ChapterName": "باب نمبر 8: غزوہ بدر، غزوہ احد، صلح حدیبیہ، غزوہ خیبر، غزوہ مؤتہ، جنگ حنین",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 111,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341228171675336.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2459,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 111,
+            "ChapterID": 1286,
+            "TopicRef": ".",
+            "TopicName": "غزوہ بدر، غزوہ احد، صلح حدیبیہ، غزوہ خیبر، غزوہ مؤتہ، جنگ حنین",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 111,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341228171675336.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1287,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 111,
+                "ChapterName": "باب نمبر 9: فتح مکہ، غزوہ حنین و تبوک، حجتہ الوداع، میثاق مدینہ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 111,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341228171675336.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2460,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 111,
+            "ChapterID": 1287,
+            "TopicRef": ".",
+            "TopicName": "فتح مکہ، غزوہ حنین وتبوک، حجتہ الوداع، میثاق مدینہ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 111,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341228171675336.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1288,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 111,
+                "ChapterName": "باب نمبر 10: حضرت ابوبکرصدیقؓ، حضرت عمرؓ، حضرت عثمانؓ، حضرت علیؓ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 111,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341228171675336.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2461,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 111,
+            "ChapterID": 1288,
+            "TopicRef": ".",
+            "TopicName": "حضرت ابوبکر صدیقؓ، حضرت عمرؓ، حضرت عثمانؓ، حضرت علیؓ",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

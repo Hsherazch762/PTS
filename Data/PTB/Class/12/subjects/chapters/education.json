@@ -1,0 +1,760 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 130,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241481872479.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1207,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 130,
+            "ChapterName": "باب نمبر 1: برصغیر میں مسلمانوں کی تعلیم",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 130,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241481872479.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1208,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 130,
+            "ChapterName": "باب نمبر 2: جنوبی ایشیا میں برطانوی نظام تعلیم",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 130,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241481872479.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1209,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 130,
+            "ChapterName": "باب نمبر 3: پاکستان کی تعلیمی پالیسیاں اور منصوبے",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 130,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241481872479.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1211,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 130,
+            "ChapterName": "باب نمبر 4: پاکستان کے تعلیمی مسائل",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 130,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241481872479.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1212,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 130,
+            "ChapterName": "باب نمبر 5: تعلیم کے فروغ کے لئے مختلف تنظیموں کا کردار",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 130,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "ایجوکیشن",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341241481872479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1207,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 130,
+                "ChapterName": "باب نمبر 1: برصغیر میں مسلمانوں کی تعلیم",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 130,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241481872479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2378,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 130,
+            "ChapterID": 1207,
+            "TopicRef": "1",
+            "TopicName": "برصغیر میں مسلمانوں کی تعلیم",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 130,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "ایجوکیشن",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341241481872479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1208,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 130,
+                "ChapterName": "باب نمبر 2: جنوبی ایشیا میں برطانوی نظام تعلیم",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 130,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241481872479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2379,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 130,
+            "ChapterID": 1208,
+            "TopicRef": "2",
+            "TopicName": "جنوبی ایشیا میں برطانوی نظام تعلیم",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 130,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "ایجوکیشن",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341241481872479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1209,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 130,
+                "ChapterName": "باب نمبر 3: پاکستان کی تعلیمی پالیسیاں اور منصوبے",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 130,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241481872479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2380,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 130,
+            "ChapterID": 1209,
+            "TopicRef": "3",
+            "TopicName": "پاکستان کی تعلیمی پالیسیاں اور منصوبے",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 130,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "ایجوکیشن",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341241481872479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1211,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 130,
+                "ChapterName": "باب نمبر 4: پاکستان کے تعلیمی مسائل",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 130,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241481872479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2381,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 130,
+            "ChapterID": 1211,
+            "TopicRef": "4",
+            "TopicName": "پاکستان کے تعلیمی مسائل",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 130,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "ایجوکیشن",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341241481872479.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1212,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 130,
+                "ChapterName": "باب نمبر 5: تعلیم کے فروغ کے لئے مختلف تنظیموں کا کردار",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 130,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241481872479.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2382,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 130,
+            "ChapterID": 1212,
+            "TopicRef": "5",
+            "TopicName": "تعلیم کے فروغ کے لئے مختلف تنظیموں کا کردار",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

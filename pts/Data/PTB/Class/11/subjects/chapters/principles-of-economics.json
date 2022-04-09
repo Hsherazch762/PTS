@@ -1,0 +1,1952 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 103,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Economics",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1326,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 103,
+            "ChapterName": "CHAP 1: Definition Of Economics ",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 103,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Economics",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1327,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 103,
+            "ChapterName": "CHAP 2: Consumer's Demand Theory ",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 103,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Economics",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1328,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 103,
+            "ChapterName": "CHAP 3: Demand And Supply",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 103,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Economics",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1329,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 103,
+            "ChapterName": "CHAP 4: Factors Of Production ",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 103,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Economics",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1330,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 103,
+            "ChapterName": "CHAP 5: Laws Of Return",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 103,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Economics",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1331,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 103,
+            "ChapterName": "CHAP 6: Firm's Costs OF Production And Revenues",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 103,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Economics",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1332,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 103,
+            "ChapterName": "CHAP 7: Price And Output Determination ",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 103,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Economics",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1333,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 103,
+            "ChapterName": "CHAP 8: Resource Pricing ",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 103,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Economics",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1334,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 103,
+            "ChapterName": "CHAP 9: National Income ",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 103,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Economics",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1335,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 103,
+            "ChapterName": "CHAP 10: Money",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 103,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Economics",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1336,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 103,
+            "ChapterName": "CHAP 11: Business Cycle / Trade Cycle",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 103,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Economics",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1337,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 103,
+            "ChapterName": "CHAP 12: International Trade",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 103,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Economics",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1338,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 103,
+            "ChapterName": "CHAP 13: Public Fiance And Zakat",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 103,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Economics",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1326,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 103,
+                "ChapterName": "CHAP 1: Definition Of Economics ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 103,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Economics",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2509,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 103,
+            "ChapterID": 1326,
+            "TopicRef": ".",
+            "TopicName": "Definition Of Economics ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 103,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Economics",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1327,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 103,
+                "ChapterName": "CHAP 2: Consumer's Demand Theory ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 103,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Economics",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2510,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 103,
+            "ChapterID": 1327,
+            "TopicRef": ".",
+            "TopicName": "Consumer's Demand Theory",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 103,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Economics",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1328,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 103,
+                "ChapterName": "CHAP 3: Demand And Supply",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 103,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Economics",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2511,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 103,
+            "ChapterID": 1328,
+            "TopicRef": ".",
+            "TopicName": "Demand And Supply ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 103,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Economics",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1329,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 103,
+                "ChapterName": "CHAP 4: Factors Of Production ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 103,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Economics",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2512,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 103,
+            "ChapterID": 1329,
+            "TopicRef": ".",
+            "TopicName": "Factors of Production ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 103,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Economics",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1330,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 103,
+                "ChapterName": "CHAP 5: Laws Of Return",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 103,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Economics",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2513,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 103,
+            "ChapterID": 1330,
+            "TopicRef": ".",
+            "TopicName": "Laws of Return",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 103,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Economics",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1331,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 103,
+                "ChapterName": "CHAP 6: Firm's Costs OF Production And Revenues",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 103,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Economics",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2514,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 103,
+            "ChapterID": 1331,
+            "TopicRef": ".",
+            "TopicName": "Firm's Costs Of Production And Revenue ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 103,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Economics",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1332,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 103,
+                "ChapterName": "CHAP 7: Price And Output Determination ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 103,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Economics",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2515,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 103,
+            "ChapterID": 1332,
+            "TopicRef": ".",
+            "TopicName": "Price And Output Determination",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 103,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Economics",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1333,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 103,
+                "ChapterName": "CHAP 8: Resource Pricing ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 103,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Economics",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2516,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 103,
+            "ChapterID": 1333,
+            "TopicRef": ".",
+            "TopicName": "Resource Pricing ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 103,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Economics",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1334,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 103,
+                "ChapterName": "CHAP 9: National Income ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 103,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Economics",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2517,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 103,
+            "ChapterID": 1334,
+            "TopicRef": ".",
+            "TopicName": "National Income ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 103,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Economics",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1335,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 103,
+                "ChapterName": "CHAP 10: Money",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 103,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Economics",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2518,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 103,
+            "ChapterID": 1335,
+            "TopicRef": ".",
+            "TopicName": "Money",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 103,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Economics",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1336,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 103,
+                "ChapterName": "CHAP 11: Business Cycle / Trade Cycle",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 103,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Economics",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2519,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 103,
+            "ChapterID": 1336,
+            "TopicRef": ".",
+            "TopicName": "Business Cycle / Trade Cycle",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 103,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Economics",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1337,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 103,
+                "ChapterName": "CHAP 12: International Trade",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 103,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Economics",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2520,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 103,
+            "ChapterID": 1337,
+            "TopicRef": ".",
+            "TopicName": "International Trade",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 103,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Economics",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1338,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 103,
+                "ChapterName": "CHAP 13: Public Fiance And Zakat",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 103,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Economics",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221903343083.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2521,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 103,
+            "ChapterID": 1338,
+            "TopicRef": ".",
+            "TopicName": "Public Fiance And Zakat",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

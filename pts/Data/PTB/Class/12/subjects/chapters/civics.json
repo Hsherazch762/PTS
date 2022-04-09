@@ -1,0 +1,909 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 131,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "سوکس",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241631707559.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1192,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 131,
+            "ChapterName": "باب نمبر 1: تحریکِ پاکستان",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 131,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "سوکس",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241631707559.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1193,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 131,
+            "ChapterName": "باب نمبر 2: آئینی ارتقا 73-1947ء",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 131,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "سوکس",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241631707559.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1194,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 131,
+            "ChapterName": "باب نمبر 3: پاکستان میں معاشرتی خدمات",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 131,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "سوکس",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241631707559.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1195,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 131,
+            "ChapterName": "باب نمبر 4: پاکستان میں معاشرتی نظم و ضبط",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 131,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "سوکس",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241631707559.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1196,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 131,
+            "ChapterName": "باب نمبر 5: قومی یکجہتی و سالمیت",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 131,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "سوکس",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241631707559.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1197,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 131,
+            "ChapterName": "باب نمبر 6: اسلامی جمہوریہ پاکستان اور دنیا",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 131,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "سوکس",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341241631707559.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1192,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 131,
+                "ChapterName": "باب نمبر 1: تحریکِ پاکستان",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 131,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "سوکس",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241631707559.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2364,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 131,
+            "ChapterID": 1192,
+            "TopicRef": "1",
+            "TopicName": "تحریکِ پاکستان",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 131,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "سوکس",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341241631707559.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1193,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 131,
+                "ChapterName": "باب نمبر 2: آئینی ارتقا 73-1947ء",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 131,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "سوکس",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241631707559.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2365,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 131,
+            "ChapterID": 1193,
+            "TopicRef": "2",
+            "TopicName": "آئینی ارتقا 73-1947ء",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 131,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "سوکس",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341241631707559.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1194,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 131,
+                "ChapterName": "باب نمبر 3: پاکستان میں معاشرتی خدمات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 131,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "سوکس",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241631707559.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2366,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 131,
+            "ChapterID": 1194,
+            "TopicRef": "3",
+            "TopicName": "پاکستان میں معاشرتی خدمات",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 131,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "سوکس",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341241631707559.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1195,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 131,
+                "ChapterName": "باب نمبر 4: پاکستان میں معاشرتی نظم و ضبط",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 131,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "سوکس",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241631707559.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2367,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 131,
+            "ChapterID": 1195,
+            "TopicRef": "4",
+            "TopicName": "پاکستان میں معاشرتی نظم و ضبط",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 131,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "سوکس",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341241631707559.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1196,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 131,
+                "ChapterName": "باب نمبر 5: قومی یکجہتی و سالمیت",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 131,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "سوکس",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241631707559.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2368,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 131,
+            "ChapterID": 1196,
+            "TopicRef": "5",
+            "TopicName": "قومی یکجہتی و سالمیت",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 131,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "سوکس",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341241631707559.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1197,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 131,
+                "ChapterName": "باب نمبر 6: اسلامی جمہوریہ پاکستان اور دنیا",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 131,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "سوکس",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241631707559.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2369,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 131,
+            "ChapterID": 1197,
+            "TopicRef": "6",
+            "TopicName": "اسلامی جہموریہ پاکستان اور دنیا",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

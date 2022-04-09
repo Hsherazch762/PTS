@@ -1,0 +1,535 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": [
+        {
+            "Class": {
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true,
+                "Course": null
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 116,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectName": "Biology",
+            "Category": "FSc",
+            "ImageUrl": "/Images/Subjects/637341238152641022.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 117,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectName": "Chemistry",
+            "Category": "FSc",
+            "ImageUrl": "/Images/Subjects/637341238348954855.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 118,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectName": "Physics",
+            "Category": "FSc",
+            "ImageUrl": "/Images/Subjects/637341238538527929.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 119,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectName": "Mathematics",
+            "Category": "FSc - ICS",
+            "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 120,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectName": "Computer",
+            "Category": "ICS",
+            "ImageUrl": "/Images/Subjects/637341239082361671.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 121,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectName": "Statistics",
+            "Category": "ICS",
+            "ImageUrl": "/Images/Subjects/637341248214839269.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 122,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectName": "Economics",
+            "Category": "ICS",
+            "ImageUrl": "/Images/Subjects/637341239529705119.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 123,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectName": "English",
+            "Category": "12TH",
+            "ImageUrl": "/Images/Subjects/637341239702640459.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 124,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectName": "Principles of Accounting",
+            "Category": "I.COM",
+            "ImageUrl": "/Images/Subjects/637341239836926741.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 125,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectName": "Principles of Banking",
+            "Category": "I.COM",
+            "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 126,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectName": "Commercial Geography",
+            "Category": "I.COM",
+            "ImageUrl": "/Images/Subjects/637341240825912411.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 127,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectName": "Business Statistics",
+            "Category": "I.COM",
+            "ImageUrl": "/Images/Subjects/637341241094700693.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 128,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectName": "مطالعہ پاکستان",
+            "Category": "12TH",
+            "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 129,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectName": "اُردو لازمی",
+            "Category": "12TH",
+            "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 130,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectName": "ایجوکیشن",
+            "Category": "F.A",
+            "ImageUrl": "/Images/Subjects/637341241481872479.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 131,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectName": "سوکس",
+            "Category": "F.A",
+            "ImageUrl": "/Images/Subjects/637341241631707559.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 132,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectName": "پنجابی",
+            "Category": "F.A",
+            "ImageUrl": "/Images/Subjects/637341241758883271.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 133,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectName": "اسلامیات اختیاری",
+            "Category": "F.A",
+            "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 134,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectName": "فزیکل ایجوکیشن",
+            "Category": "F.A",
+            "ImageUrl": "/Images/Subjects/637341247263593528.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 135,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectName": "سوشیالوجی",
+            "Category": "F.A",
+            "ImageUrl": null,
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 260,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectName": "نفسیات",
+            "Category": "PTB",
+            "ImageUrl": null,
+            "IsActive": true
+        }
+    ],
+    "ChaptersList": null,
+    "TopicsList": null,
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

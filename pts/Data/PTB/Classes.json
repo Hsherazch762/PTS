@@ -1,0 +1,135 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": [
+        {
+            "Class": {
+                "ClassID": 1,
+                "CourseID": 1,
+                "ClassName": "ONE",
+                "IsActive": true,
+                "Course": null
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 90,
+            "CourseID": 1,
+            "ClassID": 1,
+            "SubjectName": "English",
+            "Category": "SNC",
+            "ImageUrl": "/Images/Subjects/637661137887504914.png",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 1,
+                "CourseID": 1,
+                "ClassName": "ONE",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 91,
+            "CourseID": 1,
+            "ClassID": 1,
+            "SubjectName": "General Knowledge",
+            "Category": "SNC",
+            "ImageUrl": "/Images/Subjects/637661138058598530.png",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 1,
+                "CourseID": 1,
+                "ClassName": "ONE",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 92,
+            "CourseID": 1,
+            "ClassID": 1,
+            "SubjectName": "Mathematics",
+            "Category": "SNC",
+            "ImageUrl": "/Images/Subjects/637661138245636126.png",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 1,
+                "CourseID": 1,
+                "ClassName": "ONE",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 93,
+            "CourseID": 1,
+            "ClassID": 1,
+            "SubjectName": "اسلامیات لازمی",
+            "Category": "SNC",
+            "ImageUrl": "/Images/Subjects/637661138604855317.png",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 1,
+                "CourseID": 1,
+                "ClassName": "ONE",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 255,
+            "CourseID": 1,
+            "ClassID": 1,
+            "SubjectName": "اُردو لازمی",
+            "Category": "SNC",
+            "ImageUrl": "/Images/Subjects/637661139088916118.png",
+            "IsActive": true
+        }
+    ],
+    "ChaptersList": null,
+    "TopicsList": null,
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

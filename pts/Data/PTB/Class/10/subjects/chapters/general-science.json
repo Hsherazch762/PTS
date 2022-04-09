@@ -1,0 +1,4660 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 364,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterName": "باب نمبر 7: انرجی",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 365,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterName": "باب نمبر 8: کرنٹ الیکٹریسٹی",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 366,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterName": "باب نمبر 9: بنیادی الیکٹرونکس",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 367,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterName": "باب نمبر 10: سائنس اور ٹیکنالوجی",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 368,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterName": "باب نمبر 11: پاکستان کا سپیس اور نیو کلئیر پروگرام",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 364,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 7: انرجی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 580,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 364,
+            "TopicRef": "7.1",
+            "TopicName": "ورک اور انرجی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 364,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 7: انرجی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 581,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 364,
+            "TopicRef": "7.2",
+            "TopicName": "انرجی کی مختلف اقسام",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 364,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 7: انرجی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 582,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 364,
+            "TopicRef": "7.3",
+            "TopicName": "انرجی کا باہم تبادلہ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 364,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 7: انرجی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 583,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 364,
+            "TopicRef": "7.4",
+            "TopicName": "انرجی کی طلب",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 364,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 7: انرجی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 584,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 364,
+            "TopicRef": "7.5",
+            "TopicName": "الیکٹریکل انرجی کا حصول",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 364,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 7: انرجی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 585,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 364,
+            "TopicRef": "7.6",
+            "TopicName": "انرجی کا ماحول",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 364,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 7: انرجی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 586,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 364,
+            "TopicRef": "7.8",
+            "TopicName": "ماحول کی ابتری",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 364,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 7: انرجی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 587,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 364,
+            "TopicRef": "7.9",
+            "TopicName": "نیو کلئیر فیول سے لاحق خطرات",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 364,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 7: انرجی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 588,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 364,
+            "TopicRef": "7.10",
+            "TopicName": "انرجی کا تحفظ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 365,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 8: کرنٹ الیکٹریسٹی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 589,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 365,
+            "TopicRef": "8.1",
+            "TopicName": "الیکٹرک کرنٹ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 365,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 8: کرنٹ الیکٹریسٹی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 590,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 365,
+            "TopicRef": "8.2",
+            "TopicName": "کنوینشنل کرنٹ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 365,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 8: کرنٹ الیکٹریسٹی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 591,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 365,
+            "TopicRef": "8.3",
+            "TopicName": "پوٹینشل ڈفرینس",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 365,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 8: کرنٹ الیکٹریسٹی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 592,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 365,
+            "TopicRef": "8.4",
+            "TopicName": "اوہم کا قانون",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 365,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 8: کرنٹ الیکٹریسٹی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 593,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 365,
+            "TopicRef": "8.5",
+            "TopicName": "رزسٹنس",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 365,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 8: کرنٹ الیکٹریسٹی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 594,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 365,
+            "TopicRef": "8.6",
+            "TopicName": "سرکٹ کے اجزا",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 365,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 8: کرنٹ الیکٹریسٹی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 595,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 365,
+            "TopicRef": "8.7",
+            "TopicName": "ڈائریکٹ اور آلٹرنینٹگ کرنٹ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 365,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 8: کرنٹ الیکٹریسٹی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 596,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 365,
+            "TopicRef": "8.8",
+            "TopicName": "ڈی۔سی اور اے۔سی کا استعمال",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 365,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 8: کرنٹ الیکٹریسٹی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 597,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 365,
+            "TopicRef": "8.9",
+            "TopicName": "گھر یلو الیکٹرک سپلائی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 365,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 8: کرنٹ الیکٹریسٹی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 598,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 365,
+            "TopicRef": "8.10",
+            "TopicName": "الیکٹریسٹی سپلائی کی پیمائش",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 365,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 8: کرنٹ الیکٹریسٹی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 599,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 365,
+            "TopicRef": "8.11",
+            "TopicName": "الیکٹریسٹی کے خطرات اور احتیاطی تدابیر",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 365,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 8: کرنٹ الیکٹریسٹی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 600,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 365,
+            "TopicRef": "8.12",
+            "TopicName": "آلات پیمائش",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 365,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 8: کرنٹ الیکٹریسٹی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 601,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 365,
+            "TopicRef": "8.13",
+            "TopicName": "اینا لوگ اور ڈیجیٹل میٹرز",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 366,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 9: بنیادی الیکٹرونکس",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 602,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 366,
+            "TopicRef": "9.1",
+            "TopicName": "سیمی کنڈکٹرز",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 366,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 9: بنیادی الیکٹرونکس",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 603,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 366,
+            "TopicRef": "9.2",
+            "TopicName": "سیمی کنڈکٹر ڈائیوڈ کے استعمال",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 366,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 9: بنیادی الیکٹرونکس",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 604,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 366,
+            "TopicRef": "9.3",
+            "TopicName": "ریڈیو ویوز",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 366,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 9: بنیادی الیکٹرونکس",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 605,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 366,
+            "TopicRef": "9.4",
+            "TopicName": "کمپیوٹر",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 366,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 9: بنیادی الیکٹرونکس",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 606,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 366,
+            "TopicRef": "9.5",
+            "TopicName": "اینالوگ/ڈیجیٹل کنورٹرز",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 366,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 9: بنیادی الیکٹرونکس",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 607,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 366,
+            "TopicRef": "9.6",
+            "TopicName": "انفارمیشن ٹیکنالوجی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 367,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 10: سائنس اور ٹیکنالوجی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 608,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 367,
+            "TopicRef": "10.1",
+            "TopicName": "سائنس اور ٹیکنالوجی کا کردار",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 367,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 10: سائنس اور ٹیکنالوجی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 609,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 367,
+            "TopicRef": "10.2",
+            "TopicName": "لیزر",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 367,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 10: سائنس اور ٹیکنالوجی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 610,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 367,
+            "TopicRef": "10.3",
+            "TopicName": "فائبر آپٹکس",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 367,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 10: سائنس اور ٹیکنالوجی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 611,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 367,
+            "TopicRef": "10.4",
+            "TopicName": "سٹیلائیٹس اور راڈار",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 367,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 10: سائنس اور ٹیکنالوجی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 612,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 367,
+            "TopicRef": "10.5",
+            "TopicName": "ریڈیو ایکٹیویٹی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 367,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 10: سائنس اور ٹیکنالوجی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 613,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 367,
+            "TopicRef": "10.6",
+            "TopicName": "ایکس ریز",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 367,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 10: سائنس اور ٹیکنالوجی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 614,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 367,
+            "TopicRef": "10.7",
+            "TopicName": "الٹرا ساؤنڈ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 367,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 10: سائنس اور ٹیکنالوجی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 615,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 367,
+            "TopicRef": "10.8",
+            "TopicName": "ای۔سی۔جی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 367,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 10: سائنس اور ٹیکنالوجی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 616,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 367,
+            "TopicRef": "10.9",
+            "TopicName": "ای۔ای۔جی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 367,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 10: سائنس اور ٹیکنالوجی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 617,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 367,
+            "TopicRef": "10.10",
+            "TopicName": "ایم۔آر۔آئی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 367,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 10: سائنس اور ٹیکنالوجی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 618,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 367,
+            "TopicRef": "10.11",
+            "TopicName": "سی۔ٹی سکین",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 367,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 10: سائنس اور ٹیکنالوجی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 619,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 367,
+            "TopicRef": "10.12",
+            "TopicName": "انجیوگرافی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 367,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 10: سائنس اور ٹیکنالوجی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 620,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 367,
+            "TopicRef": "10.13",
+            "TopicName": "پاکستان کی اہم انڈسٹریز",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 368,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 11: پاکستان کا سپیس اور نیو کلئیر پروگرام",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 621,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 368,
+            "TopicRef": "11.1",
+            "TopicName": "سپیس پروگرام کی اہمیت",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 368,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 11: پاکستان کا سپیس اور نیو کلئیر پروگرام",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 622,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 368,
+            "TopicRef": "11.2",
+            "TopicName": "پاکستان کاسپیس پروگرام",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 68,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "جنرل سائنس",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 368,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 68,
+                "ChapterName": "باب نمبر 11: پاکستان کا سپیس اور نیو کلئیر پروگرام",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 68,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "جنرل سائنس",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214214357799.jpg",
+                "IsActive": true
+            },
+            "TopicID": 623,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 68,
+            "ChapterID": 368,
+            "TopicRef": "11.3",
+            "TopicName": "پاکستان کا نیوکلئیر پاور پروگرام",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

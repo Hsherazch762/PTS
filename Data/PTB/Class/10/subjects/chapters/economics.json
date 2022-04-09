@@ -1,0 +1,1058 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 258,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "معاشیات",
+                "Category": "PTB",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "ChapterID": 2753,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 258,
+            "ChapterName": "باب نمبر 8: قومی آمدنی کے بنیادی تصورات",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 258,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "معاشیات",
+                "Category": "PTB",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "ChapterID": 2754,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 258,
+            "ChapterName": "باب نمبر 9: زر",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 258,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "معاشیات",
+                "Category": "PTB",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "ChapterID": 2755,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 258,
+            "ChapterName": "باب نمبر 10: بنک",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 258,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "معاشیات",
+                "Category": "PTB",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "ChapterID": 2756,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 258,
+            "ChapterName": "باب نمبر 11: تجارت",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 258,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "معاشیات",
+                "Category": "PTB",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "ChapterID": 2757,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 258,
+            "ChapterName": "باب نمبر 12: سرکاری مالیات",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 258,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "معاشیات",
+                "Category": "PTB",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "ChapterID": 2758,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 258,
+            "ChapterName": "باب نمبر 13: معاشی ترقی",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 258,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "معاشیات",
+                "Category": "PTB",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "ChapterID": 2759,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 258,
+            "ChapterName": "باب نمبر 14: اسلام کا معاشی نظام",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 258,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "معاشیات",
+                    "Category": "PTB",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 2753,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 258,
+                "ChapterName": "باب نمبر 8: قومی آمدنی کے بنیادی تصورات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 258,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "معاشیات",
+                "Category": "PTB",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 5221,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 258,
+            "ChapterID": 2753,
+            "TopicRef": "8",
+            "TopicName": "قومی آمدنی کے بنیادی تصورات",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 258,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "معاشیات",
+                    "Category": "PTB",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 2754,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 258,
+                "ChapterName": "باب نمبر 9: زر",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 258,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "معاشیات",
+                "Category": "PTB",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 5222,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 258,
+            "ChapterID": 2754,
+            "TopicRef": "9",
+            "TopicName": "زر",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 258,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "معاشیات",
+                    "Category": "PTB",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 2755,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 258,
+                "ChapterName": "باب نمبر 10: بنک",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 258,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "معاشیات",
+                "Category": "PTB",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 5223,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 258,
+            "ChapterID": 2755,
+            "TopicRef": "10",
+            "TopicName": "بنک",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 258,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "معاشیات",
+                    "Category": "PTB",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 2756,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 258,
+                "ChapterName": "باب نمبر 11: تجارت",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 258,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "معاشیات",
+                "Category": "PTB",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 5224,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 258,
+            "ChapterID": 2756,
+            "TopicRef": "11",
+            "TopicName": "تجارت",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 258,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "معاشیات",
+                    "Category": "PTB",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 2757,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 258,
+                "ChapterName": "باب نمبر 12: سرکاری مالیات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 258,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "معاشیات",
+                "Category": "PTB",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 5225,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 258,
+            "ChapterID": 2757,
+            "TopicRef": "12",
+            "TopicName": "سرکاری مالیات",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 258,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "معاشیات",
+                    "Category": "PTB",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 2758,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 258,
+                "ChapterName": "باب نمبر 13: معاشی ترقی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 258,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "معاشیات",
+                "Category": "PTB",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 5226,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 258,
+            "ChapterID": 2758,
+            "TopicRef": "13",
+            "TopicName": "معاشی ترقی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 258,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "معاشیات",
+                    "Category": "PTB",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 2759,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 258,
+                "ChapterName": "باب نمبر 14: اسلام کا معاشی نظام",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 258,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "معاشیات",
+                "Category": "PTB",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 5227,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 258,
+            "ChapterID": 2759,
+            "TopicRef": "14",
+            "TopicName": "اسلام کا معاشی نظام",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

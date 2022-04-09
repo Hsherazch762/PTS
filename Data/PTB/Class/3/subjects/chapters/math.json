@@ -1,0 +1,2205 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 83,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "Mathematics",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1709,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 83,
+            "ChapterName": "CHAP 1: Numbers",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 83,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "Mathematics",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1710,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 83,
+            "ChapterName": "CHAP 2: Addition",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 83,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "Mathematics",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1711,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 83,
+            "ChapterName": "CHAP 3: Subtraction",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 83,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "Mathematics",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1712,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 83,
+            "ChapterName": "CHAP 4: Repeated Addition & Multiplication",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 83,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "Mathematics",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1713,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 83,
+            "ChapterName": "CHAP 5: Repeated Subtraction & Division",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 83,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "Mathematics",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1714,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 83,
+            "ChapterName": "CHAP 6: Measurement",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 83,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "Mathematics",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1715,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 83,
+            "ChapterName": "CHAP 7: Fractions",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 83,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "Mathematics",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1716,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 83,
+            "ChapterName": "CHAP 8: Time",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 83,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "Mathematics",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1717,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 83,
+            "ChapterName": "CHAP 9: Shapes",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 83,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "Mathematics",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1718,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 83,
+            "ChapterName": "CHAP 10: Picture Graphs",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 83,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "Mathematics",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1709,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 83,
+                "ChapterName": "CHAP 1: Numbers",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 83,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "Mathematics",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3838,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 83,
+            "ChapterID": 1709,
+            "TopicRef": "1.1",
+            "TopicName": "Comparing Numbers",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 83,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "Mathematics",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1709,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 83,
+                "ChapterName": "CHAP 1: Numbers",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 83,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "Mathematics",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3839,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 83,
+            "ChapterID": 1709,
+            "TopicRef": "1.2",
+            "TopicName": "Ascending and Descending Order",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 83,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "Mathematics",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1709,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 83,
+                "ChapterName": "CHAP 1: Numbers",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 83,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "Mathematics",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3840,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 83,
+            "ChapterID": 1709,
+            "TopicRef": "1.3",
+            "TopicName": "Even and Odd Number",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 83,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "Mathematics",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1710,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 83,
+                "ChapterName": "CHAP 2: Addition",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 83,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "Mathematics",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3841,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 83,
+            "ChapterID": 1710,
+            "TopicRef": "2.1",
+            "TopicName": "Addition Problems in Daily Life",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 83,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "Mathematics",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1710,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 83,
+                "ChapterName": "CHAP 2: Addition",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 83,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "Mathematics",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3842,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 83,
+            "ChapterID": 1710,
+            "TopicRef": "2.2",
+            "TopicName": "More About Addition",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 83,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "Mathematics",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1710,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 83,
+                "ChapterName": "CHAP 2: Addition",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 83,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "Mathematics",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3843,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 83,
+            "ChapterID": 1710,
+            "TopicRef": "2.3",
+            "TopicName": "Mental Addition",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 83,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "Mathematics",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1711,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 83,
+                "ChapterName": "CHAP 3: Subtraction",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 83,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "Mathematics",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3844,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 83,
+            "ChapterID": 1711,
+            "TopicRef": "3.1",
+            "TopicName": "Subtraction in Daily Life",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 83,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "Mathematics",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1712,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 83,
+                "ChapterName": "CHAP 4: Repeated Addition & Multiplication",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 83,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "Mathematics",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3845,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 83,
+            "ChapterID": 1712,
+            "TopicRef": "4.1",
+            "TopicName": "Multiplication",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 83,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "Mathematics",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1713,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 83,
+                "ChapterName": "CHAP 5: Repeated Subtraction & Division",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 83,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "Mathematics",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3846,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 83,
+            "ChapterID": 1713,
+            "TopicRef": "5.1",
+            "TopicName": "Division",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 83,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "Mathematics",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1713,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 83,
+                "ChapterName": "CHAP 5: Repeated Subtraction & Division",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 83,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "Mathematics",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3847,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 83,
+            "ChapterID": 1713,
+            "TopicRef": "5.2",
+            "TopicName": "Division Problems in Daily Life",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 83,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "Mathematics",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1714,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 83,
+                "ChapterName": "CHAP 6: Measurement",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 83,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "Mathematics",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3848,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 83,
+            "ChapterID": 1714,
+            "TopicRef": "6.1",
+            "TopicName": "Measurement Problems in Daily Life",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 83,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "Mathematics",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1715,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 83,
+                "ChapterName": "CHAP 7: Fractions",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 83,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "Mathematics",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3849,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 83,
+            "ChapterID": 1715,
+            "TopicRef": "7.1",
+            "TopicName": "Comparing Fractions",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 83,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "Mathematics",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1715,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 83,
+                "ChapterName": "CHAP 7: Fractions",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 83,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "Mathematics",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3850,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 83,
+            "ChapterID": 1715,
+            "TopicRef": "7.2",
+            "TopicName": "Addition and Subtraction of Fractions",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 83,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "Mathematics",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1715,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 83,
+                "ChapterName": "CHAP 7: Fractions",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 83,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "Mathematics",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3851,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 83,
+            "ChapterID": 1715,
+            "TopicRef": "7.3",
+            "TopicName": "Equivalent Fraction ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 83,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "Mathematics",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1716,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 83,
+                "ChapterName": "CHAP 8: Time",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 83,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "Mathematics",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3852,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 83,
+            "ChapterID": 1716,
+            "TopicRef": "8.1",
+            "TopicName": "Time",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 83,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "Mathematics",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1717,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 83,
+                "ChapterName": "CHAP 9: Shapes",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 83,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "Mathematics",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3853,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 83,
+            "ChapterID": 1717,
+            "TopicRef": "9.1",
+            "TopicName": "Shapes",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 83,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "Mathematics",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1718,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 83,
+                "ChapterName": "CHAP 10: Picture Graphs",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 83,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "Mathematics",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341259109788485.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3854,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 83,
+            "ChapterID": 1718,
+            "TopicRef": "10.1",
+            "TopicName": "Picture and Graphs",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

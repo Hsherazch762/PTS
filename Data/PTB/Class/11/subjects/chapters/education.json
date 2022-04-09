@@ -1,0 +1,1207 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 108,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341222916150891.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1198,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 108,
+            "ChapterName": "باب نمبر 1: تعلیم",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 108,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341222916150891.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1199,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 108,
+            "ChapterName": "باب نمبر 2: مقاصد تعلیم",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 108,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341222916150891.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1200,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 108,
+            "ChapterName": "باب نمبر 3: تعلیم کی بنیادیں",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 108,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341222916150891.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1201,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 108,
+            "ChapterName": "باب نمبر 4: انسانی نشوونما",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 108,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341222916150891.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1202,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 108,
+            "ChapterName": "باب نمبر 5: تعلّم",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 108,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341222916150891.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1203,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 108,
+            "ChapterName": "باب نمبر 6: معاشرہ، کمیونٹی اور تعلیم",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 108,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341222916150891.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1204,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 108,
+            "ChapterName": "باب نمبر 7: رہنمائی اور مشاورت",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 108,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341222916150891.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1205,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 108,
+            "ChapterName": "باب نمبر 8: نصاب، سلیبس اور درسی کتب",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 108,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "ایجوکیشن",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341222916150891.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1198,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 108,
+                "ChapterName": "باب نمبر 1: تعلیم",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 108,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341222916150891.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2370,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 108,
+            "ChapterID": 1198,
+            "TopicRef": ".",
+            "TopicName": "تعلیم",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 108,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "ایجوکیشن",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341222916150891.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1199,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 108,
+                "ChapterName": "باب نمبر 2: مقاصد تعلیم",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 108,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341222916150891.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2371,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 108,
+            "ChapterID": 1199,
+            "TopicRef": ".",
+            "TopicName": "مقاصد تعلیم",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 108,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "ایجوکیشن",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341222916150891.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1200,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 108,
+                "ChapterName": "باب نمبر 3: تعلیم کی بنیادیں",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 108,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341222916150891.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2372,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 108,
+            "ChapterID": 1200,
+            "TopicRef": ".",
+            "TopicName": "تعلیم کی بنیادیں",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 108,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "ایجوکیشن",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341222916150891.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1201,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 108,
+                "ChapterName": "باب نمبر 4: انسانی نشوونما",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 108,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341222916150891.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2373,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 108,
+            "ChapterID": 1201,
+            "TopicRef": ".",
+            "TopicName": "انسانی نشوونما",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 108,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "ایجوکیشن",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341222916150891.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1202,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 108,
+                "ChapterName": "باب نمبر 5: تعلّم",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 108,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341222916150891.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2374,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 108,
+            "ChapterID": 1202,
+            "TopicRef": ".",
+            "TopicName": "تعلّم",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 108,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "ایجوکیشن",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341222916150891.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1203,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 108,
+                "ChapterName": "باب نمبر 6: معاشرہ، کمیونٹی اور تعلیم",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 108,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341222916150891.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2375,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 108,
+            "ChapterID": 1203,
+            "TopicRef": ".",
+            "TopicName": "معاشرہ، کمیونٹی اور تعلیم",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 108,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "ایجوکیشن",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341222916150891.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1204,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 108,
+                "ChapterName": "باب نمبر 7: رہنمائی اور مشاورت",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 108,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341222916150891.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2376,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 108,
+            "ChapterID": 1204,
+            "TopicRef": ".",
+            "TopicName": "رہنمائی اور مشاورت",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 108,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "ایجوکیشن",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341222916150891.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1205,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 108,
+                "ChapterName": "باب نمبر 8: نصاب، سلیبس اور درسی کتب",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 108,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341222916150891.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2377,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 108,
+            "ChapterID": 1205,
+            "TopicRef": ".",
+            "TopicName": "نصاب، سلیبس اور درسی کتب",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

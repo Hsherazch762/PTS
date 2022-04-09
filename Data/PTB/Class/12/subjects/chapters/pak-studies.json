@@ -1,0 +1,3954 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1095,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterName": "باب نمبر 1: اسلامی جمہوریہ پاکستان کا قیام",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1096,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterName": "باب نمبر 2:اسلامی جمہوریہ  کی ابتدائی مشکلات",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1097,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterName": "باب نمبر 3: اسلامی جمہوریہ پاکستان کا جغرافیہ",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1098,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterName": "باب نمبر 4: پاکستان کو اسلامی جمہوریہ بنانے کے اقدامات",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1099,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterName": "باب نمبر 5: پاکستان کا حکومتی ڈھانچہ اور اچھا نظام حکومت",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1100,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterName": "باب نمبر 6: اسلامی جمہوریہ پاکستان کی ثقافت",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1101,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterName": "باب نمبر 7: اسلامی جمہوریہ پاکستان کی زبانیں",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1102,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterName": "باب نمبر 8: قومی یکجہتی اور خوشحالی",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1103,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterName": "باب نمبر 9: اسلامی جمہوریہ پاکستان میں معاشی منصوبہ بندی اور ترقی",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1104,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterName": "باب نمبر 10: تحفظ نسواں",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1105,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterName": "باب نمبر 11: اسلامی جمہوریہ پاکستان کی خارجہ پالیسی",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 128,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "مطالعہ پاکستان",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1095,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 128,
+                "ChapterName": "باب نمبر 1: اسلامی جمہوریہ پاکستان کا قیام",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2232,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterID": 1095,
+            "TopicRef": "1.1",
+            "TopicName": "نظریہ پاکستان۔قائداعظم اور علامہ اقبال",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 128,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "مطالعہ پاکستان",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1095,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 128,
+                "ChapterName": "باب نمبر 1: اسلامی جمہوریہ پاکستان کا قیام",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2233,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterID": 1095,
+            "TopicRef": "1.2",
+            "TopicName": "نظریہ پاکستان کے اجزائے ترکیبی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 128,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "مطالعہ پاکستان",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1095,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 128,
+                "ChapterName": "باب نمبر 1: اسلامی جمہوریہ پاکستان کا قیام",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2234,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterID": 1095,
+            "TopicRef": "1.3",
+            "TopicName": "مسلمانان برصغیر کی جدوجہد کا نتیجہ ۔ تحریک علی گڑھ سرسید احمد خان اور تحریک علی گڑھ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 128,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "مطالعہ پاکستان",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1095,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 128,
+                "ChapterName": "باب نمبر 1: اسلامی جمہوریہ پاکستان کا قیام",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2236,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterID": 1095,
+            "TopicRef": "1.4",
+            "TopicName": "آ ل انڈیا مسلم لیگ کا قیام،اسباب ومقاصد",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 128,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "مطالعہ پاکستان",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1095,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 128,
+                "ChapterName": "باب نمبر 1: اسلامی جمہوریہ پاکستان کا قیام",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2237,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterID": 1095,
+            "TopicRef": "1.5",
+            "TopicName": "تحریک خلافت اسباب اور انجام",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 128,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "مطالعہ پاکستان",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1095,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 128,
+                "ChapterName": "باب نمبر 1: اسلامی جمہوریہ پاکستان کا قیام",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2238,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterID": 1095,
+            "TopicRef": "1.6",
+            "TopicName": "قرار داد پاکستان کے بنیادی نکات",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 128,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "مطالعہ پاکستان",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1095,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 128,
+                "ChapterName": "باب نمبر 1: اسلامی جمہوریہ پاکستان کا قیام",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2239,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterID": 1095,
+            "TopicRef": "1.7",
+            "TopicName": "شملہ کانفرنس1945ء انتخاب 1945-46ء کابینہ مشن1946ء کرپس مشن",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 128,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "مطالعہ پاکستان",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1095,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 128,
+                "ChapterName": "باب نمبر 1: اسلامی جمہوریہ پاکستان کا قیام",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2240,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterID": 1095,
+            "TopicRef": "1.8",
+            "TopicName": "3 جون کا منصوبہ اور اہم نکات",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 128,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "مطالعہ پاکستان",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1096,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 128,
+                "ChapterName": "باب نمبر 2:اسلامی جمہوریہ  کی ابتدائی مشکلات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2241,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterID": 1096,
+            "TopicRef": "2.1",
+            "TopicName": "ابتدائی مشکلات",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 128,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "مطالعہ پاکستان",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1096,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 128,
+                "ChapterName": "باب نمبر 2:اسلامی جمہوریہ  کی ابتدائی مشکلات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2242,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterID": 1096,
+            "TopicRef": "2.2",
+            "TopicName": "پاکستان کے متعلق قائداعظم کی سیاسی بصیرت",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 128,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "مطالعہ پاکستان",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1097,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 128,
+                "ChapterName": "باب نمبر 3: اسلامی جمہوریہ پاکستان کا جغرافیہ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2243,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterID": 1097,
+            "TopicRef": "3.1",
+            "TopicName": "پاکستان کا محل وقوع",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 128,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "مطالعہ پاکستان",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1097,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 128,
+                "ChapterName": "باب نمبر 3: اسلامی جمہوریہ پاکستان کا جغرافیہ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2244,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterID": 1097,
+            "TopicRef": "3.2",
+            "TopicName": "پاکستان کے طبعی خدوخال",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 128,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "مطالعہ پاکستان",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1097,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 128,
+                "ChapterName": "باب نمبر 3: اسلامی جمہوریہ پاکستان کا جغرافیہ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2245,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterID": 1097,
+            "TopicRef": "3.3",
+            "TopicName": "پاکستان کی آب و ہوا",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 128,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "مطالعہ پاکستان",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1097,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 128,
+                "ChapterName": "باب نمبر 3: اسلامی جمہوریہ پاکستان کا جغرافیہ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2246,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterID": 1097,
+            "TopicRef": "3.4",
+            "TopicName": "سیاحت کی کشش",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 128,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "مطالعہ پاکستان",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1098,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 128,
+                "ChapterName": "باب نمبر 4: پاکستان کو اسلامی جمہوریہ بنانے کے اقدامات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2247,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterID": 1098,
+            "TopicRef": "4.1",
+            "TopicName": "قرارداد پاکستان",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 128,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "مطالعہ پاکستان",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1098,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 128,
+                "ChapterName": "باب نمبر 4: پاکستان کو اسلامی جمہوریہ بنانے کے اقدامات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2248,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterID": 1098,
+            "TopicRef": "4.2",
+            "TopicName": "پاکستان کے دساتیر میں اسلامی دفعات",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 128,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "مطالعہ پاکستان",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1098,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 128,
+                "ChapterName": "باب نمبر 4: پاکستان کو اسلامی جمہوریہ بنانے کے اقدامات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2249,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterID": 1098,
+            "TopicRef": "4.3",
+            "TopicName": "شہریوں کے حقوق و فرائض",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 128,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "مطالعہ پاکستان",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1098,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 128,
+                "ChapterName": "باب نمبر 4: پاکستان کو اسلامی جمہوریہ بنانے کے اقدامات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2250,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterID": 1098,
+            "TopicRef": "4.4",
+            "TopicName": "انسانی  حقوق",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 128,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "مطالعہ پاکستان",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1099,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 128,
+                "ChapterName": "باب نمبر 5: پاکستان کا حکومتی ڈھانچہ اور اچھا نظام حکومت",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2251,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterID": 1099,
+            "TopicRef": "5.1",
+            "TopicName": "وفاقی، فضائی اور صوبائی حکومت",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 128,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "مطالعہ پاکستان",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1099,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 128,
+                "ChapterName": "باب نمبر 5: پاکستان کا حکومتی ڈھانچہ اور اچھا نظام حکومت",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2252,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterID": 1099,
+            "TopicRef": "5.2",
+            "TopicName": "اسلامی نظام حکومت",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 128,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "مطالعہ پاکستان",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1100,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 128,
+                "ChapterName": "باب نمبر 6: اسلامی جمہوریہ پاکستان کی ثقافت",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2253,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterID": 1100,
+            "TopicRef": "6.1",
+            "TopicName": "ثقافت کا مفہوم اور اہمیت",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 128,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "مطالعہ پاکستان",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1100,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 128,
+                "ChapterName": "باب نمبر 6: اسلامی جمہوریہ پاکستان کی ثقافت",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2254,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterID": 1100,
+            "TopicRef": "6.2",
+            "TopicName": "پاکستانی حوالے سے پرانی تہذیبیں",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 128,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "مطالعہ پاکستان",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1100,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 128,
+                "ChapterName": "باب نمبر 6: اسلامی جمہوریہ پاکستان کی ثقافت",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2255,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterID": 1100,
+            "TopicRef": "6.3",
+            "TopicName": "پاکستان کی ثقافت کی نمایاں خصوصیات",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 128,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "مطالعہ پاکستان",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1101,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 128,
+                "ChapterName": "باب نمبر 7: اسلامی جمہوریہ پاکستان کی زبانیں",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2256,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterID": 1101,
+            "TopicRef": "7.1",
+            "TopicName": "اسلامی جمہوریہ پاکستان اور زبانیں",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 128,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "مطالعہ پاکستان",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1102,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 128,
+                "ChapterName": "باب نمبر 8: قومی یکجہتی اور خوشحالی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2257,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterID": 1102,
+            "TopicRef": "8.1",
+            "TopicName": "قومی یکجہتی کی سالمیت اور اہمیت",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 128,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "مطالعہ پاکستان",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1102,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 128,
+                "ChapterName": "باب نمبر 8: قومی یکجہتی اور خوشحالی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2258,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterID": 1102,
+            "TopicRef": "8.2",
+            "TopicName": "اسلامی جمہوری ریاست اور قومی یکجہتی و سالمیت",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 128,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "مطالعہ پاکستان",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1102,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 128,
+                "ChapterName": "باب نمبر 8: قومی یکجہتی اور خوشحالی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2259,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterID": 1102,
+            "TopicRef": "8.3",
+            "TopicName": "قومی یکجہتی و سالمیت کے مسائل",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 128,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "مطالعہ پاکستان",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1103,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 128,
+                "ChapterName": "باب نمبر 9: اسلامی جمہوریہ پاکستان میں معاشی منصوبہ بندی اور ترقی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2260,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterID": 1103,
+            "TopicRef": "9.1",
+            "TopicName": "پاکستان میں منصوبہ بندی کی اہمیت",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 128,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "مطالعہ پاکستان",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1103,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 128,
+                "ChapterName": "باب نمبر 9: اسلامی جمہوریہ پاکستان میں معاشی منصوبہ بندی اور ترقی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2261,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterID": 1103,
+            "TopicRef": "9.2",
+            "TopicName": "پاکستان معاشی، زرعی ، صنعتی اور تعلیمی اہمیت و افادیت",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 128,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "مطالعہ پاکستان",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1103,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 128,
+                "ChapterName": "باب نمبر 9: اسلامی جمہوریہ پاکستان میں معاشی منصوبہ بندی اور ترقی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2262,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterID": 1103,
+            "TopicRef": "9.3",
+            "TopicName": "آٹھویں پانچ سالہ منصوبے کے بنیادی مقاصد",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 128,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "مطالعہ پاکستان",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1104,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 128,
+                "ChapterName": "باب نمبر 10: تحفظ نسواں",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2263,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterID": 1104,
+            "TopicRef": "10.1",
+            "TopicName": "اسلام میں خواتین کے حقوق",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 128,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "مطالعہ پاکستان",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1104,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 128,
+                "ChapterName": "باب نمبر 10: تحفظ نسواں",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2264,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterID": 1104,
+            "TopicRef": "10.2",
+            "TopicName": "پاکستان میں خواتین کے حقوق",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 128,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "مطالعہ پاکستان",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1105,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 128,
+                "ChapterName": "باب نمبر 11: اسلامی جمہوریہ پاکستان کی خارجہ پالیسی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2265,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterID": 1105,
+            "TopicRef": "11.1",
+            "TopicName": "پاکستان کی خارجہ پالیسی و مقاصد",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 128,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "مطالعہ پاکستان",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1105,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 128,
+                "ChapterName": "باب نمبر 11: اسلامی جمہوریہ پاکستان کی خارجہ پالیسی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 128,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "مطالعہ پاکستان",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241235120549.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2266,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 128,
+            "ChapterID": 1105,
+            "TopicRef": "12.2",
+            "TopicName": "پاکستان میں عالمی برادری",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

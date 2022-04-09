@@ -1,0 +1,909 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 127,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Business Statistics",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341241094700693.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1449,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 127,
+            "ChapterName": "CHAP 1: What is Statistics?",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 127,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Business Statistics",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341241094700693.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1450,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 127,
+            "ChapterName": "CHAP 2: Presentation of Data",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 127,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Business Statistics",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341241094700693.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1451,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 127,
+            "ChapterName": "CHAP 3: Averages of First Order",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 127,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Business Statistics",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341241094700693.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1452,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 127,
+            "ChapterName": "CHAP 4: Index Numbers",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 127,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Business Statistics",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341241094700693.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1453,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 127,
+            "ChapterName": "CHAP 5: Basic Set Theory and Counting Techniques",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 127,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Business Statistics",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341241094700693.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1454,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 127,
+            "ChapterName": "CHAP 6: Probability Theory",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 127,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Business Statistics",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341241094700693.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1449,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 127,
+                "ChapterName": "CHAP 1: What is Statistics?",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 127,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Business Statistics",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341241094700693.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2635,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 127,
+            "ChapterID": 1449,
+            "TopicRef": "1",
+            "TopicName": "What is Statistics?",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 127,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Business Statistics",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341241094700693.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1450,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 127,
+                "ChapterName": "CHAP 2: Presentation of Data",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 127,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Business Statistics",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341241094700693.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2636,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 127,
+            "ChapterID": 1450,
+            "TopicRef": "2",
+            "TopicName": "Presentation of Data",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 127,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Business Statistics",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341241094700693.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1451,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 127,
+                "ChapterName": "CHAP 3: Averages of First Order",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 127,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Business Statistics",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341241094700693.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2637,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 127,
+            "ChapterID": 1451,
+            "TopicRef": "3",
+            "TopicName": "Averages of First Order",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 127,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Business Statistics",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341241094700693.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1452,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 127,
+                "ChapterName": "CHAP 4: Index Numbers",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 127,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Business Statistics",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341241094700693.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2638,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 127,
+            "ChapterID": 1452,
+            "TopicRef": "4",
+            "TopicName": "Index Numbers",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 127,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Business Statistics",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341241094700693.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1453,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 127,
+                "ChapterName": "CHAP 5: Basic Set Theory and Counting Techniques",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 127,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Business Statistics",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341241094700693.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2639,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 127,
+            "ChapterID": 1453,
+            "TopicRef": "5",
+            "TopicName": "Basic Set Theory and Counting Techniques",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 127,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Business Statistics",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341241094700693.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1454,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 127,
+                "ChapterName": "CHAP 6: Probability Theory",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 127,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Business Statistics",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341241094700693.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2640,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 127,
+            "ChapterID": 1454,
+            "TopicRef": "6",
+            "TopicName": "Probability Theory",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

@@ -1,0 +1,566 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 134,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "فزیکل ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341247263593528.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1344,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 134,
+            "ChapterName": "باب نمبر 6: کھیلوں کی افادیت",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 134,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "فزیکل ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341247263593528.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1345,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 134,
+            "ChapterName": "باب نمبر 7: معظم کھیل",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 134,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "فزیکل ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341247263593528.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1346,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 134,
+            "ChapterName": "باب نمبر 8: کسرتی کھیل",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": null,
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 134,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "فزیکل ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341247263593528.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2530,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 134,
+            "ChapterID": 1347,
+            "TopicRef": "9",
+            "TopicName": "جنسی حفظان صحت",
+            "IsActive": true
+        },
+        {
+            "Chapter": null,
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 134,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "فزیکل ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341247263593528.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2531,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 134,
+            "ChapterID": 1348,
+            "TopicRef": "10",
+            "TopicName": "ابتدائی طبی امداد",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 134,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "فزیکل ایجوکیشن",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341247263593528.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1344,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 134,
+                "ChapterName": "باب نمبر 6: کھیلوں کی افادیت",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 134,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "فزیکل ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341247263593528.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2532,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 134,
+            "ChapterID": 1344,
+            "TopicRef": "6",
+            "TopicName": "کھیلوں کی افادیت",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 134,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "فزیکل ایجوکیشن",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341247263593528.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1345,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 134,
+                "ChapterName": "باب نمبر 7: معظم کھیل",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 134,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "فزیکل ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341247263593528.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2533,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 134,
+            "ChapterID": 1345,
+            "TopicRef": "7",
+            "TopicName": "معظم کھیل",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 134,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "فزیکل ایجوکیشن",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341247263593528.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1346,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 134,
+                "ChapterName": "باب نمبر 8: کسرتی کھیل",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 134,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "فزیکل ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341247263593528.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2534,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 134,
+            "ChapterID": 1346,
+            "TopicRef": "8",
+            "TopicName": "کسرتی کھیل",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

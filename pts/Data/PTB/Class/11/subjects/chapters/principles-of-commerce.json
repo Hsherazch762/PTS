@@ -1,0 +1,3889 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1361,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterName": "CHAP 1: Concept of Business",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1362,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterName": "CHAP 2: Nature and Scope of Commerce",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1363,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterName": "CHAP 3: Sole Tradership",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1364,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterName": "CHAP 4: Partnership",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1365,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterName": "CHAP 5: Joint Stock Company-I",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1366,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterName": "CHAP 6: Joint Stock Company-II",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1367,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterName": "CHAP 7: Joint Stock Company-III",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1368,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterName": "CHAP 8: Cooperative Society",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1369,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterName": "CHAP 9: Home Trade",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1370,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterName": "CHAP 10: Wholesale Trade",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1371,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterName": "CHAP 11: Retail Trade",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1372,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterName": "CHAP 12: Foreign Trade",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1373,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterName": "CHAP 13: Import Trade",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1374,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterName": "CHAP 14: Export Trade",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1375,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterName": "CHAP 15: Middlemen",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1376,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterName": "CHAP 16: Sales Promotion",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1377,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterName": "CHAP 17: Business Finance",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1378,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterName": "CHAP 18: Insurance",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1379,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterName": "CHAP 19: Means of Transportation",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1380,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterName": "CHAP 20: Warehousing",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1381,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterName": "CHAP 21: Chamber of Commerce & Industry",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1382,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterName": "CHAP 22: Office Organization",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1383,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterName": "CHAP 23: Office Machines",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1384,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterName": "CHAP 24: Filing & Indexing",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1385,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterName": "CHAP 25: Business Correspondence",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1386,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterName": "CHAP 26: Official Correspondence",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 104,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Commerce",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1361,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 104,
+                "ChapterName": "CHAP 1: Concept of Business",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2547,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterID": 1361,
+            "TopicRef": ".",
+            "TopicName": "Concept of Business",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 104,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Commerce",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1362,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 104,
+                "ChapterName": "CHAP 2: Nature and Scope of Commerce",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2548,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterID": 1362,
+            "TopicRef": ".",
+            "TopicName": "Nature and Scope of Commerce",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 104,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Commerce",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1363,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 104,
+                "ChapterName": "CHAP 3: Sole Tradership",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2549,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterID": 1363,
+            "TopicRef": ".",
+            "TopicName": "Sole Tradership",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 104,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Commerce",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1364,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 104,
+                "ChapterName": "CHAP 4: Partnership",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2550,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterID": 1364,
+            "TopicRef": ".",
+            "TopicName": "Partnership",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 104,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Commerce",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1365,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 104,
+                "ChapterName": "CHAP 5: Joint Stock Company-I",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2551,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterID": 1365,
+            "TopicRef": ".",
+            "TopicName": "Joint Stock Company-I",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 104,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Commerce",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1366,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 104,
+                "ChapterName": "CHAP 6: Joint Stock Company-II",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2552,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterID": 1366,
+            "TopicRef": ".",
+            "TopicName": "Joint Stock Company-II",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 104,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Commerce",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1367,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 104,
+                "ChapterName": "CHAP 7: Joint Stock Company-III",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2553,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterID": 1367,
+            "TopicRef": ".",
+            "TopicName": "Joint Stock Company-III",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 104,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Commerce",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1368,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 104,
+                "ChapterName": "CHAP 8: Cooperative Society",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2554,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterID": 1368,
+            "TopicRef": ".",
+            "TopicName": "Cooperative Society",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 104,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Commerce",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1369,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 104,
+                "ChapterName": "CHAP 9: Home Trade",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2555,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterID": 1369,
+            "TopicRef": ".",
+            "TopicName": "Home Trade",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 104,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Commerce",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1370,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 104,
+                "ChapterName": "CHAP 10: Wholesale Trade",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2556,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterID": 1370,
+            "TopicRef": ".",
+            "TopicName": "Wholesale Trade",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 104,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Commerce",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1371,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 104,
+                "ChapterName": "CHAP 11: Retail Trade",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2557,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterID": 1371,
+            "TopicRef": ".",
+            "TopicName": "Retail Trade",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 104,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Commerce",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1372,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 104,
+                "ChapterName": "CHAP 12: Foreign Trade",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2558,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterID": 1372,
+            "TopicRef": ".",
+            "TopicName": "Foreign Trade",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 104,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Commerce",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1373,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 104,
+                "ChapterName": "CHAP 13: Import Trade",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2559,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterID": 1373,
+            "TopicRef": ".",
+            "TopicName": "Import Trade",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 104,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Commerce",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1374,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 104,
+                "ChapterName": "CHAP 14: Export Trade",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2560,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterID": 1374,
+            "TopicRef": ".",
+            "TopicName": "Export Trade",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 104,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Commerce",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1375,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 104,
+                "ChapterName": "CHAP 15: Middlemen",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2561,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterID": 1375,
+            "TopicRef": ".",
+            "TopicName": "Middlemen",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 104,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Commerce",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1376,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 104,
+                "ChapterName": "CHAP 16: Sales Promotion",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2562,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterID": 1376,
+            "TopicRef": ".",
+            "TopicName": "Sales Promotion",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 104,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Commerce",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1377,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 104,
+                "ChapterName": "CHAP 17: Business Finance",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2563,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterID": 1377,
+            "TopicRef": ".",
+            "TopicName": "Business Finance",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 104,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Commerce",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1378,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 104,
+                "ChapterName": "CHAP 18: Insurance",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2564,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterID": 1378,
+            "TopicRef": ".",
+            "TopicName": "Insurance",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 104,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Commerce",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1379,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 104,
+                "ChapterName": "CHAP 19: Means of Transportation",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2565,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterID": 1379,
+            "TopicRef": ".",
+            "TopicName": "Means of Transportation",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 104,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Commerce",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1380,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 104,
+                "ChapterName": "CHAP 20: Warehousing",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2566,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterID": 1380,
+            "TopicRef": ".",
+            "TopicName": "Warehousing",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 104,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Commerce",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1381,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 104,
+                "ChapterName": "CHAP 21: Chamber of Commerce & Industry",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2567,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterID": 1381,
+            "TopicRef": ".",
+            "TopicName": "Chamber of Commerce & Industry",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 104,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Commerce",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1382,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 104,
+                "ChapterName": "CHAP 22: Office Organization",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2568,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterID": 1382,
+            "TopicRef": ".",
+            "TopicName": "Office Organization",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 104,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Commerce",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1383,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 104,
+                "ChapterName": "CHAP 23: Office Machines",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2569,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterID": 1383,
+            "TopicRef": ".",
+            "TopicName": "Office Machines",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 104,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Commerce",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1384,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 104,
+                "ChapterName": "CHAP 24: Filing & Indexing",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2570,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterID": 1384,
+            "TopicRef": ".",
+            "TopicName": "Filing & Indexing",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 104,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Commerce",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1385,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 104,
+                "ChapterName": "CHAP 25: Business Correspondence",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2571,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterID": 1385,
+            "TopicRef": ".",
+            "TopicName": "Business Correspondence",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 104,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Commerce",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1386,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 104,
+                "ChapterName": "CHAP 26: Official Correspondence",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 104,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Commerce",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222274126075.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2572,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 104,
+            "ChapterID": 1386,
+            "TopicRef": ".",
+            "TopicName": "Official Correspondence",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

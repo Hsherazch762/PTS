@@ -1,0 +1,5732 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "ChapterID": 1142,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterName": "باب نمبر 1: مناقب عمر بن عبدالعزیزؓ",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "ChapterID": 1143,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterName": "باب نمبر2: تشکیل پاکستان",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "ChapterID": 1144,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterName": "باب نمبر 3: نواب محسن الملک",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "ChapterID": 1145,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterName": "باب نمبر 4: محنت پسند خردمند",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "ChapterID": 1146,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterName": "باب نمبر 5: اکبری کی حماقتیں",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "ChapterID": 1147,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterName": "باب نمبر 6: پہلی فتح",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "ChapterID": 1148,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterName": "باب نمبر 7: دستک",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "ChapterID": 1149,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterName": "باب نمبر 8: ہوائی",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "ChapterID": 1150,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterName": "باب نمبر 9: مولانا ظفرعلی خاں",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "ChapterID": 1151,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterName": "باب نمبر 10: قرطبہ کا قاضی",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "ChapterID": 1152,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterName": "باب نمبر 11: مواصلات کے جدید ذرائع",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "ChapterID": 1153,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterName": "باب نمبر 12: مولوی نذیر احمد دہلوی",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "ChapterID": 1154,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterName": "باب نمبر 13: ایک سفر نامہ جو کہیں کا بھی نہیں ہے",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "ChapterID": 1155,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterName": "باب نمبر 14: ایوب عباسی",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "ChapterID": 1156,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterName": "نظم نمبر 1: حمد",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "ChapterID": 1157,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterName": "نظم نمبر 2: نعت",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "ChapterID": 1158,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterName": "نظم نمبر 3: خدا سر سبز رکھے اس چمن کو",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "ChapterID": 1159,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterName": "نظم نمبر 4: اسلامی مساوات",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "ChapterID": 1160,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterName": "نظم نمبر 5: سراغِ زاہرو",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "ChapterID": 1161,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterName": "نظم نمبر 6: آدمی",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "ChapterID": 1162,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterName": "نظم نمبر 7: نوجوان سے خطاب",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "ChapterID": 1163,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterName": "نظم نمبر 8: ایک کوہستانی سفر کے دوران میں",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "ChapterID": 1164,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterName": "نظم نمبر 9: تغیر",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "ChapterID": 1165,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterName": "نظم نمبر 10: قطعات",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "ChapterID": 1166,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterName": "غزل نمبر 1،2: خواجہ میر درد",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "ChapterID": 1168,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterName": "غزل نمبر 3،4: غلام مصطفی ہمدانی",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "ChapterID": 1170,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterName": "غزل نمبر 5،6: مرزا غالب",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "ChapterID": 1172,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterName": "غزل نمبر 7،8: علامہ اقبالؒ",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "ChapterID": 1174,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterName": "غزل نمبر 9،10: ناصر کاظمی",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "ChapterID": 1176,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterName": "غزل نمبر 11: فراق گور کھپوری",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "ChapterID": 1177,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterName": "غزل نمبر 12: تابش دہلوی",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "ChapterID": 1178,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterName": "حصہ قوائدوانشا (معروضی)",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "ChapterID": 1179,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterName": "گرائمر (خطوط)، (مضامین)",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1142,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "باب نمبر 1: مناقب عمر بن عبدالعزیزؓ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2314,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1142,
+            "TopicRef": "1",
+            "TopicName": "مناقب عمر بن عبدالعزیزؓ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1143,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "باب نمبر2: تشکیل پاکستان",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2315,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1143,
+            "TopicRef": "2",
+            "TopicName": "تشکیل پاکستان",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1144,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "باب نمبر 3: نواب محسن الملک",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2316,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1144,
+            "TopicRef": "3",
+            "TopicName": "نواب محسن الملک",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1145,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "باب نمبر 4: محنت پسند خردمند",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2317,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1145,
+            "TopicRef": "4",
+            "TopicName": "محنت پسند خرد مند",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1146,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "باب نمبر 5: اکبری کی حماقتیں",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2318,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1146,
+            "TopicRef": "5",
+            "TopicName": "اکبری کی حماقتیں",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1147,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "باب نمبر 6: پہلی فتح",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2319,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1147,
+            "TopicRef": "6",
+            "TopicName": "پہلی فتح",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1148,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "باب نمبر 7: دستک",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2320,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1148,
+            "TopicRef": "7",
+            "TopicName": "دستک",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1149,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "باب نمبر 8: ہوائی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2321,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1149,
+            "TopicRef": "8",
+            "TopicName": "ہوائی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1150,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "باب نمبر 9: مولانا ظفرعلی خاں",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2322,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1150,
+            "TopicRef": "9",
+            "TopicName": "مولانا ظفر علی خاں",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1151,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "باب نمبر 10: قرطبہ کا قاضی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2323,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1151,
+            "TopicRef": "10",
+            "TopicName": "قرطبہ کا قاضی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1152,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "باب نمبر 11: مواصلات کے جدید ذرائع",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2324,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1152,
+            "TopicRef": "11",
+            "TopicName": "مواصلات کے جدید ذرائع",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1153,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "باب نمبر 12: مولوی نذیر احمد دہلوی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2325,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1153,
+            "TopicRef": "12",
+            "TopicName": "مولوی نذیر احمد دہلوی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1154,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "باب نمبر 13: ایک سفر نامہ جو کہیں کا بھی نہیں ہے",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2326,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1154,
+            "TopicRef": "13",
+            "TopicName": "ایک سفر نامہ جو کہیں کا بھی نہیں",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1155,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "باب نمبر 14: ایوب عباسی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2327,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1155,
+            "TopicRef": "14",
+            "TopicName": "ایوب عباسی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1156,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "نظم نمبر 1: حمد",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2328,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1156,
+            "TopicRef": "1",
+            "TopicName": "حمد",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1157,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "نظم نمبر 2: نعت",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2329,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1157,
+            "TopicRef": "2",
+            "TopicName": "نعت",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1158,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "نظم نمبر 3: خدا سر سبز رکھے اس چمن کو",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2330,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1158,
+            "TopicRef": "3",
+            "TopicName": "خدا سر سبزرکھے اس چمن کو",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1159,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "نظم نمبر 4: اسلامی مساوات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2331,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1159,
+            "TopicRef": "4",
+            "TopicName": "اسلامی مساوات",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1160,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "نظم نمبر 5: سراغِ زاہرو",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2332,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1160,
+            "TopicRef": "5",
+            "TopicName": "سراغِ  زاہرو",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1161,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "نظم نمبر 6: آدمی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2333,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1161,
+            "TopicRef": "6",
+            "TopicName": "آدمی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1162,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "نظم نمبر 7: نوجوان سے خطاب",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2334,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1162,
+            "TopicRef": "7",
+            "TopicName": "نوجوان سے خطاب",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1163,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "نظم نمبر 8: ایک کوہستانی سفر کے دوران میں",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2335,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1163,
+            "TopicRef": "8",
+            "TopicName": "ایک کوہستانی سفر کے دوران میں",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1164,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "نظم نمبر 9: تغیر",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2336,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1164,
+            "TopicRef": "9",
+            "TopicName": "تغیر",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1165,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "نظم نمبر 10: قطعات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2337,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1165,
+            "TopicRef": "10",
+            "TopicName": "قطعات",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1166,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "غزل نمبر 1،2: خواجہ میر درد",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2338,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1166,
+            "TopicRef": "1",
+            "TopicName": "ٖٖغزل",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1166,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "غزل نمبر 1،2: خواجہ میر درد",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2339,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1166,
+            "TopicRef": "2",
+            "TopicName": "غزل نمبر 2",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1168,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "غزل نمبر 3،4: غلام مصطفی ہمدانی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2340,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1168,
+            "TopicRef": "3",
+            "TopicName": "غزل",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1168,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "غزل نمبر 3،4: غلام مصطفی ہمدانی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2341,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1168,
+            "TopicRef": "4",
+            "TopicName": "غزل نمبر 4",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1170,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "غزل نمبر 5،6: مرزا غالب",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2342,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1170,
+            "TopicRef": "5",
+            "TopicName": "غزل",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1170,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "غزل نمبر 5،6: مرزا غالب",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2343,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1170,
+            "TopicRef": "6",
+            "TopicName": "غزل نمبر 6",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1172,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "غزل نمبر 7،8: علامہ اقبالؒ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2344,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1172,
+            "TopicRef": "7",
+            "TopicName": "غزل",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1172,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "غزل نمبر 7،8: علامہ اقبالؒ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2345,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1172,
+            "TopicRef": "8",
+            "TopicName": "غزل نمبر 8",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1174,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "غزل نمبر 9،10: ناصر کاظمی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2346,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1174,
+            "TopicRef": "9",
+            "TopicName": "غزل",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1174,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "غزل نمبر 9،10: ناصر کاظمی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2347,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1174,
+            "TopicRef": "10",
+            "TopicName": "غزل نمبر 10",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1176,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "غزل نمبر 11: فراق گور کھپوری",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2348,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1176,
+            "TopicRef": "11",
+            "TopicName": "غزل",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1177,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "غزل نمبر 12: تابش دہلوی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2349,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1177,
+            "TopicRef": "12",
+            "TopicName": "غزل",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1178,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "حصہ قوائدوانشا (معروضی)",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2350,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1178,
+            "TopicRef": "1",
+            "TopicName": "مطابقت اور حروف کا درست استعمال",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1178,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "حصہ قوائدوانشا (معروضی)",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2351,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1178,
+            "TopicRef": "2",
+            "TopicName": "رموز اوقاف",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1178,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "حصہ قوائدوانشا (معروضی)",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2352,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1178,
+            "TopicRef": "3",
+            "TopicName": "مصادر کا بطور امدادی افعال کا استعمال",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1179,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "گرائمر (خطوط)، (مضامین)",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2353,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1179,
+            "TopicRef": "1",
+            "TopicName": "خطوط",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 129,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "12TH",
+                    "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                    "IsActive": true
+                },
+                "ChapterID": 1179,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 129,
+                "ChapterName": "گرائمر (خطوط)، (مضامین)",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 129,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اُردو لازمی",
+                "Category": "12TH",
+                "ImageUrl": "/Images/Subjects/637341241364807520.JPG",
+                "IsActive": true
+            },
+            "TopicID": 2354,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 129,
+            "ChapterID": 1179,
+            "TopicRef": "2",
+            "TopicName": "مضامین",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

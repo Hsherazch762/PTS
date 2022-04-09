@@ -1,0 +1,3642 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 723,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterName": "نثر نمبر 7: غازی علم الدین شہید",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 724,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterName": "نثر نمبر 8: واپسی",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 725,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterName": "نثر نمبر 9: ساڈا وسیب ۔۔ ساڈا ورثہ",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 726,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterName": "نثر نمبر 10: قصہ اک طوطے دا",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 727,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterName": "نثر نمبر 11: ٹھیڈا",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 728,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterName": "نثر نمبر 12: ساڈا ماحول",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 729,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterName": "نثر نمبر 13: ہمت کرے انسان تے",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 730,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterName": "نظم نمبر 1: امن",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 731,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterName": "نظم نمبر 2: میں خیراں منگاں دیس دیاں",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 732,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterName": "نظم نمبر 3: شہید دی ماں",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 733,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterName": "نظم نمبر 4: دیس پیار",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 734,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterName": "نظم نمبر 5: اک طالب علم دی دعا",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 735,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterName": "نظم نمبر 6: وطن آہلنا رہے سلامت",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 736,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterName": "نظم نمبر 7: کیہڑے پاسے جاواں",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 737,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterName": "نظم نمبر 8: سکھ سنہیڑا",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 738,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterName": "نظم نمبر 9: زراعتی گیت",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 739,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterName": "نظم نمبر 10: بکرا منڈی",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 740,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterName": "غزل نمبر 1: عارف عبد المتین",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 741,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterName": "غزل نمبر 2: منیر نیازی",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 742,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterName": "غزل نمبر 3: اقبال سوکڑی",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 743,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterName": "غزل نمبر 4: اکرام مجید",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 744,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterName": "غزل نمبر 5: ڈاکٹر محمد یونس احقر",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 745,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterName": "گرائمر",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 71,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "پنجابی",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 723,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 71,
+                "ChapterName": "نثر نمبر 7: غازی علم الدین شہید",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1568,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterID": 723,
+            "TopicRef": ".",
+            "TopicName": "غازی علم الدین شہید",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 71,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "پنجابی",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 724,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 71,
+                "ChapterName": "نثر نمبر 8: واپسی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1569,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterID": 724,
+            "TopicRef": ".",
+            "TopicName": "واپسی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 71,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "پنجابی",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 725,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 71,
+                "ChapterName": "نثر نمبر 9: ساڈا وسیب ۔۔ ساڈا ورثہ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1570,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterID": 725,
+            "TopicRef": ".",
+            "TopicName": "ساڈا وسیب ۔۔ ساڈا ورثہ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 71,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "پنجابی",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 726,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 71,
+                "ChapterName": "نثر نمبر 10: قصہ اک طوطے دا",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1571,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterID": 726,
+            "TopicRef": ".",
+            "TopicName": "قصہ اک طوطے دا",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 71,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "پنجابی",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 727,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 71,
+                "ChapterName": "نثر نمبر 11: ٹھیڈا",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1572,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterID": 727,
+            "TopicRef": ".",
+            "TopicName": "ٹھیڈا",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 71,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "پنجابی",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 728,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 71,
+                "ChapterName": "نثر نمبر 12: ساڈا ماحول",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1573,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterID": 728,
+            "TopicRef": ".",
+            "TopicName": "ساڈا ماحول",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 71,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "پنجابی",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 729,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 71,
+                "ChapterName": "نثر نمبر 13: ہمت کرے انسان تے",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1574,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterID": 729,
+            "TopicRef": ".",
+            "TopicName": "ہمت کرے انسان تے",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 71,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "پنجابی",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 730,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 71,
+                "ChapterName": "نظم نمبر 1: امن",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1575,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterID": 730,
+            "TopicRef": ".",
+            "TopicName": "امن",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 71,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "پنجابی",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 731,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 71,
+                "ChapterName": "نظم نمبر 2: میں خیراں منگاں دیس دیاں",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1576,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterID": 731,
+            "TopicRef": ".",
+            "TopicName": "میں خیراں منگاں دیس دیاں",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 71,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "پنجابی",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 732,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 71,
+                "ChapterName": "نظم نمبر 3: شہید دی ماں",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1577,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterID": 732,
+            "TopicRef": ".",
+            "TopicName": "شہید دی ماں",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 71,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "پنجابی",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 733,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 71,
+                "ChapterName": "نظم نمبر 4: دیس پیار",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1578,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterID": 733,
+            "TopicRef": ".",
+            "TopicName": "دیس پیار",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 71,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "پنجابی",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 734,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 71,
+                "ChapterName": "نظم نمبر 5: اک طالب علم دی دعا",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1579,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterID": 734,
+            "TopicRef": ".",
+            "TopicName": "اک طالب علم دی دعا",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 71,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "پنجابی",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 735,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 71,
+                "ChapterName": "نظم نمبر 6: وطن آہلنا رہے سلامت",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1580,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterID": 735,
+            "TopicRef": ".",
+            "TopicName": "وطن آہلنا رہے سلامت",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 71,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "پنجابی",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 736,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 71,
+                "ChapterName": "نظم نمبر 7: کیہڑے پاسے جاواں",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1581,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterID": 736,
+            "TopicRef": ".",
+            "TopicName": "کیہڑے پاسے جاواں",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 71,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "پنجابی",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 737,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 71,
+                "ChapterName": "نظم نمبر 8: سکھ سنہیڑا",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1582,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterID": 737,
+            "TopicRef": ".",
+            "TopicName": "سکھ سنہیڑا",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 71,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "پنجابی",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 738,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 71,
+                "ChapterName": "نظم نمبر 9: زراعتی گیت",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1583,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterID": 738,
+            "TopicRef": ".",
+            "TopicName": "زراعتی گیت",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 71,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "پنجابی",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 739,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 71,
+                "ChapterName": "نظم نمبر 10: بکرا منڈی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1584,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterID": 739,
+            "TopicRef": ".",
+            "TopicName": "بکرا منڈی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 71,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "پنجابی",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 740,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 71,
+                "ChapterName": "غزل نمبر 1: عارف عبد المتین",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1585,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterID": 740,
+            "TopicRef": ".",
+            "TopicName": "عارف عبد المتین",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 71,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "پنجابی",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 741,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 71,
+                "ChapterName": "غزل نمبر 2: منیر نیازی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1586,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterID": 741,
+            "TopicRef": ".",
+            "TopicName": "منیر نیازی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 71,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "پنجابی",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 742,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 71,
+                "ChapterName": "غزل نمبر 3: اقبال سوکڑی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1587,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterID": 742,
+            "TopicRef": ".",
+            "TopicName": "اقبال سوکڑی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 71,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "پنجابی",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 743,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 71,
+                "ChapterName": "غزل نمبر 4: اکرام مجید",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1588,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterID": 743,
+            "TopicRef": ".",
+            "TopicName": "اکرام مجید",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 71,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "پنجابی",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 744,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 71,
+                "ChapterName": "غزل نمبر 5: ڈاکٹر محمد یونس احقر",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1589,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterID": 744,
+            "TopicRef": ".",
+            "TopicName": "ڈاکٹر محمد یونس احقر",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 71,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "پنجابی",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 745,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 71,
+                "ChapterName": "گرائمر",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1590,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterID": 745,
+            "TopicRef": "1",
+            "TopicName": "مضامین",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 71,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "پنجابی",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 745,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 71,
+                "ChapterName": "گرائمر",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1591,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterID": 745,
+            "TopicRef": "2",
+            "TopicName": "مذکر مونث",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 71,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "پنجابی",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 745,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 71,
+                "ChapterName": "گرائمر",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 71,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "پنجابی",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214748091327.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1592,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 71,
+            "ChapterID": 745,
+            "TopicRef": "3",
+            "TopicName": "واحد جمع",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

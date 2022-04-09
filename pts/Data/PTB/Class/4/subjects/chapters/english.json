@@ -1,0 +1,3399 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 954,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterName": "CHAP 1: Hazrat Muhammdﷺ  Kindness",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 955,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterName": "CHAP 2: Scary Uncle Sajid",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 956,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterName": "CHAP 3: Mariam's Tenth Birthday",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 957,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterName": "CHAP 4: The  Theif At The Market",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 958,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterName": "CHAP 5: The Silver Knitting  Needles",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 960,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterName": "Poem 6: Welcome To The Night!",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 961,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterName": "CHAP 7: Raza's Trip  To Pakistsn",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 962,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterName": "CHAP 8: The Science  Summer Camp",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 963,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterName": "CHAP 9: Celebrating  Eid-Ul-Azha",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 964,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterName": "CHAP 10: Taking A Tour Of Lahore",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 965,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterName": "Poem 11: Street  Safetly Tips",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 966,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterName": "CHAP 12: The Magic  Pencil",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 967,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterName": "CHAP 13: Happy Teacher's  Day, Miss Javeria",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 968,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterName": "Poem 14: Helping Others Will Help  You!",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 969,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterName": "CHAP 15: Rashid Minhas",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 970,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterName": "English B",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 75,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "English",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 954,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 75,
+                "ChapterName": "CHAP 1: Hazrat Muhammdﷺ  Kindness",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1992,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterID": 954,
+            "TopicRef": "1",
+            "TopicName": "Hazrat Muhammadﷺ Kindness",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 75,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "English",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 955,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 75,
+                "ChapterName": "CHAP 2: Scary Uncle Sajid",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1993,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterID": 955,
+            "TopicRef": "2",
+            "TopicName": "Scary Uncle Sajid",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 75,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "English",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 956,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 75,
+                "ChapterName": "CHAP 3: Mariam's Tenth Birthday",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1994,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterID": 956,
+            "TopicRef": "3",
+            "TopicName": "Mariam's Tenth Birthday",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 75,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "English",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 957,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 75,
+                "ChapterName": "CHAP 4: The  Theif At The Market",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1995,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterID": 957,
+            "TopicRef": "4",
+            "TopicName": "The Theif At The Market",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 75,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "English",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 958,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 75,
+                "ChapterName": "CHAP 5: The Silver Knitting  Needles",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1996,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterID": 958,
+            "TopicRef": "5",
+            "TopicName": "The Silver Knitting Needles",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 75,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "English",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 960,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 75,
+                "ChapterName": "Poem 6: Welcome To The Night!",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1997,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterID": 960,
+            "TopicRef": "6",
+            "TopicName": "Welcome To The Night!",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 75,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "English",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 961,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 75,
+                "ChapterName": "CHAP 7: Raza's Trip  To Pakistsn",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1998,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterID": 961,
+            "TopicRef": "7",
+            "TopicName": "Raza's Trip To Pakistan",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 75,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "English",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 962,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 75,
+                "ChapterName": "CHAP 8: The Science  Summer Camp",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1999,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterID": 962,
+            "TopicRef": "8",
+            "TopicName": "The Science Summer Camp",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 75,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "English",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 963,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 75,
+                "ChapterName": "CHAP 9: Celebrating  Eid-Ul-Azha",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2000,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterID": 963,
+            "TopicRef": "9",
+            "TopicName": "Celebrating Eid-Ul-Azha",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 75,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "English",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 964,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 75,
+                "ChapterName": "CHAP 10: Taking A Tour Of Lahore",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2001,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterID": 964,
+            "TopicRef": "10",
+            "TopicName": "Taking A Tour of Lahore",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 75,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "English",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 965,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 75,
+                "ChapterName": "Poem 11: Street  Safetly Tips",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2002,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterID": 965,
+            "TopicRef": "11",
+            "TopicName": "Street Safetly Tips",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 75,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "English",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 966,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 75,
+                "ChapterName": "CHAP 12: The Magic  Pencil",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2003,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterID": 966,
+            "TopicRef": "12",
+            "TopicName": "The Magical Pencil",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 75,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "English",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 967,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 75,
+                "ChapterName": "CHAP 13: Happy Teacher's  Day, Miss Javeria",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2004,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterID": 967,
+            "TopicRef": "13",
+            "TopicName": "Happy Teachers's Day, Miss Javeria",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 75,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "English",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 968,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 75,
+                "ChapterName": "Poem 14: Helping Others Will Help  You!",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2005,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterID": 968,
+            "TopicRef": "14",
+            "TopicName": "Helping Others Will Help You!",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 75,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "English",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 969,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 75,
+                "ChapterName": "CHAP 15: Rashid Minhas",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2006,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterID": 969,
+            "TopicRef": "15",
+            "TopicName": "Rashid Minhas",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 75,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "English",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 970,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 75,
+                "ChapterName": "English B",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2007,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterID": 970,
+            "TopicRef": "1",
+            "TopicName": "Word Synonyms",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 75,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "English",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 970,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 75,
+                "ChapterName": "English B",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2008,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterID": 970,
+            "TopicRef": "2",
+            "TopicName": "Word Antonyms",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 75,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "English",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 970,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 75,
+                "ChapterName": "English B",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2009,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterID": 970,
+            "TopicRef": "3",
+            "TopicName": "Homophones",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 75,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "English",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 970,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 75,
+                "ChapterName": "English B",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2010,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterID": 970,
+            "TopicRef": "4",
+            "TopicName": "Singular/Plural",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 75,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "English",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 970,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 75,
+                "ChapterName": "English B",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2011,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterID": 970,
+            "TopicRef": "5",
+            "TopicName": "Genders",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 75,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "English",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 970,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 75,
+                "ChapterName": "English B",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2012,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterID": 970,
+            "TopicRef": "6",
+            "TopicName": "Form of Verbs",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 75,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "English",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 970,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 75,
+                "ChapterName": "English B",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2013,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterID": 970,
+            "TopicRef": "7",
+            "TopicName": "Applications",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 75,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "English",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 970,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 75,
+                "ChapterName": "English B",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2014,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterID": 970,
+            "TopicRef": "8",
+            "TopicName": "Letters",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 75,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "English",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 970,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 75,
+                "ChapterName": "English B",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2015,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterID": 970,
+            "TopicRef": "9",
+            "TopicName": "Letters",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 75,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "English",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 970,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 75,
+                "ChapterName": "English B",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2016,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterID": 970,
+            "TopicRef": "10",
+            "TopicName": "Stories",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 75,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "English",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 970,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 75,
+                "ChapterName": "English B",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 75,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "English",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2017,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 75,
+            "ChapterID": 970,
+            "TopicRef": "11",
+            "TopicName": "Essays",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

@@ -1,0 +1,1411 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 70,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "ایجوکیشن",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214459944229.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 468,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 70,
+            "ChapterName": "باب نمبر 6: پاکستان میں تعلیم ",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 70,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "ایجوکیشن",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214459944229.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 469,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 70,
+            "ChapterName": "باب نمبر 7: نصاب",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 70,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "ایجوکیشن",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214459944229.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 470,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 70,
+            "ChapterName": "باب نمبر 8: مدرسہ کی سرگرمیوں کی تنظیم ",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 70,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "ایجوکیشن",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214459944229.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 471,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 70,
+            "ChapterName": "باب نمبر 9: رہنمائی اور مشاورت",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 70,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "ایجوکیشن",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214459944229.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 468,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 70,
+                "ChapterName": "باب نمبر 6: پاکستان میں تعلیم ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 70,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "ایجوکیشن",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214459944229.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1077,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 70,
+            "ChapterID": 468,
+            "TopicRef": "6.1",
+            "TopicName": "پاکستان میں مقاصد تعلیم",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 70,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "ایجوکیشن",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214459944229.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 468,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 70,
+                "ChapterName": "باب نمبر 6: پاکستان میں تعلیم ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 70,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "ایجوکیشن",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214459944229.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1078,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 70,
+            "ChapterID": 468,
+            "TopicRef": "6.2",
+            "TopicName": "تعلیم کی اقسام",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 70,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "ایجوکیشن",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214459944229.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 468,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 70,
+                "ChapterName": "باب نمبر 6: پاکستان میں تعلیم ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 70,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "ایجوکیشن",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214459944229.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1079,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 70,
+            "ChapterID": 468,
+            "TopicRef": "6.3",
+            "TopicName": "تعلیم کے مدارج",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 70,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "ایجوکیشن",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214459944229.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 469,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 70,
+                "ChapterName": "باب نمبر 7: نصاب",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 70,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "ایجوکیشن",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214459944229.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1080,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 70,
+            "ChapterID": 469,
+            "TopicRef": "7.1",
+            "TopicName": "نصاب کی تعریف",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 70,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "ایجوکیشن",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214459944229.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 469,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 70,
+                "ChapterName": "باب نمبر 7: نصاب",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 70,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "ایجوکیشن",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214459944229.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1081,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 70,
+            "ChapterID": 469,
+            "TopicRef": "7.2",
+            "TopicName": "اجزا کا  ارتباط",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 70,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "ایجوکیشن",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214459944229.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 469,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 70,
+                "ChapterName": "باب نمبر 7: نصاب",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 70,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "ایجوکیشن",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214459944229.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1082,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 70,
+            "ChapterID": 469,
+            "TopicRef": "7.3",
+            "TopicName": "پاکستان میں نصاب کی تیاری",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 70,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "ایجوکیشن",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214459944229.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 470,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 70,
+                "ChapterName": "باب نمبر 8: مدرسہ کی سرگرمیوں کی تنظیم ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 70,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "ایجوکیشن",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214459944229.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1083,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 70,
+            "ChapterID": 470,
+            "TopicRef": "8.1",
+            "TopicName": "مدرسہ میں ہم نصابی سرگرمیوں کی کی اہمیت",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 70,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "ایجوکیشن",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214459944229.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 470,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 70,
+                "ChapterName": "باب نمبر 8: مدرسہ کی سرگرمیوں کی تنظیم ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 70,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "ایجوکیشن",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214459944229.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1084,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 70,
+            "ChapterID": 470,
+            "TopicRef": "8.2",
+            "TopicName": "ہم نصابی سرگرموں کا طلبہ کی نشوونما میں کردار",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 70,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "ایجوکیشن",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214459944229.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 470,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 70,
+                "ChapterName": "باب نمبر 8: مدرسہ کی سرگرمیوں کی تنظیم ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 70,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "ایجوکیشن",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214459944229.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1085,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 70,
+            "ChapterID": 470,
+            "TopicRef": "8.3",
+            "TopicName": "ماحول اور ہم نصابی سرگرمیاں ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 70,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "ایجوکیشن",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214459944229.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 471,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 70,
+                "ChapterName": "باب نمبر 9: رہنمائی اور مشاورت",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 70,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "ایجوکیشن",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214459944229.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1086,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 70,
+            "ChapterID": 471,
+            "TopicRef": "9.1",
+            "TopicName": "رہنمائی اور مشاورت کے معانی اور تعریف",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 70,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "ایجوکیشن",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214459944229.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 471,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 70,
+                "ChapterName": "باب نمبر 9: رہنمائی اور مشاورت",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 70,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "ایجوکیشن",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214459944229.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1087,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 70,
+            "ChapterID": 471,
+            "TopicRef": "9.2",
+            "TopicName": "طلبہ کو پیش آنے والے مسائل",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 70,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "ایجوکیشن",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341214459944229.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 471,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 70,
+                "ChapterName": "باب نمبر 9: رہنمائی اور مشاورت",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 70,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "ایجوکیشن",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341214459944229.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1088,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 70,
+            "ChapterID": 471,
+            "TopicRef": "9.3",
+            "TopicName": "مدرسے میں رہنمائی اور مشاورت کا کردار",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

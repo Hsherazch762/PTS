@@ -1,0 +1,3293 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1289,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterName": "باب نمبر 1: تعارفِ مطالعہ قرآن، نزول وحی، تدوین قرآن مجید، حفاظت قرآن مجید",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1290,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterName": "سورۃ بقرہ  رکوع: 1,2",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1291,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterName": "سورۃ بقرہ رکوع: 3,4",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1292,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterName": "سورۃ بقرہ رکوع: 5,6",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1293,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterName": "سورۃ بقرہ رکوع: 7,8",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1294,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterName": "سورۃ بقرہ رکوع: 9,10",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1295,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterName": "سورۃ بقرہ رکوع: 11,12",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1296,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterName": "سورۃ بقرہ رکوع: 13,14",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1297,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterName": "سورۃ بقرہ رکوع: 15,16",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1298,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterName": "سورۃ بقرہ رکوع: 17,18",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1299,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterName": "سورۃ بقرہ رکوع: 19,20",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1300,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterName": "باب نمبر 3: تعارف حدیث، ضرورت و اہمیت، جمع وتدوین کتب حدیث",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1301,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterName": "احادیث: 1,2,3,4",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1302,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterName": "احادیث: 5,6,7,8",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1303,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterName": "احادیث: 9,10,11,12",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1304,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterName": "احادیث: 13,14,15,16",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1305,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterName": "احادیث: 17,18,19,20",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1306,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterName": "احادیث: 21,22,23,24",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1307,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterName": "احادیث: 25,26,27,28",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1308,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterName": "احادیث: 29,30,31,32",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1309,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterName": "احادیث: 33,34,35,36",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1310,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterName": "احادیث: 37,38,39,40,41,42",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 133,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1289,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 133,
+                "ChapterName": "باب نمبر 1: تعارفِ مطالعہ قرآن، نزول وحی، تدوین قرآن مجید، حفاظت قرآن مجید",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2472,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterID": 1289,
+            "TopicRef": "1",
+            "TopicName": "تعارف مطالعہ قرآن، نزول وحی، تدوین قرآن مجید، حفاظت قرآن مجید",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 133,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1290,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 133,
+                "ChapterName": "سورۃ بقرہ  رکوع: 1,2",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2473,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterID": 1290,
+            "TopicRef": "2",
+            "TopicName": "سورۃ بقرہ رکوع: 1,2,3,4",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 133,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1291,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 133,
+                "ChapterName": "سورۃ بقرہ رکوع: 3,4",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2474,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterID": 1291,
+            "TopicRef": " 3",
+            "TopicName": "سورۃ بقرہ رکوع:3,4",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 133,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1292,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 133,
+                "ChapterName": "سورۃ بقرہ رکوع: 5,6",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2475,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterID": 1292,
+            "TopicRef": "4",
+            "TopicName": "سورۃ بقرہ رکوع: 5,6",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 133,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1293,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 133,
+                "ChapterName": "سورۃ بقرہ رکوع: 7,8",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2476,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterID": 1293,
+            "TopicRef": "5",
+            "TopicName": "سورۃ بقرہ رکوع: 7,8",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 133,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1294,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 133,
+                "ChapterName": "سورۃ بقرہ رکوع: 9,10",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2477,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterID": 1294,
+            "TopicRef": "6",
+            "TopicName": "سورۃ بقرہ رکوع: 9,10",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 133,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1295,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 133,
+                "ChapterName": "سورۃ بقرہ رکوع: 11,12",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2478,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterID": 1295,
+            "TopicRef": "7",
+            "TopicName": "سورۃ بقرہ رکوع: 11,12",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 133,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1296,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 133,
+                "ChapterName": "سورۃ بقرہ رکوع: 13,14",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2479,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterID": 1296,
+            "TopicRef": "8",
+            "TopicName": "سورۃ بقرہ رکوع: 13,14",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 133,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1297,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 133,
+                "ChapterName": "سورۃ بقرہ رکوع: 15,16",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2480,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterID": 1297,
+            "TopicRef": "9",
+            "TopicName": "سورۃ بقرہ رکوع: 15,16",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 133,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1298,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 133,
+                "ChapterName": "سورۃ بقرہ رکوع: 17,18",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2481,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterID": 1298,
+            "TopicRef": "10",
+            "TopicName": "سورۃ بقرہ رکوع: 17,18",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 133,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1299,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 133,
+                "ChapterName": "سورۃ بقرہ رکوع: 19,20",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2482,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterID": 1299,
+            "TopicRef": "11",
+            "TopicName": "سورۃ بقرہ رکوع: 19,20",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 133,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1300,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 133,
+                "ChapterName": "باب نمبر 3: تعارف حدیث، ضرورت و اہمیت، جمع وتدوین کتب حدیث",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2483,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterID": 1300,
+            "TopicRef": "3.1",
+            "TopicName": "تعارف حدیث، ضرورت واہمیت، جمع وتدوین کتب حدیث",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 133,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1301,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 133,
+                "ChapterName": "احادیث: 1,2,3,4",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2484,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterID": 1301,
+            "TopicRef": "3.2.",
+            "TopicName": "احادیث: 1,2,3,4",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 133,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1302,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 133,
+                "ChapterName": "احادیث: 5,6,7,8",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2485,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterID": 1302,
+            "TopicRef": "3.3",
+            "TopicName": "احادیث: 5,6,7,8",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 133,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1303,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 133,
+                "ChapterName": "احادیث: 9,10,11,12",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2486,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterID": 1303,
+            "TopicRef": "3.4",
+            "TopicName": "احادیث: 9,10,11,12",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 133,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1304,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 133,
+                "ChapterName": "احادیث: 13,14,15,16",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2487,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterID": 1304,
+            "TopicRef": "3.5",
+            "TopicName": "احادیث: 13,14,15,16",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 133,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1305,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 133,
+                "ChapterName": "احادیث: 17,18,19,20",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2488,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterID": 1305,
+            "TopicRef": "3.6",
+            "TopicName": "احادیث: 17,18,19,20",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 133,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1306,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 133,
+                "ChapterName": "احادیث: 21,22,23,24",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2489,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterID": 1306,
+            "TopicRef": "3.7",
+            "TopicName": "احادیث: 21,22,23,24",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 133,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1307,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 133,
+                "ChapterName": "احادیث: 25,26,27,28",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2490,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterID": 1307,
+            "TopicRef": "3.8",
+            "TopicName": "احادیث: 25,25,27,28",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 133,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1308,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 133,
+                "ChapterName": "احادیث: 29,30,31,32",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2491,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterID": 1308,
+            "TopicRef": "3.9",
+            "TopicName": "احادیث: 29,30,31,32",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 133,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1309,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 133,
+                "ChapterName": "احادیث: 33,34,35,36",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2492,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterID": 1309,
+            "TopicRef": "3.10",
+            "TopicName": "احادیث: 33,34,35,36",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 133,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1310,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 133,
+                "ChapterName": "احادیث: 37,38,39,40,41,42",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 133,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341241894803060.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2493,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 133,
+            "ChapterID": 1310,
+            "TopicRef": "3.11",
+            "TopicName": "احادیث: 37,38,39,40,41,42",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

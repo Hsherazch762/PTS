@@ -1,0 +1,1505 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 76,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "General Science",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255239958286.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 910,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 76,
+            "ChapterName": "CHAP 1: Understanding Ourselves",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 76,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "General Science",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255239958286.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 911,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 76,
+            "ChapterName": "CHAP 2: Characteristics and Needs of Living Things",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 76,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "General Science",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255239958286.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 912,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 76,
+            "ChapterName": "CHAP 3: Food and Health",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 76,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "General Science",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255239958286.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 913,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 76,
+            "ChapterName": "CHAP 4: Living things and their Environment",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 76,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "General Science",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255239958286.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 914,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 76,
+            "ChapterName": "CHAP 5: Matter and its States",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 76,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "General Science",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255239958286.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 915,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 76,
+            "ChapterName": "CHAP 6: Temperature and its Measuement",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 76,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "General Science",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255239958286.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 916,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 76,
+            "ChapterName": "CHAP 7: Force and Machines",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 76,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "General Science",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255239958286.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 917,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 76,
+            "ChapterName": "CHAP 8: Introduction to Sound",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 76,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "General Science",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255239958286.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 918,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 76,
+            "ChapterName": "CHAP 9:Investigating Electricity and Magnetism",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 76,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "General Science",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255239958286.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 919,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 76,
+            "ChapterName": "CHAP 10:Movements of the Earth",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 76,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "General Science",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255239958286.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 910,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 76,
+                "ChapterName": "CHAP 1: Understanding Ourselves",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 76,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "General Science",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255239958286.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1949,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 76,
+            "ChapterID": 910,
+            "TopicRef": "1",
+            "TopicName": "Understanding Ourselves",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 76,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "General Science",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255239958286.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 911,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 76,
+                "ChapterName": "CHAP 2: Characteristics and Needs of Living Things",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 76,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "General Science",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255239958286.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1950,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 76,
+            "ChapterID": 911,
+            "TopicRef": "2",
+            "TopicName": "Characteristics and Needs of Living Things",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 76,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "General Science",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255239958286.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 912,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 76,
+                "ChapterName": "CHAP 3: Food and Health",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 76,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "General Science",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255239958286.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1951,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 76,
+            "ChapterID": 912,
+            "TopicRef": "3",
+            "TopicName": "Food and Health",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 76,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "General Science",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255239958286.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 913,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 76,
+                "ChapterName": "CHAP 4: Living things and their Environment",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 76,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "General Science",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255239958286.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1952,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 76,
+            "ChapterID": 913,
+            "TopicRef": "4",
+            "TopicName": "Living things and their Environment",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 76,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "General Science",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255239958286.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 914,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 76,
+                "ChapterName": "CHAP 5: Matter and its States",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 76,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "General Science",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255239958286.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1953,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 76,
+            "ChapterID": 914,
+            "TopicRef": "5",
+            "TopicName": "Matter and its States",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 76,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "General Science",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255239958286.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 915,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 76,
+                "ChapterName": "CHAP 6: Temperature and its Measuement",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 76,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "General Science",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255239958286.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1954,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 76,
+            "ChapterID": 915,
+            "TopicRef": "6",
+            "TopicName": "Temperature and its measuement",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 76,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "General Science",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255239958286.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 916,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 76,
+                "ChapterName": "CHAP 7: Force and Machines",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 76,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "General Science",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255239958286.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1955,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 76,
+            "ChapterID": 916,
+            "TopicRef": "7",
+            "TopicName": "Force and Machines",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 76,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "General Science",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255239958286.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 917,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 76,
+                "ChapterName": "CHAP 8: Introduction to Sound",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 76,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "General Science",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255239958286.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1956,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 76,
+            "ChapterID": 917,
+            "TopicRef": "8",
+            "TopicName": "Introduction to Sound",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 76,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "General Science",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255239958286.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 918,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 76,
+                "ChapterName": "CHAP 9:Investigating Electricity and Magnetism",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 76,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "General Science",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255239958286.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1957,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 76,
+            "ChapterID": 918,
+            "TopicRef": "9",
+            "TopicName": "Investigating Electricity and Magnetism",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 4,
+                        "CourseID": 1,
+                        "ClassName": "FOUR",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 76,
+                    "CourseID": 1,
+                    "ClassID": 4,
+                    "SubjectName": "General Science",
+                    "Category": "4TH",
+                    "ImageUrl": "/Images/Subjects/637341255239958286.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 919,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectID": 76,
+                "ChapterName": "CHAP 10:Movements of the Earth",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 4,
+                    "CourseID": 1,
+                    "ClassName": "FOUR",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 76,
+                "CourseID": 1,
+                "ClassID": 4,
+                "SubjectName": "General Science",
+                "Category": "4TH",
+                "ImageUrl": "/Images/Subjects/637341255239958286.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1958,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectID": 76,
+            "ChapterID": 919,
+            "TopicRef": "10",
+            "TopicName": "Movements of the Earth",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

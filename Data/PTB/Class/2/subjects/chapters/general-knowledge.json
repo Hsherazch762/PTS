@@ -1,0 +1,2399 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 87,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "General Knowledge",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                "IsActive": true
+            },
+            "ChapterID": 2679,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 87,
+            "ChapterName": "سبق نمبر 1: ہمارا وطن پاکستان",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 87,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "General Knowledge",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                "IsActive": true
+            },
+            "ChapterID": 2680,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 87,
+            "ChapterName": "سبق نمبر 2: دیہات اور شہر",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 87,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "General Knowledge",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                "IsActive": true
+            },
+            "ChapterID": 2681,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 87,
+            "ChapterName": "سبق نمبر 3: حقوق و فرائض",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 87,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "General Knowledge",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                "IsActive": true
+            },
+            "ChapterID": 2682,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 87,
+            "ChapterName": "سبق نمبر 4: مذہبی تہوار",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 87,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "General Knowledge",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                "IsActive": true
+            },
+            "ChapterID": 2683,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 87,
+            "ChapterName": "سبق نمبر 5: قدرتی ماحول اور وسائل",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 87,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "General Knowledge",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                "IsActive": true
+            },
+            "ChapterID": 2684,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 87,
+            "ChapterName": "سبق نمبر 6: پانی",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 87,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "General Knowledge",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                "IsActive": true
+            },
+            "ChapterID": 2685,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 87,
+            "ChapterName": "سبق نمبر 7: پودے",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 87,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "General Knowledge",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                "IsActive": true
+            },
+            "ChapterID": 2686,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 87,
+            "ChapterName": "سبق نمبر 8: جانور",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 87,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "General Knowledge",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                "IsActive": true
+            },
+            "ChapterID": 2687,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 87,
+            "ChapterName": "سبق نمبر 9: زراعت اور مویشی",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 87,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "General Knowledge",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                "IsActive": true
+            },
+            "ChapterID": 2688,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 87,
+            "ChapterName": "سبق نمبر 10: زمینی وسائل کی حفاظت",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 87,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "General Knowledge",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                "IsActive": true
+            },
+            "ChapterID": 2689,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 87,
+            "ChapterName": "سبق نمبر 11: حرارت اور روشنی",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 87,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "General Knowledge",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                "IsActive": true
+            },
+            "ChapterID": 2690,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 87,
+            "ChapterName": "سبق نمبر 12: دوسروں کی مدد کرنا",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 87,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "General Knowledge",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                "IsActive": true
+            },
+            "ChapterID": 2691,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 87,
+            "ChapterName": "سبق نمبر 13: پیشے",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 87,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "General Knowledge",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                "IsActive": true
+            },
+            "ChapterID": 2693,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 87,
+            "ChapterName": "سبق نمبر 14: دوسروں کا احترام",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 87,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "General Knowledge",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                "IsActive": true
+            },
+            "ChapterID": 2694,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 87,
+            "ChapterName": "سبق نمبر 15: عفو و درگزر",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 87,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "General Knowledge",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                "IsActive": true
+            },
+            "ChapterID": 2695,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 87,
+            "ChapterName": "سبق نمبر 16: غیر جانب داری",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 87,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "General Knowledge",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2679,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 87,
+                "ChapterName": "سبق نمبر 1: ہمارا وطن پاکستان",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 87,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "General Knowledge",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                "IsActive": true
+            },
+            "TopicID": 5098,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 87,
+            "ChapterID": 2679,
+            "TopicRef": "1.1",
+            "TopicName": "ہمارا وطن پاکستان",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 87,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "General Knowledge",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2680,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 87,
+                "ChapterName": "سبق نمبر 2: دیہات اور شہر",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 87,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "General Knowledge",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                "IsActive": true
+            },
+            "TopicID": 5099,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 87,
+            "ChapterID": 2680,
+            "TopicRef": "2.1",
+            "TopicName": "دیہات اور شہر",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 87,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "General Knowledge",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2681,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 87,
+                "ChapterName": "سبق نمبر 3: حقوق و فرائض",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 87,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "General Knowledge",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                "IsActive": true
+            },
+            "TopicID": 5100,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 87,
+            "ChapterID": 2681,
+            "TopicRef": "3.1",
+            "TopicName": "حقوق و فرائض",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 87,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "General Knowledge",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2682,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 87,
+                "ChapterName": "سبق نمبر 4: مذہبی تہوار",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 87,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "General Knowledge",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                "IsActive": true
+            },
+            "TopicID": 5101,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 87,
+            "ChapterID": 2682,
+            "TopicRef": "4.1",
+            "TopicName": "مذہبی تہوار",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 87,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "General Knowledge",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2683,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 87,
+                "ChapterName": "سبق نمبر 5: قدرتی ماحول اور وسائل",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 87,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "General Knowledge",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                "IsActive": true
+            },
+            "TopicID": 5102,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 87,
+            "ChapterID": 2683,
+            "TopicRef": "5.1",
+            "TopicName": "قدرتی ماحول اور وسائل",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 87,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "General Knowledge",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2684,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 87,
+                "ChapterName": "سبق نمبر 6: پانی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 87,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "General Knowledge",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                "IsActive": true
+            },
+            "TopicID": 5103,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 87,
+            "ChapterID": 2684,
+            "TopicRef": "6.1",
+            "TopicName": "پانی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 87,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "General Knowledge",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2685,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 87,
+                "ChapterName": "سبق نمبر 7: پودے",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 87,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "General Knowledge",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                "IsActive": true
+            },
+            "TopicID": 5104,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 87,
+            "ChapterID": 2685,
+            "TopicRef": "7.1",
+            "TopicName": "پودے",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 87,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "General Knowledge",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2686,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 87,
+                "ChapterName": "سبق نمبر 8: جانور",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 87,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "General Knowledge",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                "IsActive": true
+            },
+            "TopicID": 5105,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 87,
+            "ChapterID": 2686,
+            "TopicRef": "8.1",
+            "TopicName": "جانور",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 87,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "General Knowledge",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2687,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 87,
+                "ChapterName": "سبق نمبر 9: زراعت اور مویشی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 87,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "General Knowledge",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                "IsActive": true
+            },
+            "TopicID": 5106,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 87,
+            "ChapterID": 2687,
+            "TopicRef": "9.1",
+            "TopicName": "زراعت اور مویشی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 87,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "General Knowledge",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2688,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 87,
+                "ChapterName": "سبق نمبر 10: زمینی وسائل کی حفاظت",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 87,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "General Knowledge",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                "IsActive": true
+            },
+            "TopicID": 5107,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 87,
+            "ChapterID": 2688,
+            "TopicRef": "10.1",
+            "TopicName": "زمینی وسائل کی حفاظت",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 87,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "General Knowledge",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2689,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 87,
+                "ChapterName": "سبق نمبر 11: حرارت اور روشنی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 87,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "General Knowledge",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                "IsActive": true
+            },
+            "TopicID": 5108,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 87,
+            "ChapterID": 2689,
+            "TopicRef": "11.1",
+            "TopicName": "حرارت اور روشنی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 87,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "General Knowledge",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2690,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 87,
+                "ChapterName": "سبق نمبر 12: دوسروں کی مدد کرنا",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 87,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "General Knowledge",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                "IsActive": true
+            },
+            "TopicID": 5109,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 87,
+            "ChapterID": 2690,
+            "TopicRef": "12.1",
+            "TopicName": "دوسروں کی مدد کرنا",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 87,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "General Knowledge",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2691,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 87,
+                "ChapterName": "سبق نمبر 13: پیشے",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 87,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "General Knowledge",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                "IsActive": true
+            },
+            "TopicID": 5110,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 87,
+            "ChapterID": 2691,
+            "TopicRef": "13.1",
+            "TopicName": "پیشے",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 87,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "General Knowledge",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2693,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 87,
+                "ChapterName": "سبق نمبر 14: دوسروں کا احترام",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 87,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "General Knowledge",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                "IsActive": true
+            },
+            "TopicID": 5111,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 87,
+            "ChapterID": 2693,
+            "TopicRef": "14.1",
+            "TopicName": "دوسروں کا احترام",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 87,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "General Knowledge",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2694,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 87,
+                "ChapterName": "سبق نمبر 15: عفو و درگزر",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 87,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "General Knowledge",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                "IsActive": true
+            },
+            "TopicID": 5112,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 87,
+            "ChapterID": 2694,
+            "TopicRef": "15.1",
+            "TopicName": "عفو و درگزر",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 87,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "General Knowledge",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2695,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 87,
+                "ChapterName": "سبق نمبر 16: غیر جانب داری",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 87,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "General Knowledge",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140383757874.png",
+                "IsActive": true
+            },
+            "TopicID": 5113,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 87,
+            "ChapterID": 2695,
+            "TopicRef": "16.1",
+            "TopicName": "غیر جانب داری",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

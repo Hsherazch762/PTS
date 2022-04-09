@@ -1,0 +1,5556 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1506,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterName": "CHAP 1: Introduction to Statistics",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1507,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterName": "CHAP 2: Representation of Data",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1508,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterName": "CHAP 3: Measure of Location",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1509,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterName": "CHAP 4: Measure of Dispersion",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1510,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterName": "CHAP 5: Index Numbers",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1511,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterName": "CHAP 6: Probability",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1512,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterName": "CHAP 7: Random Variables",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1513,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterName": "CHAP 8: Probability Distributions",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1514,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterName": "CHAP 9: Binomial and Hyper Geometric Probability Distribution",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1506,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 1: Introduction to Statistics",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2809,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1506,
+            "TopicRef": "1.1",
+            "TopicName": "Introduction",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1506,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 1: Introduction to Statistics",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2810,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1506,
+            "TopicRef": "1.2",
+            "TopicName": "Importance of Statistics in Various Disciplines",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1506,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 1: Introduction to Statistics",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2811,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1506,
+            "TopicRef": "1.3",
+            "TopicName": "Variables",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1506,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 1: Introduction to Statistics",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2812,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1506,
+            "TopicRef": "1.4",
+            "TopicName": "Description and Inferential Statistics",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1506,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 1: Introduction to Statistics",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2813,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1506,
+            "TopicRef": "1.5",
+            "TopicName": "Sources of Data",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1507,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 2: Representation of Data",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2814,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1507,
+            "TopicRef": "2.1",
+            "TopicName": "Introduction",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1507,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 2: Representation of Data",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2815,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1507,
+            "TopicRef": "2.2",
+            "TopicName": "Classification",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1507,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 2: Representation of Data",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2816,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1507,
+            "TopicRef": "2.3",
+            "TopicName": "Tabulation",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1507,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 2: Representation of Data",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2817,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1507,
+            "TopicRef": "2.4",
+            "TopicName": "Frequency Distribution",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1507,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 2: Representation of Data",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2818,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1507,
+            "TopicRef": "2.5",
+            "TopicName": "Cumulative Frequency Distribution",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1507,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 2: Representation of Data",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2819,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1507,
+            "TopicRef": "2.6",
+            "TopicName": "Graphic Representation of Data",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1507,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 2: Representation of Data",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2820,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1507,
+            "TopicRef": "2.7",
+            "TopicName": "Bivariate Frequency Distribution",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1508,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 3: Measure of Location",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2821,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1508,
+            "TopicRef": "3.1",
+            "TopicName": "Introduction",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1508,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 3: Measure of Location",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2822,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1508,
+            "TopicRef": "3.2",
+            "TopicName": "Arithmetic Mean and Weighted Mean",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1508,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 3: Measure of Location",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2823,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1508,
+            "TopicRef": "3.3",
+            "TopicName": "Geometric Mean",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1508,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 3: Measure of Location",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2824,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1508,
+            "TopicRef": "3.4",
+            "TopicName": "Harmonic Mean",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1508,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 3: Measure of Location",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2825,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1508,
+            "TopicRef": "3.5",
+            "TopicName": "Median",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1508,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 3: Measure of Location",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2826,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1508,
+            "TopicRef": "3.6",
+            "TopicName": "Quantiles",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1508,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 3: Measure of Location",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2827,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1508,
+            "TopicRef": "3.7",
+            "TopicName": "Mode",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1508,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 3: Measure of Location",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2828,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1508,
+            "TopicRef": "3.8",
+            "TopicName": "Selecting a Suitable Measure of Central Tendency",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1509,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 4: Measure of Dispersion",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2829,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1509,
+            "TopicRef": "4.1",
+            "TopicName": "Introduction",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1509,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 4: Measure of Dispersion",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2830,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1509,
+            "TopicRef": "4.2",
+            "TopicName": "Co-efficient of Variation and Other Relative Measures",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1509,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 4: Measure of Dispersion",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2831,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1509,
+            "TopicRef": "4.3",
+            "TopicName": "Moments",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1509,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 4: Measure of Dispersion",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2832,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1509,
+            "TopicRef": "4.4",
+            "TopicName": "Sheppad's Correction for Grouping Error",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1509,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 4: Measure of Dispersion",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2833,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1509,
+            "TopicRef": "4.5",
+            "TopicName": "Skewness",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1510,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 5: Index Numbers",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2834,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1510,
+            "TopicRef": "5.1",
+            "TopicName": "Introduction",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1510,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 5: Index Numbers",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2835,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1510,
+            "TopicRef": "5.2",
+            "TopicName": "Construction of Price Index Numbers",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1510,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 5: Index Numbers",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2836,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1510,
+            "TopicRef": "5.3",
+            "TopicName": "Unweighted Index Numbers",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1510,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 5: Index Numbers",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2837,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1510,
+            "TopicRef": "5.4",
+            "TopicName": "Weighted Index Number",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1510,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 5: Index Numbers",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2838,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1510,
+            "TopicRef": "5.5",
+            "TopicName": "Consumer Price Index (CPI) and Wholesale Price Index (WPI)",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1511,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 6: Probability",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2839,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1511,
+            "TopicRef": "6.1",
+            "TopicName": "Introduction",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1511,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 6: Probability",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2840,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1511,
+            "TopicRef": "6.2",
+            "TopicName": "Permutations",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1511,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 6: Probability",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2841,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1511,
+            "TopicRef": "6.3",
+            "TopicName": "Combinations",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1511,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 6: Probability",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2842,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1511,
+            "TopicRef": "6.4",
+            "TopicName": "Probability",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1512,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 7: Random Variables",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2843,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1512,
+            "TopicRef": "7.1",
+            "TopicName": "Introduction",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1512,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 7: Random Variables",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2844,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1512,
+            "TopicRef": "7.2",
+            "TopicName": "Random Numbers and Their Generation",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1512,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 7: Random Variables",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2845,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1512,
+            "TopicRef": "7.3",
+            "TopicName": "Application of Random Numbers",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1512,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 7: Random Variables",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2846,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1512,
+            "TopicRef": "7.4",
+            "TopicName": "Concept of Random Variables and Their Construction from Different Fields",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1512,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 7: Random Variables",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2847,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1512,
+            "TopicRef": "7.5",
+            "TopicName": "Discrete and Continuous Random Variables",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1513,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 8: Probability Distributions",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2848,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1513,
+            "TopicRef": "8.1",
+            "TopicName": "Introduction",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1513,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 8: Probability Distributions",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2849,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1513,
+            "TopicRef": "8.2",
+            "TopicName": "Probability Mass Function",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1513,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 8: Probability Distributions",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2850,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1513,
+            "TopicRef": "8.3",
+            "TopicName": "Probability Density Function",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1513,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 8: Probability Distributions",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2851,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1513,
+            "TopicRef": "8.4",
+            "TopicName": "Simple Univariate Discrete and Continuous Distributions",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1513,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 8: Probability Distributions",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2852,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1513,
+            "TopicRef": "8.5",
+            "TopicName": "Drawing of Probability Mass Function and Probability Density Function",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1513,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 8: Probability Distributions",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2853,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1513,
+            "TopicRef": "8.6",
+            "TopicName": "Expectation and Variance of the Simple Discrete Random Variable",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1513,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 8: Probability Distributions",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2854,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1513,
+            "TopicRef": "8.7",
+            "TopicName": "a",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1513,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 8: Probability Distributions",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2855,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1513,
+            "TopicRef": "8.8",
+            "TopicName": "a",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1513,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 8: Probability Distributions",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2856,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1513,
+            "TopicRef": "8.9",
+            "TopicName": "Distribution Function",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1514,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 9: Binomial and Hyper Geometric Probability Distribution",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2857,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1514,
+            "TopicRef": "9.1",
+            "TopicName": "Introduction",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1514,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 9: Binomial and Hyper Geometric Probability Distribution",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2858,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1514,
+            "TopicRef": "9.2",
+            "TopicName": "Binomial Probability Distribution",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 99,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Statistics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1514,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 99,
+                "ChapterName": "CHAP 9: Binomial and Hyper Geometric Probability Distribution",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 99,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Statistics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341232010600161.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2859,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 99,
+            "ChapterID": 1514,
+            "TopicRef": "9.3",
+            "TopicName": "Hypergeometric Distribution and Hypergeometric Experiment",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

@@ -1,0 +1,4297 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 493,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterName": "Lesson 1: Hazrat Muhammad ﷺ an Embodiment of Justice",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 494,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterName": "Lesson 2: Chinese New Year",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 495,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterName": "Poem 3: Try Again",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 496,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterName": "Lesson 4: First Aid",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 497,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterName": "Poem 5: The Rain",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 498,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterName": "Lesson 6: Television vs. Newspapers",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 499,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterName": "Lesson 7: Little by Little One Walks Far!",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 500,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterName": "Poem 8: Peace",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 501,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterName": "Lesson 9: Selecting the Right Career",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 502,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterName": "Lesson 10: A World Without Books",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 503,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterName": "Lesson 11: Great Expectations",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 504,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterName": "Lesson 12: Population Growth and World Food Supplies",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 505,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterName": "Lesson 13: Faithfulness",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 718,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterName": "Present Tense",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 719,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterName": "Past Tense",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 720,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterName": "Future Tense",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 721,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterName": "Direct & Indirect",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 722,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterName": "English B",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 64,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "English",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 493,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 64,
+                "ChapterName": "Lesson 1: Hazrat Muhammad ﷺ an Embodiment of Justice",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1134,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterID": 493,
+            "TopicRef": ".",
+            "TopicName": "Hazrat Muhammad ﷺ an Embodiment of Justice",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 64,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "English",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 494,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 64,
+                "ChapterName": "Lesson 2: Chinese New Year",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1135,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterID": 494,
+            "TopicRef": ".",
+            "TopicName": "Chinese New Year",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 64,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "English",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 495,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 64,
+                "ChapterName": "Poem 3: Try Again",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1136,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterID": 495,
+            "TopicRef": ".",
+            "TopicName": "Try Again",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 64,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "English",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 496,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 64,
+                "ChapterName": "Lesson 4: First Aid",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1137,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterID": 496,
+            "TopicRef": ".",
+            "TopicName": "First Aid",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 64,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "English",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 497,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 64,
+                "ChapterName": "Poem 5: The Rain",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1138,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterID": 497,
+            "TopicRef": ".",
+            "TopicName": "The Rain",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 64,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "English",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 498,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 64,
+                "ChapterName": "Lesson 6: Television vs. Newspapers",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1139,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterID": 498,
+            "TopicRef": ".",
+            "TopicName": "Television vs. Newspapers",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 64,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "English",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 499,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 64,
+                "ChapterName": "Lesson 7: Little by Little One Walks Far!",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1140,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterID": 499,
+            "TopicRef": ".",
+            "TopicName": "Little by Little One Walks Far!",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 64,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "English",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 500,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 64,
+                "ChapterName": "Poem 8: Peace",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1141,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterID": 500,
+            "TopicRef": ".",
+            "TopicName": "Peace",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 64,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "English",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 501,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 64,
+                "ChapterName": "Lesson 9: Selecting the Right Career",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1142,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterID": 501,
+            "TopicRef": ".",
+            "TopicName": "Selecting the Right Career",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 64,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "English",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 502,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 64,
+                "ChapterName": "Lesson 10: A World Without Books",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1143,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterID": 502,
+            "TopicRef": ".",
+            "TopicName": "A World Without Books",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 64,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "English",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 503,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 64,
+                "ChapterName": "Lesson 11: Great Expectations",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1144,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterID": 503,
+            "TopicRef": ".",
+            "TopicName": "Great Expectations",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 64,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "English",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 504,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 64,
+                "ChapterName": "Lesson 12: Population Growth and World Food Supplies",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1145,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterID": 504,
+            "TopicRef": ".",
+            "TopicName": "Population Growth and World Food Supplies",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 64,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "English",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 505,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 64,
+                "ChapterName": "Lesson 13: Faithfulness",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1146,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterID": 505,
+            "TopicRef": ".",
+            "TopicName": "Faithfulness",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 64,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "English",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 718,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 64,
+                "ChapterName": "Present Tense",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1543,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterID": 718,
+            "TopicRef": "1",
+            "TopicName": "Present Indefinite Tense",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 64,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "English",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 718,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 64,
+                "ChapterName": "Present Tense",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1544,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterID": 718,
+            "TopicRef": "2",
+            "TopicName": "Present Continuous Tense",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 64,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "English",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 718,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 64,
+                "ChapterName": "Present Tense",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1545,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterID": 718,
+            "TopicRef": "3",
+            "TopicName": "Present Perfect Tense",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 64,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "English",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 718,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 64,
+                "ChapterName": "Present Tense",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1546,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterID": 718,
+            "TopicRef": "4",
+            "TopicName": "Present Perfect Continuous Tense",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 64,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "English",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 719,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 64,
+                "ChapterName": "Past Tense",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1547,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterID": 719,
+            "TopicRef": "1",
+            "TopicName": "Past Indefinite Tense",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 64,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "English",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 719,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 64,
+                "ChapterName": "Past Tense",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1548,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterID": 719,
+            "TopicRef": "2",
+            "TopicName": "Past Continuous Tense",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 64,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "English",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 719,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 64,
+                "ChapterName": "Past Tense",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1549,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterID": 719,
+            "TopicRef": "3",
+            "TopicName": "Past Perfect Tense",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 64,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "English",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 719,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 64,
+                "ChapterName": "Past Tense",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1550,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterID": 719,
+            "TopicRef": "4",
+            "TopicName": "Past Perfect Continuous Tense",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 64,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "English",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 720,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 64,
+                "ChapterName": "Future Tense",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1551,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterID": 720,
+            "TopicRef": "1",
+            "TopicName": "Future Indefinite Tense",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 64,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "English",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 720,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 64,
+                "ChapterName": "Future Tense",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1552,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterID": 720,
+            "TopicRef": "2",
+            "TopicName": "Future Continuous Tense",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 64,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "English",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 720,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 64,
+                "ChapterName": "Future Tense",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1553,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterID": 720,
+            "TopicRef": "3",
+            "TopicName": "Future Perfect Tense",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 64,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "English",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 720,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 64,
+                "ChapterName": "Future Tense",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1554,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterID": 720,
+            "TopicRef": "4",
+            "TopicName": "Future Perfect Continuous Tense",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 64,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "English",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 721,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 64,
+                "ChapterName": "Direct & Indirect",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1555,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterID": 721,
+            "TopicRef": "1",
+            "TopicName": "Assertive Sentences",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 64,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "English",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 721,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 64,
+                "ChapterName": "Direct & Indirect",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1556,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterID": 721,
+            "TopicRef": "2",
+            "TopicName": "Interrogative Sentences",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 64,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "English",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 721,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 64,
+                "ChapterName": "Direct & Indirect",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1557,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterID": 721,
+            "TopicRef": "3",
+            "TopicName": "Imperative Sentences",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 64,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "English",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 721,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 64,
+                "ChapterName": "Direct & Indirect",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1558,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterID": 721,
+            "TopicRef": "4",
+            "TopicName": "Exclamatory / Optative Sentences",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 64,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "English",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 721,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 64,
+                "ChapterName": "Direct & Indirect",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1559,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterID": 721,
+            "TopicRef": "5",
+            "TopicName": "Interrogative Sentences",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 64,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "English",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 722,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 64,
+                "ChapterName": "English B",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1560,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterID": 722,
+            "TopicRef": "1",
+            "TopicName": "Pair of Words",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 64,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "English",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 722,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 64,
+                "ChapterName": "English B",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1561,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterID": 722,
+            "TopicRef": "2",
+            "TopicName": "Essays",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 64,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "English",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 722,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 64,
+                "ChapterName": "English B",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1562,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterID": 722,
+            "TopicRef": "3",
+            "TopicName": "Writing Paragraphs",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 64,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "English",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 722,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 64,
+                "ChapterName": "English B",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 64,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "English",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213698484217.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1563,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 64,
+            "ChapterID": 722,
+            "TopicRef": "4",
+            "TopicName": "Translate into English Paragraphs",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

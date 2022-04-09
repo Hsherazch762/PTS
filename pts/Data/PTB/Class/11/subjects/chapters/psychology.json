@@ -1,0 +1,1656 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 259,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "نفسیات",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "ChapterID": 2760,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 259,
+            "ChapterName": "باب نمبر 1: نفسیات کا تعارف",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 259,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "نفسیات",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "ChapterID": 2761,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 259,
+            "ChapterName": "باب نمبر 2: اسالیبِ تحقیق",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 259,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "نفسیات",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "ChapterID": 2762,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 259,
+            "ChapterName": "باب نمبر 3: نظامِ عصبی اور کردار",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 259,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "نفسیات",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "ChapterID": 2763,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 259,
+            "ChapterName": "باب نمبر 4: حواس، توجہ اور ادراکِ حواس",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 259,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "نفسیات",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "ChapterID": 2764,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 259,
+            "ChapterName": "باب نمبر 5: آموزش اور حافظہ",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 259,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "نفسیات",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "ChapterID": 2765,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 259,
+            "ChapterName": "باب نمبر 6: محرکاتی کردار",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 259,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "نفسیات",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "ChapterID": 2766,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 259,
+            "ChapterName": "باب نمبر 7: شخصیت",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 259,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "نفسیات",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "ChapterID": 2767,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 259,
+            "ChapterName": "باب نمبر 8: ہیجانی کردار",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 259,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "نفسیات",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "ChapterID": 2768,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 259,
+            "ChapterName": "باب نمبر 9: اعلیٰ وقوفی اعمال",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 259,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "نفسیات",
+                    "Category": "F.A",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 2760,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 259,
+                "ChapterName": "باب نمبر 1: نفسیات کا تعارف",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 259,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "نفسیات",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 5228,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 259,
+            "ChapterID": 2760,
+            "TopicRef": "1",
+            "TopicName": "نفسیات کا تعارف",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 259,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "نفسیات",
+                    "Category": "F.A",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 2761,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 259,
+                "ChapterName": "باب نمبر 2: اسالیبِ تحقیق",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 259,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "نفسیات",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 5229,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 259,
+            "ChapterID": 2761,
+            "TopicRef": "2",
+            "TopicName": "اسالیبِ تحقیق",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 259,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "نفسیات",
+                    "Category": "F.A",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 2762,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 259,
+                "ChapterName": "باب نمبر 3: نظامِ عصبی اور کردار",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 259,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "نفسیات",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 5230,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 259,
+            "ChapterID": 2762,
+            "TopicRef": "3",
+            "TopicName": "نظامِ عصبی اور کردار",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 259,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "نفسیات",
+                    "Category": "F.A",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 2763,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 259,
+                "ChapterName": "باب نمبر 4: حواس، توجہ اور ادراکِ حواس",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 259,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "نفسیات",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 5231,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 259,
+            "ChapterID": 2763,
+            "TopicRef": "4.1",
+            "TopicName": "حواس",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 259,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "نفسیات",
+                    "Category": "F.A",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 2764,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 259,
+                "ChapterName": "باب نمبر 5: آموزش اور حافظہ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 259,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "نفسیات",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 5232,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 259,
+            "ChapterID": 2764,
+            "TopicRef": "5.1",
+            "TopicName": "آموزش",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 259,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "نفسیات",
+                    "Category": "F.A",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 2765,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 259,
+                "ChapterName": "باب نمبر 6: محرکاتی کردار",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 259,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "نفسیات",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 5233,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 259,
+            "ChapterID": 2765,
+            "TopicRef": "6",
+            "TopicName": "محرکاتی کردار",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 259,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "نفسیات",
+                    "Category": "F.A",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 2766,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 259,
+                "ChapterName": "باب نمبر 7: شخصیت",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 259,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "نفسیات",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 5234,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 259,
+            "ChapterID": 2766,
+            "TopicRef": "7",
+            "TopicName": "شخصیت",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 259,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "نفسیات",
+                    "Category": "F.A",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 2767,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 259,
+                "ChapterName": "باب نمبر 8: ہیجانی کردار",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 259,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "نفسیات",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 5235,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 259,
+            "ChapterID": 2767,
+            "TopicRef": "8",
+            "TopicName": "ہیجانی کردار",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 259,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "نفسیات",
+                    "Category": "F.A",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 2768,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 259,
+                "ChapterName": "باب نمبر 9: اعلیٰ وقوفی اعمال",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 259,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "نفسیات",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 5236,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 259,
+            "ChapterID": 2768,
+            "TopicRef": "9",
+            "TopicName": "اعلیٰ وقوفی اعمال",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 259,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "نفسیات",
+                    "Category": "F.A",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 2763,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 259,
+                "ChapterName": "باب نمبر 4: حواس، توجہ اور ادراکِ حواس",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 259,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "نفسیات",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 5237,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 259,
+            "ChapterID": 2763,
+            "TopicRef": "4.2",
+            "TopicName": "توجہ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 259,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "نفسیات",
+                    "Category": "F.A",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 2763,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 259,
+                "ChapterName": "باب نمبر 4: حواس، توجہ اور ادراکِ حواس",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 259,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "نفسیات",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 5238,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 259,
+            "ChapterID": 2763,
+            "TopicRef": "4.3",
+            "TopicName": "ادراکِ حواس",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 259,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "نفسیات",
+                    "Category": "F.A",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 2764,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 259,
+                "ChapterName": "باب نمبر 5: آموزش اور حافظہ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 259,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "نفسیات",
+                "Category": "F.A",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 5239,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 259,
+            "ChapterID": 2764,
+            "TopicRef": "5.2",
+            "TopicName": "حافظہ",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

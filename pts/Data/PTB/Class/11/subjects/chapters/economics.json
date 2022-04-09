@@ -1,0 +1,1803 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 100,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Economics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341221499191596.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1349,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 100,
+            "ChapterName": "باب نمبر 1: معاشیات کی نوعیت اور وسعت",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 100,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Economics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341221499191596.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1350,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 100,
+            "ChapterName": "باب نمبر 2: رؤیہ صارف کا تجزیہ",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 100,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Economics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341221499191596.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1351,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 100,
+            "ChapterName": "باب نمبر 3: معاشیات میں شماریات اور ریاضی کے بنیادی آلات",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 100,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Economics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341221499191596.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1352,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 100,
+            "ChapterName": "باب نمبر 4: طلب",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 100,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Economics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341221499191596.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1353,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 100,
+            "ChapterName": "باب نمبر 5: رسد",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 100,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Economics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341221499191596.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1354,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 100,
+            "ChapterName": "باب نمبر 6: منڈی کا توازن",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 100,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Economics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341221499191596.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1355,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 100,
+            "ChapterName": "باب نمبر 7: نظریہ پیدائشِ دولت",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 100,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Economics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341221499191596.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1356,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 100,
+            "ChapterName": "باب نمبر 8: پیمانہ پیدائش اور قوانین حاصل",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 100,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Economics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341221499191596.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1357,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 100,
+            "ChapterName": "باب نمبر 9: مصارف پیدائش",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 100,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Economics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341221499191596.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1358,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 100,
+            "ChapterName": "باب نمبر 10: وصولیوں کا تجزیہ",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 100,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Economics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341221499191596.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1359,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 100,
+            "ChapterName": "باب نمبر 11: منڈی",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 100,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Economics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341221499191596.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1360,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 100,
+            "ChapterName": "باب نمبر 12: تقسیم۔ عاملین پیدائش کے معاوضوں کا تعین",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 100,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Economics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341221499191596.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1349,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 100,
+                "ChapterName": "باب نمبر 1: معاشیات کی نوعیت اور وسعت",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 100,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Economics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341221499191596.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2535,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 100,
+            "ChapterID": 1349,
+            "TopicRef": ".",
+            "TopicName": "معاشیات کی نوعیت اور وسعت",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 100,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Economics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341221499191596.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1350,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 100,
+                "ChapterName": "باب نمبر 2: رؤیہ صارف کا تجزیہ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 100,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Economics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341221499191596.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2536,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 100,
+            "ChapterID": 1350,
+            "TopicRef": ".",
+            "TopicName": "رؤیہ صارف کا تجزیہ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 100,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Economics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341221499191596.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1351,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 100,
+                "ChapterName": "باب نمبر 3: معاشیات میں شماریات اور ریاضی کے بنیادی آلات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 100,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Economics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341221499191596.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2537,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 100,
+            "ChapterID": 1351,
+            "TopicRef": ".",
+            "TopicName": "معاشیات میں شماریات اور ریاضی کے بنیادی آلات",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 100,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Economics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341221499191596.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1352,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 100,
+                "ChapterName": "باب نمبر 4: طلب",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 100,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Economics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341221499191596.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2538,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 100,
+            "ChapterID": 1352,
+            "TopicRef": ".",
+            "TopicName": "طلب",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 100,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Economics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341221499191596.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1353,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 100,
+                "ChapterName": "باب نمبر 5: رسد",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 100,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Economics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341221499191596.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2539,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 100,
+            "ChapterID": 1353,
+            "TopicRef": ".",
+            "TopicName": "رسد",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 100,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Economics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341221499191596.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1354,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 100,
+                "ChapterName": "باب نمبر 6: منڈی کا توازن",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 100,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Economics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341221499191596.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2540,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 100,
+            "ChapterID": 1354,
+            "TopicRef": ".",
+            "TopicName": "منڈی کا توازن",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 100,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Economics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341221499191596.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1355,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 100,
+                "ChapterName": "باب نمبر 7: نظریہ پیدائشِ دولت",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 100,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Economics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341221499191596.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2541,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 100,
+            "ChapterID": 1355,
+            "TopicRef": ".",
+            "TopicName": "نظریہ پیدائشِ دولت",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 100,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Economics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341221499191596.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1356,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 100,
+                "ChapterName": "باب نمبر 8: پیمانہ پیدائش اور قوانین حاصل",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 100,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Economics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341221499191596.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2542,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 100,
+            "ChapterID": 1356,
+            "TopicRef": ".",
+            "TopicName": "پیمانہ پیدائش اور قوانین حاصل",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 100,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Economics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341221499191596.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1357,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 100,
+                "ChapterName": "باب نمبر 9: مصارف پیدائش",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 100,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Economics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341221499191596.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2543,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 100,
+            "ChapterID": 1357,
+            "TopicRef": ".",
+            "TopicName": "مصارف پیدائش",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 100,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Economics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341221499191596.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1358,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 100,
+                "ChapterName": "باب نمبر 10: وصولیوں کا تجزیہ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 100,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Economics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341221499191596.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2544,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 100,
+            "ChapterID": 1358,
+            "TopicRef": ".",
+            "TopicName": "وصولیوں کاتجزیہ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 100,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Economics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341221499191596.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1359,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 100,
+                "ChapterName": "باب نمبر 11: منڈی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 100,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Economics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341221499191596.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2545,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 100,
+            "ChapterID": 1359,
+            "TopicRef": ".",
+            "TopicName": "منڈی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 100,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Economics",
+                    "Category": "ICS",
+                    "ImageUrl": "/Images/Subjects/637341221499191596.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1360,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 100,
+                "ChapterName": "باب نمبر 12: تقسیم۔ عاملین پیدائش کے معاوضوں کا تعین",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 100,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Economics",
+                "Category": "ICS",
+                "ImageUrl": "/Images/Subjects/637341221499191596.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2546,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 100,
+            "ChapterID": 1360,
+            "TopicRef": ".",
+            "TopicName": "تقسیم۔ عاملین پیدائش کے معاوضوں کا تعین",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

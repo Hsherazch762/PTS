@@ -1,0 +1,1952 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 82,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "General Knowledge",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1040,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 82,
+            "ChapterName": "CHAP 1:Life on the Earth",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 82,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "General Knowledge",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1041,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 82,
+            "ChapterName": "CHAP 2:Developmental phases in the living things",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 82,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "General Knowledge",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1042,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 82,
+            "ChapterName": "CHAP 3:Time, Directions and Shadows",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 82,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "General Knowledge",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1043,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 82,
+            "ChapterName": "CHAP 4:Natural Resources",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 82,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "General Knowledge",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1044,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 82,
+            "ChapterName": "CHAP 5:Conservation of Natural Resources",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 82,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "General Knowledge",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1045,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 82,
+            "ChapterName": "CHAP 6:Food and Nutrition",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 82,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "General Knowledge",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1046,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 82,
+            "ChapterName": "CHAP 7:What I want to be?",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 82,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "General Knowledge",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1047,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 82,
+            "ChapterName": "CHAP 8:Ancient people and their livings",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 82,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "General Knowledge",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1048,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 82,
+            "ChapterName": "CHAP 9:Inventors and inventions",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 82,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "General Knowledge",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1049,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 82,
+            "ChapterName": "CHAP 10:Tools and machines",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 82,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "General Knowledge",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1050,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 82,
+            "ChapterName": "CHAP 11:Government and role of citizens",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 82,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "General Knowledge",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1051,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 82,
+            "ChapterName": "CHAP 12:Government Responsibilities and Citizens’ Rights",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 82,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "General Knowledge",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1052,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 82,
+            "ChapterName": "CHAP 13:Respect and Regards for others",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 82,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "General Knowledge",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1040,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 82,
+                "ChapterName": "CHAP 1:Life on the Earth",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 82,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "General Knowledge",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2112,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 82,
+            "ChapterID": 1040,
+            "TopicRef": "1",
+            "TopicName": "Life on the Earth",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 82,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "General Knowledge",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1041,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 82,
+                "ChapterName": "CHAP 2:Developmental phases in the living things",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 82,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "General Knowledge",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2113,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 82,
+            "ChapterID": 1041,
+            "TopicRef": "2",
+            "TopicName": "Developmental phases in the living things",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 82,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "General Knowledge",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1042,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 82,
+                "ChapterName": "CHAP 3:Time, Directions and Shadows",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 82,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "General Knowledge",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2114,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 82,
+            "ChapterID": 1042,
+            "TopicRef": "3",
+            "TopicName": "Time, Directions and Shadows",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 82,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "General Knowledge",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1043,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 82,
+                "ChapterName": "CHAP 4:Natural Resources",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 82,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "General Knowledge",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2115,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 82,
+            "ChapterID": 1043,
+            "TopicRef": "4",
+            "TopicName": "Natural Resources",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 82,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "General Knowledge",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1044,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 82,
+                "ChapterName": "CHAP 5:Conservation of Natural Resources",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 82,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "General Knowledge",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2116,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 82,
+            "ChapterID": 1044,
+            "TopicRef": "5",
+            "TopicName": "Conservation of Natural Resources",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 82,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "General Knowledge",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1045,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 82,
+                "ChapterName": "CHAP 6:Food and Nutrition",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 82,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "General Knowledge",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2117,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 82,
+            "ChapterID": 1045,
+            "TopicRef": "6",
+            "TopicName": "Food and Nutrition",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 82,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "General Knowledge",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1046,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 82,
+                "ChapterName": "CHAP 7:What I want to be?",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 82,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "General Knowledge",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2118,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 82,
+            "ChapterID": 1046,
+            "TopicRef": "7",
+            "TopicName": "What I want to be?",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 82,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "General Knowledge",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1047,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 82,
+                "ChapterName": "CHAP 8:Ancient people and their livings",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 82,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "General Knowledge",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2119,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 82,
+            "ChapterID": 1047,
+            "TopicRef": "8",
+            "TopicName": "Ancient people and their livings",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 82,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "General Knowledge",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1048,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 82,
+                "ChapterName": "CHAP 9:Inventors and inventions",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 82,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "General Knowledge",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2120,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 82,
+            "ChapterID": 1048,
+            "TopicRef": "9",
+            "TopicName": "Inventors and Inventions",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 82,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "General Knowledge",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1049,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 82,
+                "ChapterName": "CHAP 10:Tools and machines",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 82,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "General Knowledge",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2121,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 82,
+            "ChapterID": 1049,
+            "TopicRef": "10",
+            "TopicName": "Tools and Machines",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 82,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "General Knowledge",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1050,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 82,
+                "ChapterName": "CHAP 11:Government and role of citizens",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 82,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "General Knowledge",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2122,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 82,
+            "ChapterID": 1050,
+            "TopicRef": "11",
+            "TopicName": "Government and role of Citizens",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 82,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "General Knowledge",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1051,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 82,
+                "ChapterName": "CHAP 12:Government Responsibilities and Citizens’ Rights",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 82,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "General Knowledge",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2123,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 82,
+            "ChapterID": 1051,
+            "TopicRef": "12",
+            "TopicName": "Government Responsibilities and Citizens’ Rights",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 3,
+                        "CourseID": 1,
+                        "ClassName": "THREE",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 82,
+                    "CourseID": 1,
+                    "ClassID": 3,
+                    "SubjectName": "General Knowledge",
+                    "Category": "Three",
+                    "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1052,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectID": 82,
+                "ChapterName": "CHAP 13:Respect and Regards for others",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 3,
+                "CourseID": 1,
+                "ClassName": "THREE",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 3,
+                    "CourseID": 1,
+                    "ClassName": "THREE",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 82,
+                "CourseID": 1,
+                "ClassID": 3,
+                "SubjectName": "General Knowledge",
+                "Category": "Three",
+                "ImageUrl": "/Images/Subjects/637341258940129601.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2124,
+            "CourseID": 1,
+            "ClassID": 3,
+            "SubjectID": 82,
+            "ChapterID": 1052,
+            "TopicRef": "13",
+            "TopicName": "Respect and Regards for others",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

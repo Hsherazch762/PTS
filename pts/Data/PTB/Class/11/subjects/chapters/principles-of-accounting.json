@@ -1,0 +1,2250 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 102,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Accounting",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1311,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 102,
+            "ChapterName": "CHAP 1: Introduction",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 102,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Accounting",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1312,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 102,
+            "ChapterName": "CHAP 2: Transactions And Accounting Equation",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 102,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Accounting",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1313,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 102,
+            "ChapterName": "CHAP 3: Analysis Of Business Transactions And Double Entry System",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 102,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Accounting",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1314,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 102,
+            "ChapterName": "CHAP 4: Journal: The original Book Of Entry",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 102,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Accounting",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1315,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 102,
+            "ChapterName": "CHAP 5: Ledger: The Main Book Of Accounts",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 102,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Accounting",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1316,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 102,
+            "ChapterName": "CHAP 6: Accounting For Bills Of Exchange",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 102,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Accounting",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1317,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 102,
+            "ChapterName": "CHAP 7: Special Journals",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 102,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Accounting",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1318,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 102,
+            "ChapterName": "CHAP 8: Cash Book And Bank Reconciliation Statement",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 102,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Accounting",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1319,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 102,
+            "ChapterName": "CHAP 9: Journal Proper And Summery Of Book Keeping To The Trial Balance",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 102,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Accounting",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1320,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 102,
+            "ChapterName": "CHAP 10: Final Accounts: The Completion Of Accounting Cycle",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 102,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Accounting",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1321,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 102,
+            "ChapterName": "CHAP 11: Adjustments And Their Effects On Final Accounts",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 102,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Accounting",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1322,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 102,
+            "ChapterName": "CHAP 12: Work Sheet",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 102,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Accounting",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1323,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 102,
+            "ChapterName": "CHAP 13: Financial Statements",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 102,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Accounting",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1324,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 102,
+            "ChapterName": "CHAP 14: Capital And Revenue",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 102,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Accounting",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1325,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 102,
+            "ChapterName": "CHAP 15: Rectification Of Errors",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 102,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Accounting",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1311,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 102,
+                "ChapterName": "CHAP 1: Introduction",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 102,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Accounting",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2494,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 102,
+            "ChapterID": 1311,
+            "TopicRef": ".",
+            "TopicName": "Introduction",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 102,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Accounting",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1312,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 102,
+                "ChapterName": "CHAP 2: Transactions And Accounting Equation",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 102,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Accounting",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2495,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 102,
+            "ChapterID": 1312,
+            "TopicRef": ".",
+            "TopicName": "Transactions And Accounting Equation",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 102,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Accounting",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1313,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 102,
+                "ChapterName": "CHAP 3: Analysis Of Business Transactions And Double Entry System",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 102,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Accounting",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2496,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 102,
+            "ChapterID": 1313,
+            "TopicRef": ".",
+            "TopicName": "Analysis Of Business Transactions And Double Entry System",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 102,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Accounting",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1314,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 102,
+                "ChapterName": "CHAP 4: Journal: The original Book Of Entry",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 102,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Accounting",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2497,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 102,
+            "ChapterID": 1314,
+            "TopicRef": ".",
+            "TopicName": "Journal: The Original Book Of Entry",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 102,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Accounting",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1315,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 102,
+                "ChapterName": "CHAP 5: Ledger: The Main Book Of Accounts",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 102,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Accounting",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2498,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 102,
+            "ChapterID": 1315,
+            "TopicRef": ".",
+            "TopicName": "Ledger: The Main Book OF Accounts",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 102,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Accounting",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1316,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 102,
+                "ChapterName": "CHAP 6: Accounting For Bills Of Exchange",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 102,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Accounting",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2499,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 102,
+            "ChapterID": 1316,
+            "TopicRef": ".",
+            "TopicName": "Accounting For Bills Of Exchange",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 102,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Accounting",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1317,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 102,
+                "ChapterName": "CHAP 7: Special Journals",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 102,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Accounting",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2500,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 102,
+            "ChapterID": 1317,
+            "TopicRef": ".",
+            "TopicName": "Special Journals",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 102,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Accounting",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1318,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 102,
+                "ChapterName": "CHAP 8: Cash Book And Bank Reconciliation Statement",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 102,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Accounting",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2501,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 102,
+            "ChapterID": 1318,
+            "TopicRef": ".",
+            "TopicName": "Cash Book And Bank Reconciliation Statement ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 102,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Accounting",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1319,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 102,
+                "ChapterName": "CHAP 9: Journal Proper And Summery Of Book Keeping To The Trial Balance",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 102,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Accounting",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2502,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 102,
+            "ChapterID": 1319,
+            "TopicRef": ".",
+            "TopicName": "Journal: Proper And Summery Of Book Keeping To Trial Balance",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 102,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Accounting",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1320,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 102,
+                "ChapterName": "CHAP 10: Final Accounts: The Completion Of Accounting Cycle",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 102,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Accounting",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2503,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 102,
+            "ChapterID": 1320,
+            "TopicRef": ".",
+            "TopicName": "Final Accounts: The Completion Of Accounting Cycle",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 102,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Accounting",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1321,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 102,
+                "ChapterName": "CHAP 11: Adjustments And Their Effects On Final Accounts",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 102,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Accounting",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2504,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 102,
+            "ChapterID": 1321,
+            "TopicRef": ".",
+            "TopicName": "Adjustment And Their Effects On Final Accounts",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 102,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Accounting",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1322,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 102,
+                "ChapterName": "CHAP 12: Work Sheet",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 102,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Accounting",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2505,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 102,
+            "ChapterID": 1322,
+            "TopicRef": ".",
+            "TopicName": "Work Sheet",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 102,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Accounting",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1323,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 102,
+                "ChapterName": "CHAP 13: Financial Statements",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 102,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Accounting",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2506,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 102,
+            "ChapterID": 1323,
+            "TopicRef": ".",
+            "TopicName": "Financial Statements",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 102,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Accounting",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1324,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 102,
+                "ChapterName": "CHAP 14: Capital And Revenue",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 102,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Accounting",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2507,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 102,
+            "ChapterID": 1324,
+            "TopicRef": ".",
+            "TopicName": "Capital And Revenue",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 102,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Principles of Accounting",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1325,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 102,
+                "ChapterName": "CHAP 15: Rectification Of Errors",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 102,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Principles of Accounting",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341221784227937.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2508,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 102,
+            "ChapterID": 1325,
+            "TopicRef": ".",
+            "TopicName": "Rectification Of Errors",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

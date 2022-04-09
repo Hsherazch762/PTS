@@ -1,0 +1,410 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": [
+        {
+            "Class": {
+                "ClassID": 9,
+                "CourseID": 1,
+                "ClassName": "9TH",
+                "IsActive": true,
+                "Course": null
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 43,
+            "CourseID": 1,
+            "ClassID": 9,
+            "SubjectName": "Biology",
+            "Category": "9TH",
+            "ImageUrl": "/Images/Subjects/637341206781580074.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 9,
+                "CourseID": 1,
+                "ClassName": "9TH",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 44,
+            "CourseID": 1,
+            "ClassID": 9,
+            "SubjectName": "Computer",
+            "Category": "2020 Edition",
+            "ImageUrl": "/Images/Subjects/637341207512794116.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 9,
+                "CourseID": 1,
+                "ClassName": "9TH",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 45,
+            "CourseID": 1,
+            "ClassID": 9,
+            "SubjectName": "Chemistry",
+            "Category": "9TH",
+            "ImageUrl": "/Images/Subjects/637341207682949277.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 9,
+                "CourseID": 1,
+                "ClassName": "9TH",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 46,
+            "CourseID": 1,
+            "ClassID": 9,
+            "SubjectName": "Physics",
+            "Category": "9TH",
+            "ImageUrl": "/Images/Subjects/637341207992801957.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 9,
+                "CourseID": 1,
+                "ClassName": "9TH",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 47,
+            "CourseID": 1,
+            "ClassID": 9,
+            "SubjectName": "Mathematics",
+            "Category": "9TH",
+            "ImageUrl": "/Images/Subjects/637341208135406390.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 9,
+                "CourseID": 1,
+                "ClassName": "9TH",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 48,
+            "CourseID": 1,
+            "ClassID": 9,
+            "SubjectName": "English",
+            "Category": "9TH",
+            "ImageUrl": "/Images/Subjects/637341208275829443.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 9,
+                "CourseID": 1,
+                "ClassName": "9TH",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 49,
+            "CourseID": 1,
+            "ClassID": 9,
+            "SubjectName": "Pakistan Studies",
+            "Category": "2020 Edition",
+            "ImageUrl": "/Images/Subjects/637341208584991947.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 9,
+                "CourseID": 1,
+                "ClassName": "9TH",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 50,
+            "CourseID": 1,
+            "ClassID": 9,
+            "SubjectName": "اُردو لازمی",
+            "Category": "9TH",
+            "ImageUrl": "/Images/Subjects/637341208745680601.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 9,
+                "CourseID": 1,
+                "ClassName": "9TH",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 51,
+            "CourseID": 1,
+            "ClassID": 9,
+            "SubjectName": "اسلامیات لازمی",
+            "Category": "9TH",
+            "ImageUrl": "/Images/Subjects/637341209069395061.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 9,
+                "CourseID": 1,
+                "ClassName": "9TH",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 52,
+            "CourseID": 1,
+            "ClassID": 9,
+            "SubjectName": "جنرل سائنس",
+            "Category": "9TH",
+            "ImageUrl": "/Images/Subjects/637341209184519980.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 9,
+                "CourseID": 1,
+                "ClassName": "9TH",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 53,
+            "CourseID": 1,
+            "ClassID": 9,
+            "SubjectName": "جنرل ریاضی",
+            "Category": "9TH",
+            "ImageUrl": "/Images/Subjects/637341209307968258.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 9,
+                "CourseID": 1,
+                "ClassName": "9TH",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 54,
+            "CourseID": 1,
+            "ClassID": 9,
+            "SubjectName": "ایجوکیشن",
+            "Category": "9TH",
+            "ImageUrl": "/Images/Subjects/637341209415278346.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 9,
+                "CourseID": 1,
+                "ClassName": "9TH",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 55,
+            "CourseID": 1,
+            "ClassID": 9,
+            "SubjectName": "پنجابی",
+            "Category": "9TH",
+            "ImageUrl": "/Images/Subjects/637341209554206426.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 9,
+                "CourseID": 1,
+                "ClassName": "9TH",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 56,
+            "CourseID": 1,
+            "ClassID": 9,
+            "SubjectName": "اسلامیات اختیاری",
+            "Category": "9TH",
+            "ImageUrl": "/Images/Subjects/637341209721623963.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 9,
+                "CourseID": 1,
+                "ClassName": "9TH",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 57,
+            "CourseID": 1,
+            "ClassID": 9,
+            "SubjectName": "ہوم اکنامکس",
+            "Category": "9TH",
+            "ImageUrl": "/Images/Subjects/637341209824182986.JPG",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 9,
+                "CourseID": 1,
+                "ClassName": "9TH",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 257,
+            "CourseID": 1,
+            "ClassID": 9,
+            "SubjectName": "معاشیات",
+            "Category": "PTB",
+            "ImageUrl": null,
+            "IsActive": true
+        }
+    ],
+    "ChaptersList": null,
+    "TopicsList": null,
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

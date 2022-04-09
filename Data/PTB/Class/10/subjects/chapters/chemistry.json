@@ -1,0 +1,3907 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 454,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterName": "CHAP 1: Chemical Equilibrium",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 455,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterName": "CHAP 2: Acids, Bases and Salts",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 456,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterName": "CHAP 3: Organic Chemistry",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 457,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterName": "CHAP 4: Hydrocarbons",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 458,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterName": "CHAP 5: Biochemistry",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 459,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterName": "CHAP 6: The Atmosphere",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 460,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterName": "CHAP 7: Water",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 461,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterName": "CHAP 8: Chemical Industries",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 61,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Chemistry",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 454,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 61,
+                "ChapterName": "CHAP 1: Chemical Equilibrium",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1028,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterID": 454,
+            "TopicRef": "1.1",
+            "TopicName": "Reversible Reaction and Dynamic Equilibrium",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 61,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Chemistry",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 454,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 61,
+                "ChapterName": "CHAP 1: Chemical Equilibrium",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1029,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterID": 454,
+            "TopicRef": "1.2",
+            "TopicName": "Law of Mass Action",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 61,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Chemistry",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 454,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 61,
+                "ChapterName": "CHAP 1: Chemical Equilibrium",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1030,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterID": 454,
+            "TopicRef": "1.3",
+            "TopicName": "Equilibrium Constant and Its Units",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 61,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Chemistry",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 454,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 61,
+                "ChapterName": "CHAP 1: Chemical Equilibrium",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1031,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterID": 454,
+            "TopicRef": "1.4",
+            "TopicName": "Importance of Equilibrium Constant",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 61,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Chemistry",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 455,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 61,
+                "ChapterName": "CHAP 2: Acids, Bases and Salts",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1032,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterID": 455,
+            "TopicRef": "2.1",
+            "TopicName": "Concepts of Acids and Bases",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 61,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Chemistry",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 455,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 61,
+                "ChapterName": "CHAP 2: Acids, Bases and Salts",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1033,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterID": 455,
+            "TopicRef": "2.2",
+            "TopicName": "pH Scale",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 61,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Chemistry",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 455,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 61,
+                "ChapterName": "CHAP 2: Acids, Bases and Salts",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1034,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterID": 455,
+            "TopicRef": "2.3",
+            "TopicName": "Salts",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 61,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Chemistry",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 456,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 61,
+                "ChapterName": "CHAP 3: Organic Chemistry",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1035,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterID": 456,
+            "TopicRef": "3.1",
+            "TopicName": "Organic Compounds",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 61,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Chemistry",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 456,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 61,
+                "ChapterName": "CHAP 3: Organic Chemistry",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1036,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterID": 456,
+            "TopicRef": "3.2",
+            "TopicName": "Sources of Organic Compounds",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 61,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Chemistry",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 456,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 61,
+                "ChapterName": "CHAP 3: Organic Chemistry",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1037,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterID": 456,
+            "TopicRef": "3.3",
+            "TopicName": "Uses of Organic Compounds",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 61,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Chemistry",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 456,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 61,
+                "ChapterName": "CHAP 3: Organic Chemistry",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1038,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterID": 456,
+            "TopicRef": "3.4",
+            "TopicName": "Alkanes and Alkyl Radicals",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 61,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Chemistry",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 456,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 61,
+                "ChapterName": "CHAP 3: Organic Chemistry",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1039,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterID": 456,
+            "TopicRef": "3.5",
+            "TopicName": "Functional Group",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 61,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Chemistry",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 456,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 61,
+                "ChapterName": "CHAP 3: Organic Chemistry",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1040,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterID": 456,
+            "TopicRef": "3.6",
+            "TopicName": "Tests of Functional Groups",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 61,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Chemistry",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 457,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 61,
+                "ChapterName": "CHAP 4: Hydrocarbons",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1041,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterID": 457,
+            "TopicRef": "4.1",
+            "TopicName": "Alkanes",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 61,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Chemistry",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 457,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 61,
+                "ChapterName": "CHAP 4: Hydrocarbons",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1042,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterID": 457,
+            "TopicRef": "4.2",
+            "TopicName": "Alkenes",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 61,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Chemistry",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 457,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 61,
+                "ChapterName": "CHAP 4: Hydrocarbons",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1043,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterID": 457,
+            "TopicRef": "4.3",
+            "TopicName": "Alkynes",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 61,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Chemistry",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 458,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 61,
+                "ChapterName": "CHAP 5: Biochemistry",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1045,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterID": 458,
+            "TopicRef": "5.1",
+            "TopicName": "Carbohydrates",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 61,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Chemistry",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 458,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 61,
+                "ChapterName": "CHAP 5: Biochemistry",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1046,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterID": 458,
+            "TopicRef": "5.2",
+            "TopicName": "Protein",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 61,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Chemistry",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 458,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 61,
+                "ChapterName": "CHAP 5: Biochemistry",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1047,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterID": 458,
+            "TopicRef": "5.3",
+            "TopicName": "Lipids",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 61,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Chemistry",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 458,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 61,
+                "ChapterName": "CHAP 5: Biochemistry",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1049,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterID": 458,
+            "TopicRef": "5.4",
+            "TopicName": "Nucleic Acids",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 61,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Chemistry",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 458,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 61,
+                "ChapterName": "CHAP 5: Biochemistry",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1050,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterID": 458,
+            "TopicRef": "5.5",
+            "TopicName": "Vitamins",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 61,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Chemistry",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 459,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 61,
+                "ChapterName": "CHAP 6: The Atmosphere",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1052,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterID": 459,
+            "TopicRef": "6.1",
+            "TopicName": "Composition of Atmosphere",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 61,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Chemistry",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 459,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 61,
+                "ChapterName": "CHAP 6: The Atmosphere",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1053,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterID": 459,
+            "TopicRef": "6.2",
+            "TopicName": "Layers of Atmosphere",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 61,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Chemistry",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 459,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 61,
+                "ChapterName": "CHAP 6: The Atmosphere",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1054,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterID": 459,
+            "TopicRef": "6.3",
+            "TopicName": "Pollutants",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 61,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Chemistry",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 459,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 61,
+                "ChapterName": "CHAP 6: The Atmosphere",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1056,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterID": 459,
+            "TopicRef": "6.4",
+            "TopicName": "Acid Rain and Its Effects",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 61,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Chemistry",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 459,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 61,
+                "ChapterName": "CHAP 6: The Atmosphere",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1057,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterID": 459,
+            "TopicRef": "6.5",
+            "TopicName": "Ozone Depletion and Its Effects",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 61,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Chemistry",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 460,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 61,
+                "ChapterName": "CHAP 7: Water",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1059,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterID": 460,
+            "TopicRef": "7.1",
+            "TopicName": "Properties of Water",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 61,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Chemistry",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 460,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 61,
+                "ChapterName": "CHAP 7: Water",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1060,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterID": 460,
+            "TopicRef": "7.2",
+            "TopicName": "Water as Solvent",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 61,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Chemistry",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 460,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 61,
+                "ChapterName": "CHAP 7: Water",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1061,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterID": 460,
+            "TopicRef": "7.3",
+            "TopicName": "Soft and Hard Water",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 61,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Chemistry",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 460,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 61,
+                "ChapterName": "CHAP 7: Water",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1062,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterID": 460,
+            "TopicRef": "7.4",
+            "TopicName": "Water Pollution",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 61,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Chemistry",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 460,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 61,
+                "ChapterName": "CHAP 7: Water",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1064,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterID": 460,
+            "TopicRef": "7.5",
+            "TopicName": "Waterborne Infectious Diseases",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 61,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Chemistry",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 461,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 61,
+                "ChapterName": "CHAP 8: Chemical Industries",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1065,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterID": 461,
+            "TopicRef": "8.1",
+            "TopicName": "Basic Metallurgical Operations",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 61,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Chemistry",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 461,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 61,
+                "ChapterName": "CHAP 8: Chemical Industries",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1066,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterID": 461,
+            "TopicRef": "8.2",
+            "TopicName": "Manufacture of Sodium Carbonate by Solvay's Process",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 61,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Chemistry",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 461,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 61,
+                "ChapterName": "CHAP 8: Chemical Industries",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1068,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterID": 461,
+            "TopicRef": "8.3",
+            "TopicName": "Manufacture of Urea",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 61,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Chemistry",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 461,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 61,
+                "ChapterName": "CHAP 8: Chemical Industries",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 61,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Chemistry",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213290343542.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1069,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 61,
+            "ChapterID": 461,
+            "TopicRef": "8.4",
+            "TopicName": "Petroleum Industry",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

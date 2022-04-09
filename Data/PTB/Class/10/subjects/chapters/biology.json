@@ -1,0 +1,4256 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 390,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterName": "CHAP 10:Gaseous Exchange",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 391,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterName": "CHAP 11:Homeostasis",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 392,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterName": "CHAP 12:Coordination and Control",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 393,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterName": "CHAP 13:Support and Movement",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 394,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterName": "CHAP 14:Reproduction",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 395,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterName": "CHAP 15:Inheritance",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 396,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterName": "CHAP 16:Man and his Environment",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 397,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterName": "CHAP 17:Biotechnology",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 398,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterName": "CHAP 18:Pharmacology",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 59,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Biology",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 390,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 59,
+                "ChapterName": "CHAP 10:Gaseous Exchange",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "TopicID": 787,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterID": 390,
+            "TopicRef": "10.1",
+            "TopicName": "Gaseous Exchange in Plants",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 59,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Biology",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 390,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 59,
+                "ChapterName": "CHAP 10:Gaseous Exchange",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "TopicID": 788,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterID": 390,
+            "TopicRef": "10.2",
+            "TopicName": "Gaseous Exchange in Humans",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 59,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Biology",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 390,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 59,
+                "ChapterName": "CHAP 10:Gaseous Exchange",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "TopicID": 789,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterID": 390,
+            "TopicRef": "10.3",
+            "TopicName": "Respiratory Disorders",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 59,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Biology",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 391,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 59,
+                "ChapterName": "CHAP 11:Homeostasis",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "TopicID": 790,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterID": 391,
+            "TopicRef": "11.1",
+            "TopicName": "Homeostasis in Plants",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 59,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Biology",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 391,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 59,
+                "ChapterName": "CHAP 11:Homeostasis",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "TopicID": 791,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterID": 391,
+            "TopicRef": "11.2",
+            "TopicName": "Homeostasis in Humans",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 59,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Biology",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 391,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 59,
+                "ChapterName": "CHAP 11:Homeostasis",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "TopicID": 792,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterID": 391,
+            "TopicRef": "11.3",
+            "TopicName": "The Urinary System of Humans",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 59,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Biology",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 391,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 59,
+                "ChapterName": "CHAP 11:Homeostasis",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "TopicID": 793,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterID": 391,
+            "TopicRef": "11.4",
+            "TopicName": "Disorders of Kidney",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 59,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Biology",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 392,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 59,
+                "ChapterName": "CHAP 12:Coordination and Control",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "TopicID": 794,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterID": 392,
+            "TopicRef": "12.1",
+            "TopicName": "Types of Coordination",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 59,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Biology",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 392,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 59,
+                "ChapterName": "CHAP 12:Coordination and Control",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "TopicID": 795,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterID": 392,
+            "TopicRef": "12.2",
+            "TopicName": "Human Nervous System",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 59,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Biology",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 392,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 59,
+                "ChapterName": "CHAP 12:Coordination and Control",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "TopicID": 796,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterID": 392,
+            "TopicRef": "12.3",
+            "TopicName": "Receptors In Humans",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 59,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Biology",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 392,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 59,
+                "ChapterName": "CHAP 12:Coordination and Control",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "TopicID": 797,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterID": 392,
+            "TopicRef": "12.4",
+            "TopicName": "Endocrine System ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 59,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Biology",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 392,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 59,
+                "ChapterName": "CHAP 12:Coordination and Control",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "TopicID": 798,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterID": 392,
+            "TopicRef": "12.5",
+            "TopicName": "Disorders of Nervous System",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 59,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Biology",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 393,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 59,
+                "ChapterName": "CHAP 13:Support and Movement",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "TopicID": 799,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterID": 393,
+            "TopicRef": "13.1",
+            "TopicName": "Human Skeleton",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 59,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Biology",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 393,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 59,
+                "ChapterName": "CHAP 13:Support and Movement",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "TopicID": 800,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterID": 393,
+            "TopicRef": "13.2",
+            "TopicName": "Types Of Joints",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 59,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Biology",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 393,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 59,
+                "ChapterName": "CHAP 13:Support and Movement",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "TopicID": 801,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterID": 393,
+            "TopicRef": "13.3",
+            "TopicName": "Muscles and Movement",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 59,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Biology",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 393,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 59,
+                "ChapterName": "CHAP 13:Support and Movement",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "TopicID": 802,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterID": 393,
+            "TopicRef": "13.4",
+            "TopicName": "Disorders of Skeletal System",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 59,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Biology",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 394,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 59,
+                "ChapterName": "CHAP 14:Reproduction",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "TopicID": 803,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterID": 394,
+            "TopicRef": "14.1",
+            "TopicName": "Reproduction",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 59,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Biology",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 394,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 59,
+                "ChapterName": "CHAP 14:Reproduction",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "TopicID": 804,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterID": 394,
+            "TopicRef": "14.2",
+            "TopicName": "Methods of Asexual Reproduction ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 59,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Biology",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 394,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 59,
+                "ChapterName": "CHAP 14:Reproduction",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "TopicID": 805,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterID": 394,
+            "TopicRef": "14.3",
+            "TopicName": "Sexual Reproduction in Plants",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 59,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Biology",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 394,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 59,
+                "ChapterName": "CHAP 14:Reproduction",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "TopicID": 806,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterID": 394,
+            "TopicRef": "14.4",
+            "TopicName": "Sexual Reproduction in Animals ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 59,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Biology",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 395,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 59,
+                "ChapterName": "CHAP 15:Inheritance",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "TopicID": 807,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterID": 395,
+            "TopicRef": "15.1",
+            "TopicName": "Introduction to Genetics",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 59,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Biology",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 395,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 59,
+                "ChapterName": "CHAP 15:Inheritance",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "TopicID": 808,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterID": 395,
+            "TopicRef": "15.2",
+            "TopicName": "Chromosomes and Genes",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 59,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Biology",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 395,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 59,
+                "ChapterName": "CHAP 15:Inheritance",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "TopicID": 809,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterID": 395,
+            "TopicRef": "15.3",
+            "TopicName": "Mendel’s Laws of Inheritance",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 59,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Biology",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 395,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 59,
+                "ChapterName": "CHAP 15:Inheritance",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "TopicID": 810,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterID": 395,
+            "TopicRef": "15.4",
+            "TopicName": "Co-Dominance and Incomplete Dominance",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 59,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Biology",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 395,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 59,
+                "ChapterName": "CHAP 15:Inheritance",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "TopicID": 811,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterID": 395,
+            "TopicRef": "15.5",
+            "TopicName": "Variations and Evolution",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 59,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Biology",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 396,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 59,
+                "ChapterName": "CHAP 16:Man and his Environment",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "TopicID": 812,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterID": 396,
+            "TopicRef": "16.1",
+            "TopicName": "Levels of Biological Selection",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 59,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Biology",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 396,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 59,
+                "ChapterName": "CHAP 16:Man and his Environment",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "TopicID": 813,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterID": 396,
+            "TopicRef": "16.2",
+            "TopicName": "Flow of Materials And Energy In Ecosystem ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 59,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Biology",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 396,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 59,
+                "ChapterName": "CHAP 16:Man and his Environment",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "TopicID": 814,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterID": 396,
+            "TopicRef": "16.3",
+            "TopicName": "Interactions in Ecosystems",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 59,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Biology",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 396,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 59,
+                "ChapterName": "CHAP 16:Man and his Environment",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "TopicID": 815,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterID": 396,
+            "TopicRef": "16.4",
+            "TopicName": "Ecosystem Balance and Human Impact ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 59,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Biology",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 396,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 59,
+                "ChapterName": "CHAP 16:Man and his Environment",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "TopicID": 816,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterID": 396,
+            "TopicRef": "16.5",
+            "TopicName": "Pollution; Consequenses and Control ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 59,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Biology",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 396,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 59,
+                "ChapterName": "CHAP 16:Man and his Environment",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "TopicID": 817,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterID": 396,
+            "TopicRef": "16.6",
+            "TopicName": "Conservation of Nature ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 59,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Biology",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 397,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 59,
+                "ChapterName": "CHAP 17:Biotechnology",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "TopicID": 818,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterID": 397,
+            "TopicRef": "17.1",
+            "TopicName": "Introduction of Biotechnology ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 59,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Biology",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 397,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 59,
+                "ChapterName": "CHAP 17:Biotechnology",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "TopicID": 819,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterID": 397,
+            "TopicRef": "17.2",
+            "TopicName": "Fermentation",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 59,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Biology",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 397,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 59,
+                "ChapterName": "CHAP 17:Biotechnology",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "TopicID": 820,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterID": 397,
+            "TopicRef": "17.3",
+            "TopicName": "Genetic Engineering ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 59,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Biology",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 397,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 59,
+                "ChapterName": "CHAP 17:Biotechnology",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "TopicID": 821,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterID": 397,
+            "TopicRef": "17.4",
+            "TopicName": "Single-Cell Protein",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 59,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Biology",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 398,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 59,
+                "ChapterName": "CHAP 18:Pharmacology",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "TopicID": 822,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterID": 398,
+            "TopicRef": "18.1",
+            "TopicName": "Medicinal Drugs",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 59,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Biology",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 398,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 59,
+                "ChapterName": "CHAP 18:Pharmacology",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "TopicID": 823,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterID": 398,
+            "TopicRef": "18.2",
+            "TopicName": "Addictive Drugs",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 59,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Biology",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 398,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 59,
+                "ChapterName": "CHAP 18:Pharmacology",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 59,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Biology",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213036764786.jpg",
+                "IsActive": true
+            },
+            "TopicID": 824,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 59,
+            "ChapterID": 398,
+            "TopicRef": "18.3",
+            "TopicName": "Antibiotics and Vaccines",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

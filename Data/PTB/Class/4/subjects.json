@@ -1,0 +1,160 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": [
+        {
+            "Class": {
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true,
+                "Course": null
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 75,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectName": "English",
+            "Category": "4TH",
+            "ImageUrl": "/Images/Subjects/637341255085407631.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 76,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectName": "General Science",
+            "Category": "4TH",
+            "ImageUrl": "/Images/Subjects/637341255239958286.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 77,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectName": "Social Studies",
+            "Category": "4TH",
+            "ImageUrl": "/Images/Subjects/637341255415416391.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 78,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectName": "Mathematics",
+            "Category": "4TH",
+            "ImageUrl": "/Images/Subjects/637341258127881244.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 79,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectName": "اسلامیات لازمی",
+            "Category": "4TH",
+            "ImageUrl": "/Images/Subjects/637341255919925608.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 4,
+                "CourseID": 1,
+                "ClassName": "FOUR",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "SubjectID": 80,
+            "CourseID": 1,
+            "ClassID": 4,
+            "SubjectName": "اُردو لازمی",
+            "Category": "4TH",
+            "ImageUrl": "/Images/Subjects/637341256075237038.jpg",
+            "IsActive": true
+        }
+    ],
+    "ChaptersList": null,
+    "TopicsList": null,
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

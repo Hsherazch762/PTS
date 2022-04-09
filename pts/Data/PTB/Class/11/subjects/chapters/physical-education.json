@@ -1,0 +1,760 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 112,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "فزیکل ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223631648597.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1339,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 112,
+            "ChapterName": "باب نمبر 1: جسمانی تعلیم کی تعریف واہمیت",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 112,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "فزیکل ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223631648597.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1340,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 112,
+            "ChapterName": "باب نمبر 2: جسمانی تعلیم کے اغراض ومقاصد",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 112,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "فزیکل ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223631648597.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1341,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 112,
+            "ChapterName": "باب نمبر 3: جسمانی سرگرمیوں کا دائرہ کار",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 112,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "فزیکل ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223631648597.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1342,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 112,
+            "ChapterName": "باب نمبر 4: معظم کھیل",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 112,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "فزیکل ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223631648597.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1343,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 112,
+            "ChapterName": "باب نمبر 5: کسرتی کھیلوں کے ضابطے اور بنیادی مہارتیں",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 112,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "فزیکل ایجوکیشن",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223631648597.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1339,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 112,
+                "ChapterName": "باب نمبر 1: جسمانی تعلیم کی تعریف واہمیت",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 112,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "فزیکل ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223631648597.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2522,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 112,
+            "ChapterID": 1339,
+            "TopicRef": ".",
+            "TopicName": "جسمانی تعلیم کی تعریف و اہمیت",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 112,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "فزیکل ایجوکیشن",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223631648597.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1340,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 112,
+                "ChapterName": "باب نمبر 2: جسمانی تعلیم کے اغراض ومقاصد",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 112,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "فزیکل ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223631648597.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2523,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 112,
+            "ChapterID": 1340,
+            "TopicRef": ".",
+            "TopicName": "جسمانی تعلیم کے اغراض ومقاصد",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 112,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "فزیکل ایجوکیشن",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223631648597.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1341,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 112,
+                "ChapterName": "باب نمبر 3: جسمانی سرگرمیوں کا دائرہ کار",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 112,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "فزیکل ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223631648597.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2524,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 112,
+            "ChapterID": 1341,
+            "TopicRef": ".",
+            "TopicName": "جسمانی سرگرمیوں کا دائرہ کار",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 112,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "فزیکل ایجوکیشن",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223631648597.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1342,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 112,
+                "ChapterName": "باب نمبر 4: معظم کھیل",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 112,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "فزیکل ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223631648597.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2525,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 112,
+            "ChapterID": 1342,
+            "TopicRef": ".",
+            "TopicName": "معظم کھیل",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 112,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "فزیکل ایجوکیشن",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223631648597.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1343,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 112,
+                "ChapterName": "باب نمبر 5: کسرتی کھیلوں کے ضابطے اور بنیادی مہارتیں",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 112,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "فزیکل ایجوکیشن",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223631648597.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2526,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 112,
+            "ChapterID": 1343,
+            "TopicRef": ".",
+            "TopicName": "کسرتی کھیلوں کے ضابطے اور بنیادی مہارتیں",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

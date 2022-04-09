@@ -1,0 +1,4858 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1688,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterName": "CHAP 1: Functions and Limits",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1689,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterName": "CHAP 2: Differentiation",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1690,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterName": "CHAP 3: Integration",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1691,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterName": "CHAP 4: Introduction to Analytic Geometry",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1692,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterName": "CHAP 5: Linear Inequalities and Linear Programming",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1693,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterName": "CHAP 6: Conic Section",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1694,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterName": "CHAP 7: Vectors",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1688,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 1: Functions and Limits",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3710,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1688,
+            "TopicRef": "1.1",
+            "TopicName": "EX : 1.1",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1688,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 1: Functions and Limits",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3711,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1688,
+            "TopicRef": "1.2",
+            "TopicName": "EX : 1.2",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1688,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 1: Functions and Limits",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3712,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1688,
+            "TopicRef": "1.3",
+            "TopicName": "EX : 1.3",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1688,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 1: Functions and Limits",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3713,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1688,
+            "TopicRef": "1.4",
+            "TopicName": "EX : 1.4",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1688,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 1: Functions and Limits",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3714,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1688,
+            "TopicRef": "1.5",
+            "TopicName": "EX : 1.5",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1689,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 2: Differentiation",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3715,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1689,
+            "TopicRef": "2.1",
+            "TopicName": "EX : 2.1",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1689,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 2: Differentiation",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3716,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1689,
+            "TopicRef": "2.2",
+            "TopicName": "EX : 2.2",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1689,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 2: Differentiation",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3717,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1689,
+            "TopicRef": "2.3",
+            "TopicName": "EX : 2.3",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1689,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 2: Differentiation",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3718,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1689,
+            "TopicRef": "2.4",
+            "TopicName": "EX : 2.4",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1689,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 2: Differentiation",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3719,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1689,
+            "TopicRef": "2.5",
+            "TopicName": "EX : 2.5",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1689,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 2: Differentiation",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3720,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1689,
+            "TopicRef": "2.6",
+            "TopicName": "EX : 2.6",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1689,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 2: Differentiation",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3721,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1689,
+            "TopicRef": "2.7",
+            "TopicName": "EX : 2.7",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1689,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 2: Differentiation",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3722,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1689,
+            "TopicRef": "2.8",
+            "TopicName": "EX : 2.8",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1689,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 2: Differentiation",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3723,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1689,
+            "TopicRef": "2.9",
+            "TopicName": "EX : 2.9",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1689,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 2: Differentiation",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3724,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1689,
+            "TopicRef": "2.10",
+            "TopicName": "EX : 2.10",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1690,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 3: Integration",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3725,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1690,
+            "TopicRef": "3.1",
+            "TopicName": "EX : 3.1",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1690,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 3: Integration",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3726,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1690,
+            "TopicRef": "3.2",
+            "TopicName": "EX : 3.2",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1690,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 3: Integration",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3727,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1690,
+            "TopicRef": "3.3",
+            "TopicName": "EX : 3.3",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1690,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 3: Integration",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3728,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1690,
+            "TopicRef": "3.4",
+            "TopicName": "EX : 3.4",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1690,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 3: Integration",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3729,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1690,
+            "TopicRef": "3.5",
+            "TopicName": "EX : 3.5",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1690,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 3: Integration",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3730,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1690,
+            "TopicRef": "3.6",
+            "TopicName": "EX : 3.6",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1690,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 3: Integration",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3731,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1690,
+            "TopicRef": "3.7",
+            "TopicName": "EX : 3.7",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1690,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 3: Integration",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3732,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1690,
+            "TopicRef": "3.8",
+            "TopicName": "EX : 3.8",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1691,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 4: Introduction to Analytic Geometry",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3733,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1691,
+            "TopicRef": "4.1",
+            "TopicName": "EX : 4.1",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1691,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 4: Introduction to Analytic Geometry",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3734,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1691,
+            "TopicRef": "4.2",
+            "TopicName": "EX : 4.2",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1691,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 4: Introduction to Analytic Geometry",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3735,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1691,
+            "TopicRef": "4.3",
+            "TopicName": "EX : 4.3",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1691,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 4: Introduction to Analytic Geometry",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3736,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1691,
+            "TopicRef": "4.4",
+            "TopicName": "EX : 4.4",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1691,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 4: Introduction to Analytic Geometry",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3737,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1691,
+            "TopicRef": "4.5",
+            "TopicName": "EX : 4.5",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1692,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 5: Linear Inequalities and Linear Programming",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3738,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1692,
+            "TopicRef": "5.1",
+            "TopicName": "EX : 5.1",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1692,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 5: Linear Inequalities and Linear Programming",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3739,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1692,
+            "TopicRef": "5.2",
+            "TopicName": "EX : 5.2",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1692,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 5: Linear Inequalities and Linear Programming",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3740,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1692,
+            "TopicRef": "5.3",
+            "TopicName": "EX : 5.3",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1693,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 6: Conic Section",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3741,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1693,
+            "TopicRef": "6.1",
+            "TopicName": "EX : 6.1",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1693,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 6: Conic Section",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3742,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1693,
+            "TopicRef": "6.2",
+            "TopicName": "EX : 6.2",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1693,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 6: Conic Section",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3743,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1693,
+            "TopicRef": "6.3",
+            "TopicName": "EX : 6.3",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1693,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 6: Conic Section",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3744,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1693,
+            "TopicRef": "6.4",
+            "TopicName": "EX : 6.4",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1693,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 6: Conic Section",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3745,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1693,
+            "TopicRef": "6.5",
+            "TopicName": "EX : 6.5",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1693,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 6: Conic Section",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3746,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1693,
+            "TopicRef": "6.6",
+            "TopicName": "EX : 6.6",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1693,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 6: Conic Section",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3747,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1693,
+            "TopicRef": "6.7",
+            "TopicName": "EX : 6.7",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1693,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 6: Conic Section",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3748,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1693,
+            "TopicRef": "6.8",
+            "TopicName": "EX : 6.8",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1693,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 6: Conic Section",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3749,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1693,
+            "TopicRef": "6.9",
+            "TopicName": "EX : 6.9",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1694,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 7: Vectors",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3750,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1694,
+            "TopicRef": "7.1",
+            "TopicName": "EX : 7.1",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1694,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 7: Vectors",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3751,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1694,
+            "TopicRef": "7.2",
+            "TopicName": "EX : 7.2",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1694,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 7: Vectors",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3752,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1694,
+            "TopicRef": "7.3",
+            "TopicName": "EX : 7.3",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1694,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 7: Vectors",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3753,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1694,
+            "TopicRef": "7.4",
+            "TopicName": "EX : 7.4",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 119,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Mathematics",
+                    "Category": "FSc - ICS",
+                    "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1694,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 119,
+                "ChapterName": "CHAP 7: Vectors",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 119,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Mathematics",
+                "Category": "FSc - ICS",
+                "ImageUrl": "/Images/Subjects/637341238908204204.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3754,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 119,
+            "ChapterID": 1694,
+            "TopicRef": "7.5",
+            "TopicName": "EX : 7.5",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

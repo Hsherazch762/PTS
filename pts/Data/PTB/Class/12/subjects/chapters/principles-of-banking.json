@@ -1,0 +1,2250 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 125,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Principles of Banking",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1415,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 125,
+            "ChapterName": "CHAP 1: Beginning and Evolution of Bank",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 125,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Principles of Banking",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1416,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 125,
+            "ChapterName": "CHAP 2: Commercial Bank",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 125,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Principles of Banking",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1417,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 125,
+            "ChapterName": "CHAP 3: Electronic Banking",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 125,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Principles of Banking",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1418,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 125,
+            "ChapterName": "CHAP 4: Central Bank",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 125,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Principles of Banking",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1419,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 125,
+            "ChapterName": "CHAP 5: Scheduled & Non-Scheduled Banks",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 125,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Principles of Banking",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1420,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 125,
+            "ChapterName": "CHAP 6: Bank Accounts",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 125,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Principles of Banking",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1421,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 125,
+            "ChapterName": "CHAP 7: Banker & Customer Relationship",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 125,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Principles of Banking",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1422,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 125,
+            "ChapterName": "CHAP 8: Bank Funds and their Use",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 125,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Principles of Banking",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1423,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 125,
+            "ChapterName": "CHAP 9: Negotiable Instruments-I",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 125,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Principles of Banking",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1424,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 125,
+            "ChapterName": "CHAP 10: Negotiable Instruments-II",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 125,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Principles of Banking",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1425,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 125,
+            "ChapterName": "CHAP 11: Non-Negotiable Instruments",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 125,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Principles of Banking",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1426,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 125,
+            "ChapterName": "CHAP 12: Foreign Exchange Transaction",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 125,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Principles of Banking",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1427,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 125,
+            "ChapterName": "CHAP 13: Money Market",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 125,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Principles of Banking",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1428,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 125,
+            "ChapterName": "CHAP 14: Banking System in Pakistan",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 125,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Principles of Banking",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1429,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 125,
+            "ChapterName": "CHAP 15: Islamic Banking",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 125,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Principles of Banking",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1415,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 125,
+                "ChapterName": "CHAP 1: Beginning and Evolution of Bank",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 125,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Principles of Banking",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2601,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 125,
+            "ChapterID": 1415,
+            "TopicRef": "1",
+            "TopicName": "Beginning and Evolution of Bank",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 125,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Principles of Banking",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1416,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 125,
+                "ChapterName": "CHAP 2: Commercial Bank",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 125,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Principles of Banking",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2602,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 125,
+            "ChapterID": 1416,
+            "TopicRef": "2",
+            "TopicName": "Commercial Bank",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 125,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Principles of Banking",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1417,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 125,
+                "ChapterName": "CHAP 3: Electronic Banking",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 125,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Principles of Banking",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2603,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 125,
+            "ChapterID": 1417,
+            "TopicRef": "3",
+            "TopicName": "Electronic Banking",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 125,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Principles of Banking",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1418,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 125,
+                "ChapterName": "CHAP 4: Central Bank",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 125,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Principles of Banking",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2604,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 125,
+            "ChapterID": 1418,
+            "TopicRef": "4",
+            "TopicName": "Central Bank",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 125,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Principles of Banking",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1419,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 125,
+                "ChapterName": "CHAP 5: Scheduled & Non-Scheduled Banks",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 125,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Principles of Banking",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2605,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 125,
+            "ChapterID": 1419,
+            "TopicRef": "5",
+            "TopicName": "Scheduled & Non-Scheduled Banks",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 125,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Principles of Banking",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1420,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 125,
+                "ChapterName": "CHAP 6: Bank Accounts",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 125,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Principles of Banking",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2606,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 125,
+            "ChapterID": 1420,
+            "TopicRef": "6",
+            "TopicName": "Bank Accounts",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 125,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Principles of Banking",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1421,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 125,
+                "ChapterName": "CHAP 7: Banker & Customer Relationship",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 125,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Principles of Banking",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2607,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 125,
+            "ChapterID": 1421,
+            "TopicRef": "7",
+            "TopicName": "Banker & Customer Relationship",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 125,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Principles of Banking",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1422,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 125,
+                "ChapterName": "CHAP 8: Bank Funds and their Use",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 125,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Principles of Banking",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2608,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 125,
+            "ChapterID": 1422,
+            "TopicRef": "8",
+            "TopicName": "Bank Funds and their Use",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 125,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Principles of Banking",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1423,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 125,
+                "ChapterName": "CHAP 9: Negotiable Instruments-I",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 125,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Principles of Banking",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2609,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 125,
+            "ChapterID": 1423,
+            "TopicRef": "9",
+            "TopicName": "Negotiable Instruments-I",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 125,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Principles of Banking",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1424,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 125,
+                "ChapterName": "CHAP 10: Negotiable Instruments-II",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 125,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Principles of Banking",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2610,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 125,
+            "ChapterID": 1424,
+            "TopicRef": "10",
+            "TopicName": "Negotiable Instruments-II",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 125,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Principles of Banking",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1425,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 125,
+                "ChapterName": "CHAP 11: Non-Negotiable Instruments",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 125,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Principles of Banking",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2611,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 125,
+            "ChapterID": 1425,
+            "TopicRef": "11",
+            "TopicName": "Non-Negotiable Instruments",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 125,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Principles of Banking",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1426,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 125,
+                "ChapterName": "CHAP 12: Foreign Exchange Transaction",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 125,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Principles of Banking",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2612,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 125,
+            "ChapterID": 1426,
+            "TopicRef": "12",
+            "TopicName": "Foreign Exchange Transaction",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 125,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Principles of Banking",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1427,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 125,
+                "ChapterName": "CHAP 13: Money Market",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 125,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Principles of Banking",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2613,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 125,
+            "ChapterID": 1427,
+            "TopicRef": "13",
+            "TopicName": "Money Market",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 125,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Principles of Banking",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1428,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 125,
+                "ChapterName": "CHAP 14: Banking System in Pakistan",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 125,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Principles of Banking",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2614,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 125,
+            "ChapterID": 1428,
+            "TopicRef": "14",
+            "TopicName": "Banking System in Pakistan",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 125,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "Principles of Banking",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1429,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 125,
+                "ChapterName": "CHAP 15: Islamic Banking",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 125,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "Principles of Banking",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341239975884096.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2615,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 125,
+            "ChapterID": 1429,
+            "TopicRef": "15",
+            "TopicName": "Islamic Banking",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

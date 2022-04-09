@@ -1,0 +1,4111 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 679,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterName": "آیات کریمہ",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 688,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterName": "احادیث مبارکہ",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 701,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterName": "باب سوم ۔ تعلیماتِ اسلام",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 712,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterName": "باب پنجم ۔ عربی زبان کی گرامر",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 679,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "آیات کریمہ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1503,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 679,
+            "TopicRef": ".",
+            "TopicName": "آیت نمبر :11",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 679,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "آیات کریمہ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1504,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 679,
+            "TopicRef": ".",
+            "TopicName": "آیت نمبر :12",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 679,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "آیات کریمہ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1505,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 679,
+            "TopicRef": ".",
+            "TopicName": "آیت نمبر :13",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 679,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "آیات کریمہ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1506,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 679,
+            "TopicRef": ".",
+            "TopicName": "آیت نمبر :14",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 679,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "آیات کریمہ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1507,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 679,
+            "TopicRef": ".",
+            "TopicName": "آیت نمبر :15",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 679,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "آیات کریمہ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1508,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 679,
+            "TopicRef": ".",
+            "TopicName": "آیت نمبر :16",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 679,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "آیات کریمہ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1510,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 679,
+            "TopicRef": ".",
+            "TopicName": "آیت نمبر :17",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 679,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "آیات کریمہ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1511,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 679,
+            "TopicRef": ".",
+            "TopicName": "آیت نمبر :18",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 679,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "آیات کریمہ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1512,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 679,
+            "TopicRef": ".",
+            "TopicName": "آیت نمبر :19",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 688,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "احادیث مبارکہ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1513,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 688,
+            "TopicRef": ".",
+            "TopicName": "حدیث نمبر :13",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 688,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "احادیث مبارکہ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1514,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 688,
+            "TopicRef": ".",
+            "TopicName": "حدیث نمبر :14",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 688,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "احادیث مبارکہ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1515,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 688,
+            "TopicRef": ".",
+            "TopicName": "حدیث نمبر :15",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 688,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "احادیث مبارکہ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1516,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 688,
+            "TopicRef": ".",
+            "TopicName": "حدیث نمبر :16",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 688,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "احادیث مبارکہ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1517,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 688,
+            "TopicRef": ".",
+            "TopicName": "حدیث نمبر :17",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 688,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "احادیث مبارکہ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1518,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 688,
+            "TopicRef": ".",
+            "TopicName": "حدیث نمبر :18",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 688,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "احادیث مبارکہ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1519,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 688,
+            "TopicRef": ".",
+            "TopicName": "حدیث نمبر :19",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 688,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "احادیث مبارکہ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1520,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 688,
+            "TopicRef": ".",
+            "TopicName": "حدیث نمبر :20",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 688,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "احادیث مبارکہ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1521,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 688,
+            "TopicRef": ".",
+            "TopicName": "حدیث نمبر :21",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 688,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "احادیث مبارکہ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1522,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 688,
+            "TopicRef": ".",
+            "TopicName": "حدیث نمبر :22",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 688,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "احادیث مبارکہ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1523,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 688,
+            "TopicRef": ".",
+            "TopicName": "حدیث نمبر :23",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 688,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "احادیث مبارکہ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1524,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 688,
+            "TopicRef": ".",
+            "TopicName": "حدیث نمبر :24",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 688,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "احادیث مبارکہ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1525,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 688,
+            "TopicRef": ".",
+            "TopicName": "حدیث نمبر :25",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 701,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "باب سوم ۔ تعلیماتِ اسلام",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1526,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 701,
+            "TopicRef": "1",
+            "TopicName": "توحید",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 701,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "باب سوم ۔ تعلیماتِ اسلام",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1527,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 701,
+            "TopicRef": "2",
+            "TopicName": "اطاعت رسول کریمﷺ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 701,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "باب سوم ۔ تعلیماتِ اسلام",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1528,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 701,
+            "TopicRef": "3",
+            "TopicName": "طہارت و پاکیزگی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 701,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "باب سوم ۔ تعلیماتِ اسلام",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1529,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 701,
+            "TopicRef": "4",
+            "TopicName": "علم کی ترغیب",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 701,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "باب سوم ۔ تعلیماتِ اسلام",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1530,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 701,
+            "TopicRef": "5",
+            "TopicName": "عدل",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 701,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "باب سوم ۔ تعلیماتِ اسلام",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1531,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 701,
+            "TopicRef": "6",
+            "TopicName": "جہاد",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 701,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "باب سوم ۔ تعلیماتِ اسلام",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1532,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 701,
+            "TopicRef": "7",
+            "TopicName": "اکل حلال",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 701,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "باب سوم ۔ تعلیماتِ اسلام",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1533,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 701,
+            "TopicRef": "8",
+            "TopicName": "عفت و حیا",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 701,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "باب سوم ۔ تعلیماتِ اسلام",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1534,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 701,
+            "TopicRef": "9",
+            "TopicName": "سماجی انصاف",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 701,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "باب سوم ۔ تعلیماتِ اسلام",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1535,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 701,
+            "TopicRef": "10",
+            "TopicName": "فرض شناسی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 701,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "باب سوم ۔ تعلیماتِ اسلام",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1536,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 701,
+            "TopicRef": "11",
+            "TopicName": "اسلامی عبادات کی امتیازی خصوصیات",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 712,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "باب پنجم ۔ عربی زبان کی گرامر",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1537,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 712,
+            "TopicRef": ".",
+            "TopicName": "اسم ضمیر اور اسم کی اقسام",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 712,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "باب پنجم ۔ عربی زبان کی گرامر",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1538,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 712,
+            "TopicRef": ".",
+            "TopicName": "فعل کی قسمیں",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 712,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "باب پنجم ۔ عربی زبان کی گرامر",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1539,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 712,
+            "TopicRef": ".",
+            "TopicName": "مرکب (مرکب ناقص)",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 712,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "باب پنجم ۔ عربی زبان کی گرامر",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1540,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 712,
+            "TopicRef": ".",
+            "TopicName": "مرکب (مرکب نام)",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 712,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "باب پنجم ۔ عربی زبان کی گرامر",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1541,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 712,
+            "TopicRef": ".",
+            "TopicName": "فعل لازم تا فعل مجہول",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 72,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "اسلامیات اختیاری",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 712,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 72,
+                "ChapterName": "باب پنجم ۔ عربی زبان کی گرامر",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 72,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "اسلامیات اختیاری",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341215011501370.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1542,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 72,
+            "ChapterID": 712,
+            "TopicRef": ".",
+            "TopicName": "حروف",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

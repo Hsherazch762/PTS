@@ -1,0 +1,5528 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1189,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterName": "نثر نمبر 1: معراج شریف",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1190,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterName": "نثر نمبر 2: پنجابی زبان دی کہانی",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1191,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterName": "نثر نمبر 3: حضرت بہاؤ الدین زکریا ملتانی",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1213,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterName": "نثر نمبر 4: پاکستان بن گیا اے",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1214,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterName": "نثر نمبر 5: ٹاہلی تھلے",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1215,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterName": "نثر نمبر 6: شاہ عبدالطیف بھٹائی",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1216,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterName": "نثر نمبر 7: کھوپڑیاں تے آہلنے",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1217,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterName": "نثر نمبر 8: لندن دے ٹیوب ٹیشن",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1218,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterName": "نثر نمبر 9: رائے احمد خان کھرل شہید",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1219,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterName": "نثر نمبر 10: کپاہ وچ",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1220,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterName": "نثر نمبر 11: لوک گیت",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1221,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterName": "نثر  نمبر 12: ان ڈٹھے روگ",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1222,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterName": "نظم نمبر 1: حمد",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1223,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterName": "نظم نمبر 2: نعت",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1224,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterName": "نظم نمبر 3: شلوک",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1225,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterName": "نظم نمبر 4: کافی",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1226,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterName": "نظم نمبر 5: ابیات",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1227,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterName": "نظم نمبر 6: دوہڑے",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1228,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterName": "نظم نمبر 7: سی حرفی",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1229,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterName": "نظم نمبر 8: کافی (بابا بلھے شاہ)",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1230,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterName": "نظم نمبر 9: منت وزاری کردن برادران",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1231,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterName": "نظم نمبر 10: دوہڑے (ہاشم شاہ",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1232,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterName": "نظم نمبر 11: کافی (خواجہ غلام فرید",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1233,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterName": "نظم نمبر 12: حضرت یوسفؑ",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1234,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterName": "نظم نمبر 13: کلام عشق لہر",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1235,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterName": "نظم نمبر 14: سی حرفی (احمد علی سائیں",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1236,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterName": "نظم نمبر 15: (غزل) پیر فضل گجراتی",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1237,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterName": "نظم نمبر 16: غازی تے شہید",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1238,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterName": "نظم نمبر 17: اپنی سہان",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1239,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterName": "نظم نمبر 18: توقیر حسین",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1240,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterName": "نظم نمبر 19: اوڑک ہوندی لو",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1241,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterName": "نظم نمبر 20: (غزل) عارف عبدالمتین",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1242,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterName": "نظم نمبر 21: نواں نواں بور",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1243,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterName": "نظم نمبر 22: ہک بوٹا",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1244,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterName": "نظم نمبر 23: تن نظماں",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1245,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterName": "نظم نمبر 24: جمعہ بازار",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1246,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterName": "مضامین",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 110,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "پنجابی",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1189,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 110,
+                "ChapterName": "نثر نمبر 1: معراج شریف",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2383,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterID": 1189,
+            "TopicRef": ".",
+            "TopicName": "معراج شریف",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 110,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "پنجابی",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1190,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 110,
+                "ChapterName": "نثر نمبر 2: پنجابی زبان دی کہانی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2384,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterID": 1190,
+            "TopicRef": ".",
+            "TopicName": "پنجابی زبان دی کہانی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 110,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "پنجابی",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1191,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 110,
+                "ChapterName": "نثر نمبر 3: حضرت بہاؤ الدین زکریا ملتانی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2385,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterID": 1191,
+            "TopicRef": ".",
+            "TopicName": "حضرت بہاؤالدین زکریا ملتانی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 110,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "پنجابی",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1213,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 110,
+                "ChapterName": "نثر نمبر 4: پاکستان بن گیا اے",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2386,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterID": 1213,
+            "TopicRef": ".",
+            "TopicName": "پاکستان بن گیا اے",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 110,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "پنجابی",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1214,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 110,
+                "ChapterName": "نثر نمبر 5: ٹاہلی تھلے",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2387,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterID": 1214,
+            "TopicRef": ".",
+            "TopicName": "ٹاہلی تھلے",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 110,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "پنجابی",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1215,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 110,
+                "ChapterName": "نثر نمبر 6: شاہ عبدالطیف بھٹائی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2388,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterID": 1215,
+            "TopicRef": ".",
+            "TopicName": "شاہ عبدالطیف بھٹائی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 110,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "پنجابی",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1216,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 110,
+                "ChapterName": "نثر نمبر 7: کھوپڑیاں تے آہلنے",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2389,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterID": 1216,
+            "TopicRef": ".",
+            "TopicName": "کھوپڑیاں تے آہلنے",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 110,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "پنجابی",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1217,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 110,
+                "ChapterName": "نثر نمبر 8: لندن دے ٹیوب ٹیشن",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2390,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterID": 1217,
+            "TopicRef": ".",
+            "TopicName": "لندن دے ٹیوب سٹیشن",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 110,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "پنجابی",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1218,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 110,
+                "ChapterName": "نثر نمبر 9: رائے احمد خان کھرل شہید",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2391,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterID": 1218,
+            "TopicRef": ".",
+            "TopicName": "رائے احمد خاں کھرل شہید",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 110,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "پنجابی",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1219,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 110,
+                "ChapterName": "نثر نمبر 10: کپاہ وچ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2392,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterID": 1219,
+            "TopicRef": ".",
+            "TopicName": "کپاہ وچ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 110,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "پنجابی",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1220,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 110,
+                "ChapterName": "نثر نمبر 11: لوک گیت",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2393,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterID": 1220,
+            "TopicRef": ".",
+            "TopicName": "لوک کیت",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 110,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "پنجابی",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1221,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 110,
+                "ChapterName": "نثر  نمبر 12: ان ڈٹھے روگ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2394,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterID": 1221,
+            "TopicRef": ".",
+            "TopicName": "ان ڈٹھے روگ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 110,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "پنجابی",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1222,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 110,
+                "ChapterName": "نظم نمبر 1: حمد",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2395,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterID": 1222,
+            "TopicRef": ".",
+            "TopicName": "حمد",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 110,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "پنجابی",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1223,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 110,
+                "ChapterName": "نظم نمبر 2: نعت",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2396,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterID": 1223,
+            "TopicRef": ".",
+            "TopicName": "نعت",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 110,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "پنجابی",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1224,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 110,
+                "ChapterName": "نظم نمبر 3: شلوک",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2397,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterID": 1224,
+            "TopicRef": ".",
+            "TopicName": "شلوک",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 110,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "پنجابی",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1225,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 110,
+                "ChapterName": "نظم نمبر 4: کافی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2398,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterID": 1225,
+            "TopicRef": ".",
+            "TopicName": "کافی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 110,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "پنجابی",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1226,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 110,
+                "ChapterName": "نظم نمبر 5: ابیات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2399,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterID": 1226,
+            "TopicRef": ".",
+            "TopicName": "ابیات",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 110,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "پنجابی",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1227,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 110,
+                "ChapterName": "نظم نمبر 6: دوہڑے",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2400,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterID": 1227,
+            "TopicRef": ".",
+            "TopicName": "دوہڑے",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 110,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "پنجابی",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1228,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 110,
+                "ChapterName": "نظم نمبر 7: سی حرفی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2401,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterID": 1228,
+            "TopicRef": ".",
+            "TopicName": "سی حرفی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 110,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "پنجابی",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1229,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 110,
+                "ChapterName": "نظم نمبر 8: کافی (بابا بلھے شاہ)",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2402,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterID": 1229,
+            "TopicRef": ".",
+            "TopicName": "کافی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 110,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "پنجابی",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1230,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 110,
+                "ChapterName": "نظم نمبر 9: منت وزاری کردن برادران",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2403,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterID": 1230,
+            "TopicRef": ".",
+            "TopicName": "منت وزاری کردن برادران",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 110,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "پنجابی",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1231,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 110,
+                "ChapterName": "نظم نمبر 10: دوہڑے (ہاشم شاہ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2404,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterID": 1231,
+            "TopicRef": ".",
+            "TopicName": "دوہڑے",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 110,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "پنجابی",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1232,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 110,
+                "ChapterName": "نظم نمبر 11: کافی (خواجہ غلام فرید",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2405,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterID": 1232,
+            "TopicRef": ".",
+            "TopicName": "کافی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 110,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "پنجابی",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1233,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 110,
+                "ChapterName": "نظم نمبر 12: حضرت یوسفؑ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2406,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterID": 1233,
+            "TopicRef": ".",
+            "TopicName": "حضرت یوسفؑ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 110,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "پنجابی",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1234,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 110,
+                "ChapterName": "نظم نمبر 13: کلام عشق لہر",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2407,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterID": 1234,
+            "TopicRef": ".",
+            "TopicName": "کلام عشق لہر",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 110,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "پنجابی",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1235,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 110,
+                "ChapterName": "نظم نمبر 14: سی حرفی (احمد علی سائیں",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2408,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterID": 1235,
+            "TopicRef": ".",
+            "TopicName": "سی حرفی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 110,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "پنجابی",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1236,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 110,
+                "ChapterName": "نظم نمبر 15: (غزل) پیر فضل گجراتی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2409,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterID": 1236,
+            "TopicRef": ".",
+            "TopicName": "پیر فضل گجراتی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 110,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "پنجابی",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1237,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 110,
+                "ChapterName": "نظم نمبر 16: غازی تے شہید",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2410,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterID": 1237,
+            "TopicRef": ".",
+            "TopicName": "غازی تے شہید",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 110,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "پنجابی",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1238,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 110,
+                "ChapterName": "نظم نمبر 17: اپنی سہان",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2411,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterID": 1238,
+            "TopicRef": ".",
+            "TopicName": "اپنی سہان",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 110,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "پنجابی",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1239,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 110,
+                "ChapterName": "نظم نمبر 18: توقیر حسین",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2412,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterID": 1239,
+            "TopicRef": ".",
+            "TopicName": "توقیر حسین",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 110,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "پنجابی",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1240,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 110,
+                "ChapterName": "نظم نمبر 19: اوڑک ہوندی لو",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2413,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterID": 1240,
+            "TopicRef": ".",
+            "TopicName": "اوڑک ہوندی لو",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 110,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "پنجابی",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1241,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 110,
+                "ChapterName": "نظم نمبر 20: (غزل) عارف عبدالمتین",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2414,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterID": 1241,
+            "TopicRef": ".",
+            "TopicName": "عارف عبدالمتین",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 110,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "پنجابی",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1242,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 110,
+                "ChapterName": "نظم نمبر 21: نواں نواں بور",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2415,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterID": 1242,
+            "TopicRef": ".",
+            "TopicName": "نواں نواں بور",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 110,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "پنجابی",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1243,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 110,
+                "ChapterName": "نظم نمبر 22: ہک بوٹا",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2416,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterID": 1243,
+            "TopicRef": ".",
+            "TopicName": "ہک بوٹا",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 110,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "پنجابی",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1244,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 110,
+                "ChapterName": "نظم نمبر 23: تن نظماں",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2417,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterID": 1244,
+            "TopicRef": ".",
+            "TopicName": "تن نظماں",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 110,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "پنجابی",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1245,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 110,
+                "ChapterName": "نظم نمبر 24: جمعہ بازار",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2418,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterID": 1245,
+            "TopicRef": ".",
+            "TopicName": "جمعہ بازار",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 110,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "پنجابی",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1246,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 110,
+                "ChapterName": "مضامین",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 110,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "پنجابی",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223166600098.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2419,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 110,
+            "ChapterID": 1246,
+            "TopicRef": ".",
+            "TopicName": "مضامین",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

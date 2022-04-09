@@ -1,0 +1,2111 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 260,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "نفسیات",
+                "Category": "PTB",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "ChapterID": 2769,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 260,
+            "ChapterName": "حصہ اوّل: نموئی نفسیات",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 260,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "نفسیات",
+                "Category": "PTB",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "ChapterID": 2770,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 260,
+            "ChapterName": "حصہ دوم: صحت کی نفسیات",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 260,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "نفسیات",
+                "Category": "PTB",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "ChapterID": 2771,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 260,
+            "ChapterName": "حصہ سوم: سماجی نفسیات",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 260,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "نفسیات",
+                "Category": "PTB",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "ChapterID": 2772,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 260,
+            "ChapterName": "حصہ چہارم: رہنمائی اور مشاورت",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 260,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "نفسیات",
+                    "Category": "PTB",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 2769,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 260,
+                "ChapterName": "حصہ اوّل: نموئی نفسیات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 260,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "نفسیات",
+                "Category": "PTB",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 5240,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 260,
+            "ChapterID": 2769,
+            "TopicRef": "1.1",
+            "TopicName": "نشوونما کی نفسیات",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 260,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "نفسیات",
+                    "Category": "PTB",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 2769,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 260,
+                "ChapterName": "حصہ اوّل: نموئی نفسیات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 260,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "نفسیات",
+                "Category": "PTB",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 5241,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 260,
+            "ChapterID": 2769,
+            "TopicRef": "1.2",
+            "TopicName": "نشوونما کے نظریات",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 260,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "نفسیات",
+                    "Category": "PTB",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 2770,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 260,
+                "ChapterName": "حصہ دوم: صحت کی نفسیات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 260,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "نفسیات",
+                "Category": "PTB",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 5242,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 260,
+            "ChapterID": 2770,
+            "TopicRef": "2.1",
+            "TopicName": "صحت کی نفسیات",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 260,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "نفسیات",
+                    "Category": "PTB",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 2770,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 260,
+                "ChapterName": "حصہ دوم: صحت کی نفسیات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 260,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "نفسیات",
+                "Category": "PTB",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 5243,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 260,
+            "ChapterID": 2770,
+            "TopicRef": "2.2",
+            "TopicName": "فشار",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 260,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "نفسیات",
+                    "Category": "PTB",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 2770,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 260,
+                "ChapterName": "حصہ دوم: صحت کی نفسیات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 260,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "نفسیات",
+                "Category": "PTB",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 5244,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 260,
+            "ChapterID": 2770,
+            "TopicRef": "2.3",
+            "TopicName": "تشویشی امراض",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 260,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "نفسیات",
+                    "Category": "PTB",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 2770,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 260,
+                "ChapterName": "حصہ دوم: صحت کی نفسیات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 260,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "نفسیات",
+                "Category": "PTB",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 5245,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 260,
+            "ChapterID": 2770,
+            "TopicRef": "2.4",
+            "TopicName": "شیزوفرینیا",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 260,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "نفسیات",
+                    "Category": "PTB",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 2770,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 260,
+                "ChapterName": "حصہ دوم: صحت کی نفسیات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 260,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "نفسیات",
+                "Category": "PTB",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 5246,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 260,
+            "ChapterID": 2770,
+            "TopicRef": "2.5",
+            "TopicName": "طعامی امراض",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 260,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "نفسیات",
+                    "Category": "PTB",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 2770,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 260,
+                "ChapterName": "حصہ دوم: صحت کی نفسیات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 260,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "نفسیات",
+                "Category": "PTB",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 5247,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 260,
+            "ChapterID": 2770,
+            "TopicRef": "2.6",
+            "TopicName": "غذائی عادات بہتر بنانا",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 260,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "نفسیات",
+                    "Category": "PTB",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 2771,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 260,
+                "ChapterName": "حصہ سوم: سماجی نفسیات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 260,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "نفسیات",
+                "Category": "PTB",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 5248,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 260,
+            "ChapterID": 2771,
+            "TopicRef": "3.1",
+            "TopicName": "سماجی نفسیات",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 260,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "نفسیات",
+                    "Category": "PTB",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 2771,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 260,
+                "ChapterName": "حصہ سوم: سماجی نفسیات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 260,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "نفسیات",
+                "Category": "PTB",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 5249,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 260,
+            "ChapterID": 2771,
+            "TopicRef": "3.2",
+            "TopicName": "سماج دشمن کردار",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 260,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "نفسیات",
+                    "Category": "PTB",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 2771,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 260,
+                "ChapterName": "حصہ سوم: سماجی نفسیات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 260,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "نفسیات",
+                "Category": "PTB",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 5250,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 260,
+            "ChapterID": 2771,
+            "TopicRef": "3.3",
+            "TopicName": "تعصب",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 260,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "نفسیات",
+                    "Category": "PTB",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 2771,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 260,
+                "ChapterName": "حصہ سوم: سماجی نفسیات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 260,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "نفسیات",
+                "Category": "PTB",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 5251,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 260,
+            "ChapterID": 2771,
+            "TopicRef": "3.4",
+            "TopicName": "منشیات اور تمباکو نوشی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 260,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "نفسیات",
+                    "Category": "PTB",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 2771,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 260,
+                "ChapterName": "حصہ سوم: سماجی نفسیات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 260,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "نفسیات",
+                "Category": "PTB",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 5252,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 260,
+            "ChapterID": 2771,
+            "TopicRef": "3.5",
+            "TopicName": "تشدد",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 260,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "نفسیات",
+                    "Category": "PTB",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 2771,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 260,
+                "ChapterName": "حصہ سوم: سماجی نفسیات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 260,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "نفسیات",
+                "Category": "PTB",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 5253,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 260,
+            "ChapterID": 2771,
+            "TopicRef": "3.6",
+            "TopicName": "صںفی امتیاز و جنسی ہراسانی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 260,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "نفسیات",
+                    "Category": "PTB",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 2771,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 260,
+                "ChapterName": "حصہ سوم: سماجی نفسیات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 260,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "نفسیات",
+                "Category": "PTB",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 5254,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 260,
+            "ChapterID": 2771,
+            "TopicRef": "3.7",
+            "TopicName": "رویہ اور رائے عامہ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 260,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "نفسیات",
+                    "Category": "PTB",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 2771,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 260,
+                "ChapterName": "حصہ سوم: سماجی نفسیات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 260,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "نفسیات",
+                "Category": "PTB",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 5255,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 260,
+            "ChapterID": 2771,
+            "TopicRef": "3.8",
+            "TopicName": "رائے عامہ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 260,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "نفسیات",
+                    "Category": "PTB",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 2771,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 260,
+                "ChapterName": "حصہ سوم: سماجی نفسیات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 260,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "نفسیات",
+                "Category": "PTB",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 5256,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 260,
+            "ChapterID": 2771,
+            "TopicRef": "3.9",
+            "TopicName": "قیادت",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 260,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "نفسیات",
+                    "Category": "PTB",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 2772,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 260,
+                "ChapterName": "حصہ چہارم: رہنمائی اور مشاورت",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 260,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "نفسیات",
+                "Category": "PTB",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 5257,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 260,
+            "ChapterID": 2772,
+            "TopicRef": "4.1",
+            "TopicName": "رہنمائی اور مشاورت",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 12,
+                        "CourseID": 1,
+                        "ClassName": "INTER-II",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 260,
+                    "CourseID": 1,
+                    "ClassID": 12,
+                    "SubjectName": "نفسیات",
+                    "Category": "PTB",
+                    "ImageUrl": null,
+                    "IsActive": true
+                },
+                "ChapterID": 2772,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectID": 260,
+                "ChapterName": "حصہ چہارم: رہنمائی اور مشاورت",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 12,
+                "CourseID": 1,
+                "ClassName": "INTER-II",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 12,
+                    "CourseID": 1,
+                    "ClassName": "INTER-II",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 260,
+                "CourseID": 1,
+                "ClassID": 12,
+                "SubjectName": "نفسیات",
+                "Category": "PTB",
+                "ImageUrl": null,
+                "IsActive": true
+            },
+            "TopicID": 5258,
+            "CourseID": 1,
+            "ClassID": 12,
+            "SubjectID": 260,
+            "ChapterID": 2772,
+            "TopicRef": "4.2",
+            "TopicName": "مشاورت کے طریقے",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

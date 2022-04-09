@@ -1,0 +1,2399 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 86,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "English",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                "IsActive": true
+            },
+            "ChapterID": 2663,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 86,
+            "ChapterName": "CHAP 1: A Tiny Creature",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 86,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "English",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                "IsActive": true
+            },
+            "ChapterID": 2664,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 86,
+            "ChapterName": "CHAP 2: My Home and City",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 86,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "English",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                "IsActive": true
+            },
+            "ChapterID": 2665,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 86,
+            "ChapterName": "CHAP 3: Let's Plant Trees",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 86,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "English",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                "IsActive": true
+            },
+            "ChapterID": 2666,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 86,
+            "ChapterName": "Review 1",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 86,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "English",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                "IsActive": true
+            },
+            "ChapterID": 2667,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 86,
+            "ChapterName": "CHAP 4: Bee on My Nose",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 86,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "English",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                "IsActive": true
+            },
+            "ChapterID": 2668,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 86,
+            "ChapterName": "CHAP 5: Attention!",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 86,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "English",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                "IsActive": true
+            },
+            "ChapterID": 2669,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 86,
+            "ChapterName": "CHAP 6: Be Honest",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 86,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "English",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                "IsActive": true
+            },
+            "ChapterID": 2670,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 86,
+            "ChapterName": "Review 2",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 86,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "English",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                "IsActive": true
+            },
+            "ChapterID": 2671,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 86,
+            "ChapterName": "CHAP 7: Sports Day",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 86,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "English",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                "IsActive": true
+            },
+            "ChapterID": 2672,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 86,
+            "ChapterName": "CHAP 8: My School",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 86,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "English",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                "IsActive": true
+            },
+            "ChapterID": 2673,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 86,
+            "ChapterName": "CHAP 9: What a Good Deed",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 86,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "English",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                "IsActive": true
+            },
+            "ChapterID": 2674,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 86,
+            "ChapterName": "Review 3",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 86,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "English",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                "IsActive": true
+            },
+            "ChapterID": 2675,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 86,
+            "ChapterName": "CHAP 10: An Ant and a Dove",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 86,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "English",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                "IsActive": true
+            },
+            "ChapterID": 2676,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 86,
+            "ChapterName": "CHAP 11: Love for Parents",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 86,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "English",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                "IsActive": true
+            },
+            "ChapterID": 2677,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 86,
+            "ChapterName": "CHAP 12: Seasons",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 86,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "English",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                "IsActive": true
+            },
+            "ChapterID": 2678,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 86,
+            "ChapterName": "Review 4",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 86,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "English",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2663,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 86,
+                "ChapterName": "CHAP 1: A Tiny Creature",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 86,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "English",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                "IsActive": true
+            },
+            "TopicID": 5082,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 86,
+            "ChapterID": 2663,
+            "TopicRef": "1.1",
+            "TopicName": "A Tiny Creature",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 86,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "English",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2664,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 86,
+                "ChapterName": "CHAP 2: My Home and City",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 86,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "English",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                "IsActive": true
+            },
+            "TopicID": 5083,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 86,
+            "ChapterID": 2664,
+            "TopicRef": "2.1",
+            "TopicName": "My Home and City",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 86,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "English",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2665,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 86,
+                "ChapterName": "CHAP 3: Let's Plant Trees",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 86,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "English",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                "IsActive": true
+            },
+            "TopicID": 5084,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 86,
+            "ChapterID": 2665,
+            "TopicRef": "3.1",
+            "TopicName": "Let's Plant Trees",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 86,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "English",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2666,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 86,
+                "ChapterName": "Review 1",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 86,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "English",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                "IsActive": true
+            },
+            "TopicID": 5085,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 86,
+            "ChapterID": 2666,
+            "TopicRef": "1",
+            "TopicName": "Review 1",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 86,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "English",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2667,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 86,
+                "ChapterName": "CHAP 4: Bee on My Nose",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 86,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "English",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                "IsActive": true
+            },
+            "TopicID": 5086,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 86,
+            "ChapterID": 2667,
+            "TopicRef": "4.1",
+            "TopicName": "Bee on My Nose",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 86,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "English",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2668,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 86,
+                "ChapterName": "CHAP 5: Attention!",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 86,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "English",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                "IsActive": true
+            },
+            "TopicID": 5087,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 86,
+            "ChapterID": 2668,
+            "TopicRef": "5.1",
+            "TopicName": "Attention!",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 86,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "English",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2669,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 86,
+                "ChapterName": "CHAP 6: Be Honest",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 86,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "English",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                "IsActive": true
+            },
+            "TopicID": 5088,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 86,
+            "ChapterID": 2669,
+            "TopicRef": "6.1",
+            "TopicName": "Be Honest",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 86,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "English",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2670,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 86,
+                "ChapterName": "Review 2",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 86,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "English",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                "IsActive": true
+            },
+            "TopicID": 5089,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 86,
+            "ChapterID": 2670,
+            "TopicRef": "2",
+            "TopicName": "Review 2",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 86,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "English",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2671,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 86,
+                "ChapterName": "CHAP 7: Sports Day",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 86,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "English",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                "IsActive": true
+            },
+            "TopicID": 5090,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 86,
+            "ChapterID": 2671,
+            "TopicRef": "7.1",
+            "TopicName": "Sports Day",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 86,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "English",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2672,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 86,
+                "ChapterName": "CHAP 8: My School",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 86,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "English",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                "IsActive": true
+            },
+            "TopicID": 5091,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 86,
+            "ChapterID": 2672,
+            "TopicRef": "8.1",
+            "TopicName": "My School",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 86,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "English",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2673,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 86,
+                "ChapterName": "CHAP 9: What a Good Deed",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 86,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "English",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                "IsActive": true
+            },
+            "TopicID": 5092,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 86,
+            "ChapterID": 2673,
+            "TopicRef": "9.1",
+            "TopicName": "What a Good Deed",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 86,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "English",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2674,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 86,
+                "ChapterName": "Review 3",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 86,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "English",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                "IsActive": true
+            },
+            "TopicID": 5093,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 86,
+            "ChapterID": 2674,
+            "TopicRef": "3",
+            "TopicName": "Review 3",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 86,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "English",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2675,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 86,
+                "ChapterName": "CHAP 10: An Ant and a Dove",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 86,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "English",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                "IsActive": true
+            },
+            "TopicID": 5094,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 86,
+            "ChapterID": 2675,
+            "TopicRef": "10.1",
+            "TopicName": "An Ant and a Dove",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 86,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "English",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2676,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 86,
+                "ChapterName": "CHAP 11: Love for Parents",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 86,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "English",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                "IsActive": true
+            },
+            "TopicID": 5095,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 86,
+            "ChapterID": 2676,
+            "TopicRef": "11.1",
+            "TopicName": "Love for Parents",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 86,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "English",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2677,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 86,
+                "ChapterName": "CHAP 12: Seasons",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 86,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "English",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                "IsActive": true
+            },
+            "TopicID": 5096,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 86,
+            "ChapterID": 2677,
+            "TopicRef": "12.1",
+            "TopicName": "Seasons",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 86,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "English",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2678,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 86,
+                "ChapterName": "Review 4",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 86,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "English",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140263288454.png",
+                "IsActive": true
+            },
+            "TopicID": 5097,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 86,
+            "ChapterID": 2678,
+            "TopicRef": "4",
+            "TopicName": "Review 4",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

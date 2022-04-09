@@ -1,0 +1,1260 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 60,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Computer",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213170496445.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 2734,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 60,
+            "ChapterName": "CHAP 1: Introduction to Programming",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 60,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Computer",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213170496445.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 2735,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 60,
+            "ChapterName": "CHAP 2: User Interface",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 60,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Computer",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213170496445.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 2736,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 60,
+            "ChapterName": "CHAP 3: Conditional Logic",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 60,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Computer",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213170496445.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 2737,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 60,
+            "ChapterName": "CHAP 4: Data and Repetition",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 60,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Computer",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213170496445.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 2738,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 60,
+            "ChapterName": "CHAP 5: Functions",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 60,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Computer",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213170496445.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 2734,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 60,
+                "ChapterName": "CHAP 1: Introduction to Programming",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 60,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Computer",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213170496445.jpg",
+                "IsActive": true
+            },
+            "TopicID": 5158,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 60,
+            "ChapterID": 2734,
+            "TopicRef": "1.1",
+            "TopicName": "Programming Environment",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 60,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Computer",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213170496445.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 2734,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 60,
+                "ChapterName": "CHAP 1: Introduction to Programming",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 60,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Computer",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213170496445.jpg",
+                "IsActive": true
+            },
+            "TopicID": 5159,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 60,
+            "ChapterID": 2734,
+            "TopicRef": "1.2",
+            "TopicName": "Programming Basics",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 60,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Computer",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213170496445.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 2734,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 60,
+                "ChapterName": "CHAP 1: Introduction to Programming",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 60,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Computer",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213170496445.jpg",
+                "IsActive": true
+            },
+            "TopicID": 5160,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 60,
+            "ChapterID": 2734,
+            "TopicRef": "1.3",
+            "TopicName": "Constant and Variables",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 60,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Computer",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213170496445.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 2735,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 60,
+                "ChapterName": "CHAP 2: User Interface",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 60,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Computer",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213170496445.jpg",
+                "IsActive": true
+            },
+            "TopicID": 5161,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 60,
+            "ChapterID": 2735,
+            "TopicRef": "2.1",
+            "TopicName": "Input/ Output (I/O) Functions",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 60,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Computer",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213170496445.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 2735,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 60,
+                "ChapterName": "CHAP 2: User Interface",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 60,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Computer",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213170496445.jpg",
+                "IsActive": true
+            },
+            "TopicID": 5162,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 60,
+            "ChapterID": 2735,
+            "TopicRef": "2.2",
+            "TopicName": "Operators",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 60,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Computer",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213170496445.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 2736,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 60,
+                "ChapterName": "CHAP 3: Conditional Logic",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 60,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Computer",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213170496445.jpg",
+                "IsActive": true
+            },
+            "TopicID": 5163,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 60,
+            "ChapterID": 2736,
+            "TopicRef": "3.1",
+            "TopicName": "Control Statements",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 60,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Computer",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213170496445.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 2736,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 60,
+                "ChapterName": "CHAP 3: Conditional Logic",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 60,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Computer",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213170496445.jpg",
+                "IsActive": true
+            },
+            "TopicID": 5164,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 60,
+            "ChapterID": 2736,
+            "TopicRef": "3.2",
+            "TopicName": "Selection Statements",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 60,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Computer",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213170496445.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 2737,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 60,
+                "ChapterName": "CHAP 4: Data and Repetition",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 60,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Computer",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213170496445.jpg",
+                "IsActive": true
+            },
+            "TopicID": 5165,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 60,
+            "ChapterID": 2737,
+            "TopicRef": "4.1",
+            "TopicName": "Data Structures",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 60,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Computer",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213170496445.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 2737,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 60,
+                "ChapterName": "CHAP 4: Data and Repetition",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 60,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Computer",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213170496445.jpg",
+                "IsActive": true
+            },
+            "TopicID": 5166,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 60,
+            "ChapterID": 2737,
+            "TopicRef": "4.2",
+            "TopicName": "Loop Structures",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 60,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Computer",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213170496445.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 2738,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 60,
+                "ChapterName": "CHAP 5: Functions",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 60,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Computer",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213170496445.jpg",
+                "IsActive": true
+            },
+            "TopicID": 5167,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 60,
+            "ChapterID": 2738,
+            "TopicRef": "5.1",
+            "TopicName": "Functions",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

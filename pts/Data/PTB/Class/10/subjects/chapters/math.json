@@ -1,0 +1,5452 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 750,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterName": "Unit 1: Quadratic Equations",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 751,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterName": "Unit 2: Theory of Quadratic Equations",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 752,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterName": "Unit 3: Variations",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 753,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterName": "Unit 4: Partial Fractions",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 754,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterName": "Unit 5: Sets and Functions",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 755,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterName": "Unit 6: Basic Statistics",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 756,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterName": "Unit 7: Introduction to Trigonometry",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 757,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterName": "Unit 8: Projection of a Side of a Triangle",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 758,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterName": "Unit 9: Chords of a Circle",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 759,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterName": "Unit 10: Tangent to a Circle",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 760,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterName": "Unit 11: Chords and Arcs",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 761,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterName": "Unit 12: Angle in a Segment of a Circle",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 762,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterName": "Unit 13: Practical Geometry-Circles",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 750,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 1: Quadratic Equations",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1622,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 750,
+            "TopicRef": "1.1",
+            "TopicName": "EX: 1.1",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 750,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 1: Quadratic Equations",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1623,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 750,
+            "TopicRef": "1.2",
+            "TopicName": "EX: 1.2",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 750,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 1: Quadratic Equations",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1624,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 750,
+            "TopicRef": "1.3",
+            "TopicName": "EX: 1.3",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 750,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 1: Quadratic Equations",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1625,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 750,
+            "TopicRef": "1.4",
+            "TopicName": "EX: 1.4",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 751,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 2: Theory of Quadratic Equations",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1626,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 751,
+            "TopicRef": "2.1",
+            "TopicName": "EX: 2.1",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 751,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 2: Theory of Quadratic Equations",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1627,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 751,
+            "TopicRef": "2.2",
+            "TopicName": "EX: 2.2",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 751,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 2: Theory of Quadratic Equations",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1628,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 751,
+            "TopicRef": "2.3",
+            "TopicName": "EX: 2.3",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 751,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 2: Theory of Quadratic Equations",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1629,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 751,
+            "TopicRef": "2.4",
+            "TopicName": "EX: 2.4",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 751,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 2: Theory of Quadratic Equations",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1630,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 751,
+            "TopicRef": "2.5",
+            "TopicName": "EX: 2.5",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 751,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 2: Theory of Quadratic Equations",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1631,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 751,
+            "TopicRef": "2.6",
+            "TopicName": "EX: 2.6",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 751,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 2: Theory of Quadratic Equations",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1632,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 751,
+            "TopicRef": "2.7",
+            "TopicName": "EX: 2.7",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 751,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 2: Theory of Quadratic Equations",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1633,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 751,
+            "TopicRef": "2.8",
+            "TopicName": "EX: 2.8",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 752,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 3: Variations",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1634,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 752,
+            "TopicRef": "3.1",
+            "TopicName": "EX: 3.1",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 752,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 3: Variations",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1635,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 752,
+            "TopicRef": "3.2",
+            "TopicName": "EX: 3.2",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 752,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 3: Variations",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1636,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 752,
+            "TopicRef": "3.3",
+            "TopicName": "EX: 3.3",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 752,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 3: Variations",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1637,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 752,
+            "TopicRef": "3.4",
+            "TopicName": "EX: 3.4",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 752,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 3: Variations",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1638,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 752,
+            "TopicRef": "3.5",
+            "TopicName": "EX: 3.5",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 752,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 3: Variations",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1639,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 752,
+            "TopicRef": "3.6",
+            "TopicName": "EX: 3.6",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 752,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 3: Variations",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1640,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 752,
+            "TopicRef": "3.7",
+            "TopicName": "EX: 3.7",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 753,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 4: Partial Fractions",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1641,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 753,
+            "TopicRef": "4.1",
+            "TopicName": "EX: 4.1",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 753,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 4: Partial Fractions",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1642,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 753,
+            "TopicRef": "4.2",
+            "TopicName": "EX: 4.2",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 753,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 4: Partial Fractions",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1643,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 753,
+            "TopicRef": "4.3",
+            "TopicName": "EX: 4.3",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 753,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 4: Partial Fractions",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1644,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 753,
+            "TopicRef": "4.4",
+            "TopicName": "EX: 4.4",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 754,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 5: Sets and Functions",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1645,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 754,
+            "TopicRef": "5.1",
+            "TopicName": "EX: 5.1",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 754,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 5: Sets and Functions",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1646,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 754,
+            "TopicRef": "5.2",
+            "TopicName": "EX: 5.2",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 754,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 5: Sets and Functions",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1647,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 754,
+            "TopicRef": "5.3",
+            "TopicName": "EX: 5.3",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 754,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 5: Sets and Functions",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1648,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 754,
+            "TopicRef": "5.4",
+            "TopicName": "EX: 5.4",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 754,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 5: Sets and Functions",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1649,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 754,
+            "TopicRef": "5.5",
+            "TopicName": "EX: 5.5",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 755,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 6: Basic Statistics",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1650,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 755,
+            "TopicRef": "6.1",
+            "TopicName": "EX: 6.1",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 755,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 6: Basic Statistics",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1651,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 755,
+            "TopicRef": "6.2",
+            "TopicName": "EX: 6.2",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 755,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 6: Basic Statistics",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1652,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 755,
+            "TopicRef": "6.3",
+            "TopicName": "EX: 6.3",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 756,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 7: Introduction to Trigonometry",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1653,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 756,
+            "TopicRef": "7.1",
+            "TopicName": "EX: 7.1",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 756,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 7: Introduction to Trigonometry",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1654,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 756,
+            "TopicRef": "7.2",
+            "TopicName": "EX: 7.2",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 756,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 7: Introduction to Trigonometry",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1655,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 756,
+            "TopicRef": "7.3",
+            "TopicName": "EX: 7.3",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 756,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 7: Introduction to Trigonometry",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1656,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 756,
+            "TopicRef": "7.4",
+            "TopicName": "EX: 7.4",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 756,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 7: Introduction to Trigonometry",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1657,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 756,
+            "TopicRef": "7.5",
+            "TopicName": "EX: 7.5",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 757,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 8: Projection of a Side of a Triangle",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1658,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 757,
+            "TopicRef": "8.1",
+            "TopicName": "EX: 8.1",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 757,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 8: Projection of a Side of a Triangle",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1659,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 757,
+            "TopicRef": "8.2",
+            "TopicName": "EX: 8.2",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 758,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 9: Chords of a Circle",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1660,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 758,
+            "TopicRef": "9.1",
+            "TopicName": "EX: 9.1",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 758,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 9: Chords of a Circle",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1661,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 758,
+            "TopicRef": "9.2",
+            "TopicName": "EX: 9.2",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 759,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 10: Tangent to a Circle",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1662,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 759,
+            "TopicRef": "10.1",
+            "TopicName": "EX: 10.1",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 759,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 10: Tangent to a Circle",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1663,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 759,
+            "TopicRef": "10.2",
+            "TopicName": "EX: 10.2",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 759,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 10: Tangent to a Circle",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1664,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 759,
+            "TopicRef": "10.3",
+            "TopicName": "EX: 10.3",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 760,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 11: Chords and Arcs",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1665,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 760,
+            "TopicRef": "11.1",
+            "TopicName": "EX: 11.1",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 761,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 12: Angle in a Segment of a Circle",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1666,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 761,
+            "TopicRef": "12.1",
+            "TopicName": "EX: 12.1",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 762,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 13: Practical Geometry-Circles",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1667,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 762,
+            "TopicRef": "13.1",
+            "TopicName": "EX: 13.1",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 762,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 13: Practical Geometry-Circles",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1668,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 762,
+            "TopicRef": "13.2",
+            "TopicName": "EX: 13.2",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 10,
+                        "CourseID": 1,
+                        "ClassName": "10TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 63,
+                    "CourseID": 1,
+                    "ClassID": 10,
+                    "SubjectName": "Mathematics",
+                    "Category": "10TH",
+                    "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 762,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectID": 63,
+                "ChapterName": "Unit 13: Practical Geometry-Circles",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 10,
+                "CourseID": 1,
+                "ClassName": "10TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 10,
+                    "CourseID": 1,
+                    "ClassName": "10TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 63,
+                "CourseID": 1,
+                "ClassID": 10,
+                "SubjectName": "Mathematics",
+                "Category": "10TH",
+                "ImageUrl": "/Images/Subjects/637341213551788704.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1669,
+            "CourseID": 1,
+            "ClassID": 10,
+            "SubjectID": 63,
+            "ChapterID": 762,
+            "TopicRef": "13.3",
+            "TopicName": "EX: 13.3",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

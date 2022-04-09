@@ -1,0 +1,1356 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 109,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوکس",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223032438584.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1180,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 109,
+            "ChapterName": "باب نمبر 1: علم شہریت کا تعارف",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 109,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوکس",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223032438584.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1181,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 109,
+            "ChapterName": "باب نمبر 2: علم شہریت کے بنیادی تصورات",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 109,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوکس",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223032438584.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1182,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 109,
+            "ChapterName": "باب نمبر 3: ریاست",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 109,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوکس",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223032438584.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1183,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 109,
+            "ChapterName": "باب نمبر 4: اقتداراعلیٰ",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 109,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوکس",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223032438584.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1184,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 109,
+            "ChapterName": "باب نمبر 5: حکومت",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 109,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوکس",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223032438584.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1185,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 109,
+            "ChapterName": "باب نمبر 6: قانون",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 109,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوکس",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223032438584.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1186,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 109,
+            "ChapterName": "باب نمبر 7: شہری اور شہریت",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 109,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوکس",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223032438584.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1187,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 109,
+            "ChapterName": "باب نمبر 8: دستور",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 109,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوکس",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223032438584.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1188,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 109,
+            "ChapterName": "باب نمبر 9: سیاسی حرکیات",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 109,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "سوکس",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223032438584.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1180,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 109,
+                "ChapterName": "باب نمبر 1: علم شہریت کا تعارف",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 109,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوکس",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223032438584.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2355,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 109,
+            "ChapterID": 1180,
+            "TopicRef": ".",
+            "TopicName": "علم شہریت کا تعارف",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 109,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "سوکس",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223032438584.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1181,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 109,
+                "ChapterName": "باب نمبر 2: علم شہریت کے بنیادی تصورات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 109,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوکس",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223032438584.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2356,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 109,
+            "ChapterID": 1181,
+            "TopicRef": ".",
+            "TopicName": "علم شہریت کے بنیادی تصورات",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 109,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "سوکس",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223032438584.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1182,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 109,
+                "ChapterName": "باب نمبر 3: ریاست",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 109,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوکس",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223032438584.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2357,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 109,
+            "ChapterID": 1182,
+            "TopicRef": ".",
+            "TopicName": "ریاست",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 109,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "سوکس",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223032438584.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1183,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 109,
+                "ChapterName": "باب نمبر 4: اقتداراعلیٰ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 109,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوکس",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223032438584.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2358,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 109,
+            "ChapterID": 1183,
+            "TopicRef": ".",
+            "TopicName": "اقتداراعلیٰ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 109,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "سوکس",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223032438584.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1184,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 109,
+                "ChapterName": "باب نمبر 5: حکومت",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 109,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوکس",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223032438584.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2359,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 109,
+            "ChapterID": 1184,
+            "TopicRef": ".",
+            "TopicName": "حکومت",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 109,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "سوکس",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223032438584.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1185,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 109,
+                "ChapterName": "باب نمبر 6: قانون",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 109,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوکس",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223032438584.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2360,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 109,
+            "ChapterID": 1185,
+            "TopicRef": ".",
+            "TopicName": "قانون",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 109,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "سوکس",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223032438584.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1186,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 109,
+                "ChapterName": "باب نمبر 7: شہری اور شہریت",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 109,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوکس",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223032438584.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2361,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 109,
+            "ChapterID": 1186,
+            "TopicRef": ".",
+            "TopicName": "شہری اور شہریت",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 109,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "سوکس",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223032438584.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1187,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 109,
+                "ChapterName": "باب نمبر 8: دستور",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 109,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوکس",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223032438584.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2362,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 109,
+            "ChapterID": 1187,
+            "TopicRef": ".",
+            "TopicName": "دستور",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 109,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "سوکس",
+                    "Category": "F.A",
+                    "ImageUrl": "/Images/Subjects/637341223032438584.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1188,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 109,
+                "ChapterName": "باب نمبر 9: سیاسی حرکیات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 109,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "سوکس",
+                "Category": "F.A",
+                "ImageUrl": "/Images/Subjects/637341223032438584.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2363,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 109,
+            "ChapterID": 1188,
+            "TopicRef": ".",
+            "TopicName": "سیاسی حرکیات",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

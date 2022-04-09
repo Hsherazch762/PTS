@@ -1,0 +1,909 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 105,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Business Maths",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222532691649.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1400,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 105,
+            "ChapterName": "CHAP 1: Business Arithmetic",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 105,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Business Maths",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222532691649.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1401,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 105,
+            "ChapterName": "CHAP 2: Mathematics of Finance",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 105,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Business Maths",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222532691649.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1402,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 105,
+            "ChapterName": "CHAP 3: Linear, Quadratic & Simultaneous Equations",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 105,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Business Maths",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222532691649.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1403,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 105,
+            "ChapterName": "CHAP 4: Functions & their Graphs",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 105,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Business Maths",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222532691649.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1404,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 105,
+            "ChapterName": "CHAP 5: Elements of Matrix Algebra",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 105,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Business Maths",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222532691649.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1405,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 105,
+            "ChapterName": "CHAP 6: Binary Number System and its Operations",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 105,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Business Maths",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341222532691649.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1400,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 105,
+                "ChapterName": "CHAP 1: Business Arithmetic",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 105,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Business Maths",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222532691649.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2586,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 105,
+            "ChapterID": 1400,
+            "TopicRef": ".",
+            "TopicName": "Business Arithmetic",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 105,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Business Maths",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341222532691649.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1401,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 105,
+                "ChapterName": "CHAP 2: Mathematics of Finance",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 105,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Business Maths",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222532691649.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2587,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 105,
+            "ChapterID": 1401,
+            "TopicRef": ".",
+            "TopicName": "Mathematics of Finance",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 105,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Business Maths",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341222532691649.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1402,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 105,
+                "ChapterName": "CHAP 3: Linear, Quadratic & Simultaneous Equations",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 105,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Business Maths",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222532691649.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2588,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 105,
+            "ChapterID": 1402,
+            "TopicRef": ".",
+            "TopicName": "Linear, Quadratic & Simultaneous Equations",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 105,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Business Maths",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341222532691649.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1403,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 105,
+                "ChapterName": "CHAP 4: Functions & their Graphs",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 105,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Business Maths",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222532691649.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2589,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 105,
+            "ChapterID": 1403,
+            "TopicRef": ".",
+            "TopicName": "Functions & their Graphs",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 105,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Business Maths",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341222532691649.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1404,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 105,
+                "ChapterName": "CHAP 5: Elements of Matrix Algebra",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 105,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Business Maths",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222532691649.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2590,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 105,
+            "ChapterID": 1404,
+            "TopicRef": ".",
+            "TopicName": "Elements of Matrix Algebra",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 11,
+                        "CourseID": 1,
+                        "ClassName": "INTER-I",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 105,
+                    "CourseID": 1,
+                    "ClassID": 11,
+                    "SubjectName": "Business Maths",
+                    "Category": "I.COM",
+                    "ImageUrl": "/Images/Subjects/637341222532691649.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1405,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectID": 105,
+                "ChapterName": "CHAP 6: Binary Number System and its Operations",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 11,
+                "CourseID": 1,
+                "ClassName": "INTER-I",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 11,
+                    "CourseID": 1,
+                    "ClassName": "INTER-I",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 105,
+                "CourseID": 1,
+                "ClassID": 11,
+                "SubjectName": "Business Maths",
+                "Category": "I.COM",
+                "ImageUrl": "/Images/Subjects/637341222532691649.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2591,
+            "CourseID": 1,
+            "ClassID": 11,
+            "SubjectID": 105,
+            "ChapterID": 1405,
+            "TopicRef": ".",
+            "TopicName": "Binary Number System and its Operations",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

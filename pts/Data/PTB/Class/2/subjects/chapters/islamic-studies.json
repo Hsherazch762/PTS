@@ -1,0 +1,1311 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 89,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "اسلامیات لازمی",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140714538895.png",
+                "IsActive": true
+            },
+            "ChapterID": 2533,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 89,
+            "ChapterName": "باب نمبر 2: ایمانیات و عبادات",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 89,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "اسلامیات لازمی",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140714538895.png",
+                "IsActive": true
+            },
+            "ChapterID": 2534,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 89,
+            "ChapterName": "باب نمبر 3: سیرتِ طیّبہﷺ",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 89,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "اسلامیات لازمی",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140714538895.png",
+                "IsActive": true
+            },
+            "ChapterID": 2535,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 89,
+            "ChapterName": "باب نمبر 4: اخلاق و آداب",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 89,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "اسلامیات لازمی",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140714538895.png",
+                "IsActive": true
+            },
+            "ChapterID": 2536,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 89,
+            "ChapterName": "باب نمبر 5: ہدایت کے سر چشمے اور مشاہیرِ اسلام",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 89,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "اسلامیات لازمی",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140714538895.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2533,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 89,
+                "ChapterName": "باب نمبر 2: ایمانیات و عبادات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 89,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "اسلامیات لازمی",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140714538895.png",
+                "IsActive": true
+            },
+            "TopicID": 5045,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 89,
+            "ChapterID": 2533,
+            "TopicRef": "2.1",
+            "TopicName": "ایمانیات: آسمانی کتابوں پر ایمان",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 89,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "اسلامیات لازمی",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140714538895.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2533,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 89,
+                "ChapterName": "باب نمبر 2: ایمانیات و عبادات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 89,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "اسلامیات لازمی",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140714538895.png",
+                "IsActive": true
+            },
+            "TopicID": 5046,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 89,
+            "ChapterID": 2533,
+            "TopicRef": "2.2",
+            "TopicName": "ایمانیات: فرشتوں پر ایمان",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 89,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "اسلامیات لازمی",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140714538895.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2533,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 89,
+                "ChapterName": "باب نمبر 2: ایمانیات و عبادات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 89,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "اسلامیات لازمی",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140714538895.png",
+                "IsActive": true
+            },
+            "TopicID": 5047,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 89,
+            "ChapterID": 2533,
+            "TopicRef": "2.3",
+            "TopicName": "ایمانیات: آخرت",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 89,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "اسلامیات لازمی",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140714538895.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2533,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 89,
+                "ChapterName": "باب نمبر 2: ایمانیات و عبادات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 89,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "اسلامیات لازمی",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140714538895.png",
+                "IsActive": true
+            },
+            "TopicID": 5048,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 89,
+            "ChapterID": 2533,
+            "TopicRef": "2.4",
+            "TopicName": "عبادات: روزہ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 89,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "اسلامیات لازمی",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140714538895.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2533,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 89,
+                "ChapterName": "باب نمبر 2: ایمانیات و عبادات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 89,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "اسلامیات لازمی",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140714538895.png",
+                "IsActive": true
+            },
+            "TopicID": 5049,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 89,
+            "ChapterID": 2533,
+            "TopicRef": "2.5",
+            "TopicName": "عبادات: عیدین و اسلامی تہوار",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 89,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "اسلامیات لازمی",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140714538895.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2534,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 89,
+                "ChapterName": "باب نمبر 3: سیرتِ طیّبہﷺ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 89,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "اسلامیات لازمی",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140714538895.png",
+                "IsActive": true
+            },
+            "TopicID": 5050,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 89,
+            "ChapterID": 2534,
+            "TopicRef": "3.1",
+            "TopicName": "نبی کریمﷺ کی محبت و اطاعت",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 89,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "اسلامیات لازمی",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140714538895.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2534,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 89,
+                "ChapterName": "باب نمبر 3: سیرتِ طیّبہﷺ",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 89,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "اسلامیات لازمی",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140714538895.png",
+                "IsActive": true
+            },
+            "TopicID": 5051,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 89,
+            "ChapterID": 2534,
+            "TopicRef": "3.2",
+            "TopicName": "حضرت محمد رسول اللہ خاتم النبیینﷺ کے اخلاق حسنہ",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 89,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "اسلامیات لازمی",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140714538895.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2535,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 89,
+                "ChapterName": "باب نمبر 4: اخلاق و آداب",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 89,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "اسلامیات لازمی",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140714538895.png",
+                "IsActive": true
+            },
+            "TopicID": 5052,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 89,
+            "ChapterID": 2535,
+            "TopicRef": "4.1",
+            "TopicName": "اسلامی آدابِ زندگی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 89,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "اسلامیات لازمی",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140714538895.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2535,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 89,
+                "ChapterName": "باب نمبر 4: اخلاق و آداب",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 89,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "اسلامیات لازمی",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140714538895.png",
+                "IsActive": true
+            },
+            "TopicID": 5053,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 89,
+            "ChapterID": 2535,
+            "TopicRef": "4.2",
+            "TopicName": "بڑوں کا ادب",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 89,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "اسلامیات لازمی",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140714538895.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2535,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 89,
+                "ChapterName": "باب نمبر 4: اخلاق و آداب",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 89,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "اسلامیات لازمی",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140714538895.png",
+                "IsActive": true
+            },
+            "TopicID": 5054,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 89,
+            "ChapterID": 2535,
+            "TopicRef": "4.3",
+            "TopicName": "جانوروں سے اچھا سلوک",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 2,
+                        "CourseID": 1,
+                        "ClassName": "TWO",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 89,
+                    "CourseID": 1,
+                    "ClassID": 2,
+                    "SubjectName": "اسلامیات لازمی",
+                    "Category": "SNC",
+                    "ImageUrl": "/Images/Subjects/637661140714538895.png",
+                    "IsActive": true
+                },
+                "ChapterID": 2536,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectID": 89,
+                "ChapterName": "باب نمبر 5: ہدایت کے سر چشمے اور مشاہیرِ اسلام",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 2,
+                "CourseID": 1,
+                "ClassName": "TWO",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 2,
+                    "CourseID": 1,
+                    "ClassName": "TWO",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 89,
+                "CourseID": 1,
+                "ClassID": 2,
+                "SubjectName": "اسلامیات لازمی",
+                "Category": "SNC",
+                "ImageUrl": "/Images/Subjects/637661140714538895.png",
+                "IsActive": true
+            },
+            "TopicID": 5055,
+            "CourseID": 1,
+            "ClassID": 2,
+            "SubjectID": 89,
+            "ChapterID": 2536,
+            "TopicRef": "5.1",
+            "TopicName": "انبیائے کرام علیھم السّلام",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}
