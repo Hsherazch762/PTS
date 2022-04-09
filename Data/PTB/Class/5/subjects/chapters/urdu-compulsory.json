@@ -1,0 +1,4491 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 30,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterName": "سبق نمبر 1: حمد",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 31,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterName": "سبق نمبر 2: نعت",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 32,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterName": "سبق نمبر 3: حجرِ اسود کی کہانی",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 33,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterName": "سبق نمبر 4: خدمتِ خلق۔ایک عبادت",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 34,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterName": "سبق نمبر 5: پاک وطن ہے پاکستان",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 35,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterName": "سبق نمبر 6: مادرِ ملت محترمہ فاطمہ جناح",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 36,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterName": "سبق نمبر 7: لاہور کی بادشاہی مسجد",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 37,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterName": "سبق نمبر 8: دیکھو ناچ رہا ہے مور",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 38,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterName": "سبق نمبر 9: میجر محمد طفیل شہید",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 39,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterName": "سبق نمبر 10: بھائی کے نام خط",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 40,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterName": "سبق نمبر 11: صبح سویرے",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 41,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterName": "سبق نمبر 12: میرا گھر میرا گاؤں",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 42,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterName": "سبق نمبر 13: کھیوڑہ کی سیر",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 43,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterName": "سبق نمبر 14: ہماری کائنات",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 44,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterName": "سبق نمبر 15: ماں کا خواب",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 45,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterName": "سبق نمبر 16: ہمارے پیشے",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 46,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterName": "سبق نمبر 17: میں سکاؤٹ بنوں گا",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 47,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterName": "سبق نمبر 18: ٹوٹ بٹوٹ نے کھیر پکائی",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 48,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterName": "سبق نمبر 19: ہمارا ماحول",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 49,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterName": "سبق نمبر 20: پاک چین دوستی",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 50,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterName": "سبق نمبر 21: ایک گائے اور بکری",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 51,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterName": "سبق نمبر 22: احمد کی سمجھ داری",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 52,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterName": "سبق نمبر 23: بہادر بچے",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1695,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterName": "اُردو (ب)",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 6,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 30,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 6,
+                "ChapterName": "سبق نمبر 1: حمد",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "TopicID": 93,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterID": 30,
+            "TopicRef": ".",
+            "TopicName": "حمد",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 6,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 31,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 6,
+                "ChapterName": "سبق نمبر 2: نعت",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "TopicID": 94,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterID": 31,
+            "TopicRef": ".",
+            "TopicName": "نعت",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 6,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 32,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 6,
+                "ChapterName": "سبق نمبر 3: حجرِ اسود کی کہانی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "TopicID": 95,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterID": 32,
+            "TopicRef": ".",
+            "TopicName": "حجرِ اسود کی کہانی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 6,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 33,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 6,
+                "ChapterName": "سبق نمبر 4: خدمتِ خلق۔ایک عبادت",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "TopicID": 96,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterID": 33,
+            "TopicRef": ".",
+            "TopicName": "خدمتِ خلق۔ایک عبادت",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 6,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 34,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 6,
+                "ChapterName": "سبق نمبر 5: پاک وطن ہے پاکستان",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "TopicID": 97,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterID": 34,
+            "TopicRef": ".",
+            "TopicName": "پاک وطن ہے پاکستان",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 6,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 35,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 6,
+                "ChapterName": "سبق نمبر 6: مادرِ ملت محترمہ فاطمہ جناح",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "TopicID": 98,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterID": 35,
+            "TopicRef": ".",
+            "TopicName": "مادرِ ملت محترمہ فاطمہ جناح",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 6,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 36,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 6,
+                "ChapterName": "سبق نمبر 7: لاہور کی بادشاہی مسجد",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "TopicID": 99,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterID": 36,
+            "TopicRef": ".",
+            "TopicName": "لاہور کی بادشاہی مسجد",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 6,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 37,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 6,
+                "ChapterName": "سبق نمبر 8: دیکھو ناچ رہا ہے مور",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "TopicID": 100,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterID": 37,
+            "TopicRef": ".",
+            "TopicName": "دیکھو ناچ رہا ہے مور",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 6,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 38,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 6,
+                "ChapterName": "سبق نمبر 9: میجر محمد طفیل شہید",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "TopicID": 101,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterID": 38,
+            "TopicRef": ".",
+            "TopicName": "میجر محمد طفیل شہید",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 6,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 39,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 6,
+                "ChapterName": "سبق نمبر 10: بھائی کے نام خط",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "TopicID": 102,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterID": 39,
+            "TopicRef": ".",
+            "TopicName": "بھائی کے نام خط",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 6,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 40,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 6,
+                "ChapterName": "سبق نمبر 11: صبح سویرے",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "TopicID": 103,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterID": 40,
+            "TopicRef": ".",
+            "TopicName": "صبح سویرے",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 6,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 41,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 6,
+                "ChapterName": "سبق نمبر 12: میرا گھر میرا گاؤں",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "TopicID": 104,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterID": 41,
+            "TopicRef": ".",
+            "TopicName": "میرا گھر میرا گاؤں",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 6,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 42,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 6,
+                "ChapterName": "سبق نمبر 13: کھیوڑہ کی سیر",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "TopicID": 105,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterID": 42,
+            "TopicRef": ".",
+            "TopicName": "کھیوڑہ کی سیر",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 6,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 43,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 6,
+                "ChapterName": "سبق نمبر 14: ہماری کائنات",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "TopicID": 106,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterID": 43,
+            "TopicRef": ".",
+            "TopicName": "ہماری کائنات",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 6,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 44,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 6,
+                "ChapterName": "سبق نمبر 15: ماں کا خواب",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "TopicID": 107,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterID": 44,
+            "TopicRef": ".",
+            "TopicName": "ماں کا خواب",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 6,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 45,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 6,
+                "ChapterName": "سبق نمبر 16: ہمارے پیشے",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "TopicID": 108,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterID": 45,
+            "TopicRef": ".",
+            "TopicName": "ہمارے پیشے",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 6,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 46,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 6,
+                "ChapterName": "سبق نمبر 17: میں سکاؤٹ بنوں گا",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "TopicID": 109,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterID": 46,
+            "TopicRef": ".",
+            "TopicName": "میں سکاؤٹ بنوں گا",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 6,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 47,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 6,
+                "ChapterName": "سبق نمبر 18: ٹوٹ بٹوٹ نے کھیر پکائی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "TopicID": 110,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterID": 47,
+            "TopicRef": ".",
+            "TopicName": "ٹوٹ بٹوٹ نے کھیر پکائی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 6,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 48,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 6,
+                "ChapterName": "سبق نمبر 19: ہمارا ماحول",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "TopicID": 111,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterID": 48,
+            "TopicRef": ".",
+            "TopicName": "ہمارا ماحول",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 6,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 49,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 6,
+                "ChapterName": "سبق نمبر 20: پاک چین دوستی",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "TopicID": 112,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterID": 49,
+            "TopicRef": ".",
+            "TopicName": "پاک چین دوستی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 6,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 50,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 6,
+                "ChapterName": "سبق نمبر 21: ایک گائے اور بکری",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "TopicID": 113,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterID": 50,
+            "TopicRef": ".",
+            "TopicName": "ایک گائے اور بکری",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 6,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 51,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 6,
+                "ChapterName": "سبق نمبر 22: احمد کی سمجھ داری",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "TopicID": 114,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterID": 51,
+            "TopicRef": ".",
+            "TopicName": "احمد کی سمجھ داری",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 6,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 52,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 6,
+                "ChapterName": "سبق نمبر 23: بہادر بچے",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "TopicID": 115,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterID": 52,
+            "TopicRef": ".",
+            "TopicName": "بہادر بچے",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 6,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1695,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 6,
+                "ChapterName": "اُردو (ب)",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3765,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterID": 1695,
+            "TopicRef": "1",
+            "TopicName": "مذکر مونث",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 6,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1695,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 6,
+                "ChapterName": "اُردو (ب)",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3766,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterID": 1695,
+            "TopicRef": "2",
+            "TopicName": "واحد جمع",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 6,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1695,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 6,
+                "ChapterName": "اُردو (ب)",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3767,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterID": 1695,
+            "TopicRef": "3",
+            "TopicName": "الفاظ متضاد",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 6,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1695,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 6,
+                "ChapterName": "اُردو (ب)",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3768,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterID": 1695,
+            "TopicRef": "4",
+            "TopicName": "اعراب لگائیں",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 6,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1695,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 6,
+                "ChapterName": "اُردو (ب)",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3769,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterID": 1695,
+            "TopicRef": "5",
+            "TopicName": "الفاظ مترادف",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 6,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1695,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 6,
+                "ChapterName": "اُردو (ب)",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3770,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterID": 1695,
+            "TopicRef": "6",
+            "TopicName": "جملوں کی درستگی",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 6,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1695,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 6,
+                "ChapterName": "اُردو (ب)",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3771,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterID": 1695,
+            "TopicRef": "7",
+            "TopicName": "درخواستیں",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 6,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1695,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 6,
+                "ChapterName": "اُردو (ب)",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3772,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterID": 1695,
+            "TopicRef": "8",
+            "TopicName": "خطوط",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 6,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1695,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 6,
+                "ChapterName": "اُردو (ب)",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3773,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterID": 1695,
+            "TopicRef": "9",
+            "TopicName": "کہانیاں",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 6,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "اُردو لازمی",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1695,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 6,
+                "ChapterName": "اُردو (ب)",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "اُردو لازمی",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3774,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 6,
+            "ChapterID": 1695,
+            "TopicRef": "10",
+            "TopicName": "مضامین",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

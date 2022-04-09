@@ -1,0 +1,5756 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 1,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterName": "UNIT 1: Numbers and Arithmetic Operations",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 2,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterName": "UNIT 2: HCF and LCM",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 3,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterName": "UNIT 3: Fractions",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 4,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterName": "UNIT 4: Decimals and Percentages",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 5,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterName": "UNIT 5: Distance, Time and Temperature",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 6,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterName": "UNIT 6: Unitary Method",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 7,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterName": "UNIT 7: Geometry",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 8,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterName": "UNIT 8: Perimeter and Area",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 9,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterName": "UNIT 9: Information Handling",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 1: Numbers and Arithmetic Operations",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 1,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 1,
+            "TopicRef": "1.1",
+            "TopicName": "EX: 1.1",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 1: Numbers and Arithmetic Operations",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 2,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 1,
+            "TopicRef": "1.2",
+            "TopicName": "EX: 1.2",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 1: Numbers and Arithmetic Operations",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 3,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 1,
+            "TopicRef": "1.3",
+            "TopicName": "EX: 1.3",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 1: Numbers and Arithmetic Operations",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 4,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 1,
+            "TopicRef": "1.4",
+            "TopicName": "EX: 1.4",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 1: Numbers and Arithmetic Operations",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 5,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 1,
+            "TopicRef": "1.5",
+            "TopicName": "EX: 1.5",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 1: Numbers and Arithmetic Operations",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 6,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 1,
+            "TopicRef": "1.6",
+            "TopicName": "EX: 1.6",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 1: Numbers and Arithmetic Operations",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 7,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 1,
+            "TopicRef": "1.7",
+            "TopicName": "EX: 1.7",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 1: Numbers and Arithmetic Operations",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 8,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 1,
+            "TopicRef": "1.8",
+            "TopicName": "EX: 1.8",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 1: Numbers and Arithmetic Operations",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 9,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 1,
+            "TopicRef": "1.9",
+            "TopicName": "EX: 1.9",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 1,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 1: Numbers and Arithmetic Operations",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 10,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 1,
+            "TopicRef": "1",
+            "TopicName": "Objective",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 2,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 2: HCF and LCM",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 11,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 2,
+            "TopicRef": "2.1",
+            "TopicName": "EX: 2.1",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 2,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 2: HCF and LCM",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 12,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 2,
+            "TopicRef": "2.2",
+            "TopicName": "EX: 2.2",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 2,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 2: HCF and LCM",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 13,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 2,
+            "TopicRef": "2.3",
+            "TopicName": "EX: 2.3",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 2,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 2: HCF and LCM",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 14,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 2,
+            "TopicRef": "2.4",
+            "TopicName": "EX: 2.4",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 2,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 2: HCF and LCM",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 15,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 2,
+            "TopicRef": "2.5",
+            "TopicName": "EX: 2.5",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 2,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 2: HCF and LCM",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 16,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 2,
+            "TopicRef": "2",
+            "TopicName": "Objective",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 3,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 3: Fractions",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 17,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 3,
+            "TopicRef": "3.1",
+            "TopicName": "EX: 3.1",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 3,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 3: Fractions",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 18,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 3,
+            "TopicRef": "3.2",
+            "TopicName": "EX: 3.2",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 3,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 3: Fractions",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 19,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 3,
+            "TopicRef": "3.3",
+            "TopicName": "EX: 3.3",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 3,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 3: Fractions",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 20,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 3,
+            "TopicRef": "3.4",
+            "TopicName": "EX: 3.4",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 3,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 3: Fractions",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 21,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 3,
+            "TopicRef": "3.5",
+            "TopicName": "EX: 3.5",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 3,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 3: Fractions",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 22,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 3,
+            "TopicRef": "3.6",
+            "TopicName": "EX: 3.6",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 3,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 3: Fractions",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 23,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 3,
+            "TopicRef": "3.7",
+            "TopicName": "EX: 3.7",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 3,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 3: Fractions",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 24,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 3,
+            "TopicRef": "3.8",
+            "TopicName": "EX: 3.8",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 3,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 3: Fractions",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 25,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 3,
+            "TopicRef": "3.9",
+            "TopicName": "EX: 3.9",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 3,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 3: Fractions",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 26,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 3,
+            "TopicRef": "3",
+            "TopicName": "Objective",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 4: Decimals and Percentages",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 27,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 4,
+            "TopicRef": "4.1",
+            "TopicName": "EX: 4.1",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 4: Decimals and Percentages",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 28,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 4,
+            "TopicRef": "4.2",
+            "TopicName": "EX: 4.2",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 4: Decimals and Percentages",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 29,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 4,
+            "TopicRef": "4.3",
+            "TopicName": "EX: 4.3",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 4: Decimals and Percentages",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 30,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 4,
+            "TopicRef": "4.4",
+            "TopicName": "EX: 4.4",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 4: Decimals and Percentages",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 31,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 4,
+            "TopicRef": "4.5",
+            "TopicName": "EX: 4.5",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 4: Decimals and Percentages",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 32,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 4,
+            "TopicRef": "4.6",
+            "TopicName": "EX: 4.6",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 4: Decimals and Percentages",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 33,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 4,
+            "TopicRef": "4.7",
+            "TopicName": "EX: 4.7",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 4: Decimals and Percentages",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 34,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 4,
+            "TopicRef": "4.8",
+            "TopicName": "EX: 4.8",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 4: Decimals and Percentages",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 35,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 4,
+            "TopicRef": "4",
+            "TopicName": "Objective",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 5,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 5: Distance, Time and Temperature",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 36,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 5,
+            "TopicRef": "5.1",
+            "TopicName": "EX: 5.1",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 5,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 5: Distance, Time and Temperature",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 37,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 5,
+            "TopicRef": "5.2",
+            "TopicName": "EX: 5.2",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 5,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 5: Distance, Time and Temperature",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 38,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 5,
+            "TopicRef": "5.3",
+            "TopicName": "EX: 5.3",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 5,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 5: Distance, Time and Temperature",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 39,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 5,
+            "TopicRef": "5.4",
+            "TopicName": "EX: 5.4",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 5,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 5: Distance, Time and Temperature",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 40,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 5,
+            "TopicRef": "5.5",
+            "TopicName": "EX: 5.5",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 5,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 5: Distance, Time and Temperature",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 41,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 5,
+            "TopicRef": "5",
+            "TopicName": "Objective",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 6: Unitary Method",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 42,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 6,
+            "TopicRef": "6.1",
+            "TopicName": "EX: 6.1",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 6: Unitary Method",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 43,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 6,
+            "TopicRef": "6.2",
+            "TopicName": "EX: 6.2",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 6,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 6: Unitary Method",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 44,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 6,
+            "TopicRef": "6",
+            "TopicName": "Objective",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 7,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 7: Geometry",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 46,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 7,
+            "TopicRef": "7.2",
+            "TopicName": "EX: 7.2",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 7,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 7: Geometry",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 47,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 7,
+            "TopicRef": "7.3",
+            "TopicName": "EX: 7.3",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 7,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 7: Geometry",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 48,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 7,
+            "TopicRef": "7",
+            "TopicName": "Objective",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 8,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 8: Perimeter and Area",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 49,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 8,
+            "TopicRef": "8.1",
+            "TopicName": "EX: 8.1",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 8,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 8: Perimeter and Area",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 50,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 8,
+            "TopicRef": "8.2",
+            "TopicName": "EX: 8.2",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 8,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 8: Perimeter and Area",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 51,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 8,
+            "TopicRef": "8",
+            "TopicName": "Objective",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 9,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 9: Information Handling",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 52,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 9,
+            "TopicRef": "9.1",
+            "TopicName": "EX: 9.1",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 9,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 9: Information Handling",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 53,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 9,
+            "TopicRef": "9.2",
+            "TopicName": "EX: 9.2",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 4,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Mathematics",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 9,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 4,
+                "ChapterName": "UNIT 9: Information Handling",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 4,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Mathematics",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+                "IsActive": true
+            },
+            "TopicID": 55,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 4,
+            "ChapterID": 9,
+            "TopicRef": "9",
+            "TopicName": "Objective",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

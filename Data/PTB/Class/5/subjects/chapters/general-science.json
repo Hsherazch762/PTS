@@ -1,0 +1,1207 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 2,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "General Science",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180220218940.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 14,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 2,
+            "ChapterName": "CHAP 1: Classification of Living Things",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 2,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "General Science",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180220218940.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 15,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 2,
+            "ChapterName": "CHAP 2: Microorganisms",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 2,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "General Science",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180220218940.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 16,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 2,
+            "ChapterName": "CHAP 3: Environmental Pollution",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 2,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "General Science",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180220218940.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 17,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 2,
+            "ChapterName": "CHAP 4: Matter and Changes in its States",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 2,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "General Science",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180220218940.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 18,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 2,
+            "ChapterName": "CHAP 5: Forces and Machines",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 2,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "General Science",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180220218940.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 19,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 2,
+            "ChapterName": "CHAP 6: Properties and Behavior of Light",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 2,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "General Science",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180220218940.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 20,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 2,
+            "ChapterName": "CHAP 7: Electricity and Magnetism",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 2,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "General Science",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180220218940.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 21,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 2,
+            "ChapterName": "CHAP 8: Solar System",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 2,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "General Science",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180220218940.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 14,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 2,
+                "ChapterName": "CHAP 1: Classification of Living Things",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 2,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "General Science",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180220218940.jpg",
+                "IsActive": true
+            },
+            "TopicID": 77,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 2,
+            "ChapterID": 14,
+            "TopicRef": ".",
+            "TopicName": "Classification Of Living Things",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 2,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "General Science",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180220218940.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 15,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 2,
+                "ChapterName": "CHAP 2: Microorganisms",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 2,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "General Science",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180220218940.jpg",
+                "IsActive": true
+            },
+            "TopicID": 78,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 2,
+            "ChapterID": 15,
+            "TopicRef": ".",
+            "TopicName": "Microorganisms",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 2,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "General Science",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180220218940.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 16,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 2,
+                "ChapterName": "CHAP 3: Environmental Pollution",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 2,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "General Science",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180220218940.jpg",
+                "IsActive": true
+            },
+            "TopicID": 79,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 2,
+            "ChapterID": 16,
+            "TopicRef": ".",
+            "TopicName": "Environmental Pollution",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 2,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "General Science",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180220218940.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 17,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 2,
+                "ChapterName": "CHAP 4: Matter and Changes in its States",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 2,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "General Science",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180220218940.jpg",
+                "IsActive": true
+            },
+            "TopicID": 80,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 2,
+            "ChapterID": 17,
+            "TopicRef": ".",
+            "TopicName": "Matter And Changes In Its States",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 2,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "General Science",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180220218940.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 18,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 2,
+                "ChapterName": "CHAP 5: Forces and Machines",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 2,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "General Science",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180220218940.jpg",
+                "IsActive": true
+            },
+            "TopicID": 81,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 2,
+            "ChapterID": 18,
+            "TopicRef": ".",
+            "TopicName": "Forces And Machines",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 2,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "General Science",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180220218940.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 19,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 2,
+                "ChapterName": "CHAP 6: Properties and Behavior of Light",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 2,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "General Science",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180220218940.jpg",
+                "IsActive": true
+            },
+            "TopicID": 82,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 2,
+            "ChapterID": 19,
+            "TopicRef": ".",
+            "TopicName": "Properties And Behavior Of Light",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 2,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "General Science",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180220218940.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 20,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 2,
+                "ChapterName": "CHAP 7: Electricity and Magnetism",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 2,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "General Science",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180220218940.jpg",
+                "IsActive": true
+            },
+            "TopicID": 83,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 2,
+            "ChapterID": 20,
+            "TopicRef": ".",
+            "TopicName": "Electricity And Magnetism",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 2,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "General Science",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180220218940.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 21,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 2,
+                "ChapterName": "CHAP 8: Solar System",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 2,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "General Science",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180220218940.jpg",
+                "IsActive": true
+            },
+            "TopicID": 84,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 2,
+            "ChapterID": 21,
+            "TopicRef": ".",
+            "TopicName": "Solar System",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

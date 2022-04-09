@@ -1,0 +1,136 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": [
+        {
+            "Class": {
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true,
+                "Course": null
+            },
+            "Course": { "CourseID": 1, "CourseName": "PTB", "IsActive": true },
+            "SubjectID": 1,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectName": "English",
+            "Category": "5TH",
+            "ImageUrl": "/Images/Subjects/637341179946302972.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": { "CourseID": 1, "CourseName": "PTB", "IsActive": true },
+            "SubjectID": 2,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectName": "General Science",
+            "Category": "5TH",
+            "ImageUrl": "/Images/Subjects/637341180220218940.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": { "CourseID": 1, "CourseName": "PTB", "IsActive": true },
+            "SubjectID": 3,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectName": "Social Studies",
+            "Category": "5TH",
+            "ImageUrl": "/Images/Subjects/637341180389530062.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": { "CourseID": 1, "CourseName": "PTB", "IsActive": true },
+            "SubjectID": 4,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectName": "Mathematics",
+            "Category": "5TH",
+            "ImageUrl": "/Images/Subjects/637341180572579951.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": { "CourseID": 1, "CourseName": "PTB", "IsActive": true },
+            "SubjectID": 5,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectName": "اسلامیات لازمی",
+            "Category": "5TH",
+            "ImageUrl": "/Images/Subjects/637341180758441841.jpg",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true,
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                }
+            },
+            "Course": { "CourseID": 1, "CourseName": "PTB", "IsActive": true },
+            "SubjectID": 6,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectName": "اُردو لازمی",
+            "Category": "5TH",
+            "ImageUrl": "/Images/Subjects/637341180892514235.jpg",
+            "IsActive": true
+        }
+    ],
+    "ChaptersList": null,
+    "TopicsList": null,
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}

@@ -1,0 +1,1207 @@
+{
+    "CoursesList": null,
+    "ClassesList": null,
+    "SubjectsList": null,
+    "ChaptersList": [
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 3,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Social Studies",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180389530062.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 22,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 3,
+            "ChapterName": "CHAP 1: Geography",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 3,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Social Studies",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180389530062.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 23,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 3,
+            "ChapterName": "CHAP 2: Physical Regions of Pakistan",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 3,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Social Studies",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180389530062.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 24,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 3,
+            "ChapterName": "CHAP 3: Climate of Pakistan",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 3,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Social Studies",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180389530062.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 25,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 3,
+            "ChapterName": "CHAP 4: History",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 3,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Social Studies",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180389530062.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 26,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 3,
+            "ChapterName": "CHAP 5: Federal System of Government",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 3,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Social Studies",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180389530062.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 27,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 3,
+            "ChapterName": "CHAP 6: Means of Communication",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 3,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Social Studies",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180389530062.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 28,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 3,
+            "ChapterName": "CHAP 7: Culture",
+            "IsActive": true
+        },
+        {
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 3,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Social Studies",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180389530062.jpg",
+                "IsActive": true
+            },
+            "ChapterID": 29,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 3,
+            "ChapterName": "CHAP 8: Economics",
+            "IsActive": true
+        }
+    ],
+    "TopicsList": [
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 3,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Social Studies",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180389530062.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 22,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 3,
+                "ChapterName": "CHAP 1: Geography",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 3,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Social Studies",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180389530062.jpg",
+                "IsActive": true
+            },
+            "TopicID": 85,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 3,
+            "ChapterID": 22,
+            "TopicRef": ".",
+            "TopicName": "Geography",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 3,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Social Studies",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180389530062.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 23,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 3,
+                "ChapterName": "CHAP 2: Physical Regions of Pakistan",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 3,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Social Studies",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180389530062.jpg",
+                "IsActive": true
+            },
+            "TopicID": 86,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 3,
+            "ChapterID": 23,
+            "TopicRef": ".",
+            "TopicName": "Physical Regions Of Pakistan",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 3,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Social Studies",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180389530062.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 24,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 3,
+                "ChapterName": "CHAP 3: Climate of Pakistan",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 3,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Social Studies",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180389530062.jpg",
+                "IsActive": true
+            },
+            "TopicID": 87,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 3,
+            "ChapterID": 24,
+            "TopicRef": ".",
+            "TopicName": "Climate Of Pakistan",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 3,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Social Studies",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180389530062.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 25,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 3,
+                "ChapterName": "CHAP 4: History",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 3,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Social Studies",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180389530062.jpg",
+                "IsActive": true
+            },
+            "TopicID": 88,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 3,
+            "ChapterID": 25,
+            "TopicRef": ".",
+            "TopicName": "History",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 3,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Social Studies",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180389530062.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 26,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 3,
+                "ChapterName": "CHAP 5: Federal System of Government",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 3,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Social Studies",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180389530062.jpg",
+                "IsActive": true
+            },
+            "TopicID": 89,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 3,
+            "ChapterID": 26,
+            "TopicRef": ".",
+            "TopicName": "Federal System Of Government",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 3,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Social Studies",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180389530062.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 27,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 3,
+                "ChapterName": "CHAP 6: Means of Communication",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 3,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Social Studies",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180389530062.jpg",
+                "IsActive": true
+            },
+            "TopicID": 90,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 3,
+            "ChapterID": 27,
+            "TopicRef": ".",
+            "TopicName": "Means Of Communication",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 3,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Social Studies",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180389530062.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 28,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 3,
+                "ChapterName": "CHAP 7: Culture",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 3,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Social Studies",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180389530062.jpg",
+                "IsActive": true
+            },
+            "TopicID": 91,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 3,
+            "ChapterID": 28,
+            "TopicRef": ".",
+            "TopicName": "Culture",
+            "IsActive": true
+        },
+        {
+            "Chapter": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "Subject": {
+                    "Class": {
+                        "Course": {
+                            "CourseID": 1,
+                            "CourseName": "PTB",
+                            "IsActive": true
+                        },
+                        "ClassID": 5,
+                        "CourseID": 1,
+                        "ClassName": "5TH",
+                        "IsActive": true
+                    },
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "SubjectID": 3,
+                    "CourseID": 1,
+                    "ClassID": 5,
+                    "SubjectName": "Social Studies",
+                    "Category": "5TH",
+                    "ImageUrl": "/Images/Subjects/637341180389530062.jpg",
+                    "IsActive": true
+                },
+                "ChapterID": 29,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectID": 3,
+                "ChapterName": "CHAP 8: Economics",
+                "IsActive": true
+            },
+            "Class": {
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "ClassID": 5,
+                "CourseID": 1,
+                "ClassName": "5TH",
+                "IsActive": true
+            },
+            "Course": {
+                "CourseID": 1,
+                "CourseName": "PTB",
+                "IsActive": true
+            },
+            "Subject": {
+                "Class": {
+                    "Course": {
+                        "CourseID": 1,
+                        "CourseName": "PTB",
+                        "IsActive": true
+                    },
+                    "ClassID": 5,
+                    "CourseID": 1,
+                    "ClassName": "5TH",
+                    "IsActive": true
+                },
+                "Course": {
+                    "CourseID": 1,
+                    "CourseName": "PTB",
+                    "IsActive": true
+                },
+                "SubjectID": 3,
+                "CourseID": 1,
+                "ClassID": 5,
+                "SubjectName": "Social Studies",
+                "Category": "5TH",
+                "ImageUrl": "/Images/Subjects/637341180389530062.jpg",
+                "IsActive": true
+            },
+            "TopicID": 92,
+            "CourseID": 1,
+            "ClassID": 5,
+            "SubjectID": 3,
+            "ChapterID": 29,
+            "TopicRef": ".",
+            "TopicName": "Economics",
+            "IsActive": true
+        }
+    ],
+    "Course": null,
+    "Class": null,
+    "Subject": null,
+    "School": null,
+    "Teacher": null,
+    "SavedPaper": null
+}
